@@ -1,0 +1,128 @@
+{
+  "parsed_at": "2025-12-09T20:44:58.192821",
+  "total_matches": 3,
+  "athletes": {
+    "AL MUKHALIS MOHAMMED JWAIED": {
+      "wins": 0,
+      "losses": 3,
+      "matches": [
+        {
+          "event": "2025 WORLD CHAMPIONSHIPS - MASTERS",
+          "category": "MASTER 2  JIU-JITSU MALE -69 KG",
+          "round": "Main Tree Pool 1 - Round 1",
+          "red": {
+            "name": "AL MUKHALIS MOHAMMED JWAIED",
+            "country": "KSA",
+            "federation": "SAUDI JIU JITSU FEDERATION",
+            "score": 4
+          },
+          "blue": {
+            "name": "ERMAKOV IURII",
+            "country": "AIN",
+            "federation": "INDIVIDUAL NEUTRAL ATHLETES",
+            "score": 4
+          },
+          "winner": null,
+          "winner_country": null
+        },
+        {
+          "event": "2025 WORLD CHAMPIONSHIPS - MASTERS",
+          "category": "MASTER 2  JIU-JITSU MALE -69 KG",
+          "round": "Main Tree Pool 1 - Round 2",
+          "red": {
+            "name": "ATLASOV BULAT",
+            "country": "AIN",
+            "federation": "INDIVIDUAL NEUTRAL ATHLETES",
+            "score": 2
+          },
+          "blue": {
+            "name": "AL MUKHALIS MOHAMMED JWAIED",
+            "country": "KSA",
+            "federation": "SAUDI JIU JITSU FEDERATION",
+            "score": 2
+          },
+          "winner": null,
+          "winner_country": null
+        },
+        {
+          "event": "2025 WORLD CHAMPIONSHIPS - MASTERS",
+          "category": "MASTER 2  JIU-JITSU MALE -69 KG",
+          "round": "Main Tree Pool 1 - Round 3",
+          "red": {
+            "name": "ZEMMA OLIVIER",
+            "country": "FRA",
+            "federation": "FEDERATION FRANÇAISE DE JUDO, JUJITSU, KENDO ET DA",
+            "score": 0
+          },
+          "blue": {
+            "name": "AL MUKHALIS MOHAMMED JWAIED",
+            "country": "KSA",
+            "federation": "SAUDI JIU JITSU FEDERATION",
+            "score": 0
+          },
+          "winner": null,
+          "winner_country": null
+        }
+      ]
+    }
+  },
+  "matches": [
+    {
+      "event": "2025 WORLD CHAMPIONSHIPS - MASTERS",
+      "category": "MASTER 2  JIU-JITSU MALE -69 KG",
+      "round": "Main Tree Pool 1 - Round 1",
+      "red": {
+        "name": "AL MUKHALIS MOHAMMED JWAIED",
+        "country": "KSA",
+        "federation": "SAUDI JIU JITSU FEDERATION",
+        "score": 4
+      },
+      "blue": {
+        "name": "ERMAKOV IURII",
+        "country": "AIN",
+        "federation": "INDIVIDUAL NEUTRAL ATHLETES",
+        "score": 4
+      },
+      "winner": null,
+      "winner_country": null
+    },
+    {
+      "event": "2025 WORLD CHAMPIONSHIPS - MASTERS",
+      "category": "MASTER 2  JIU-JITSU MALE -69 KG",
+      "round": "Main Tree Pool 1 - Round 2",
+      "red": {
+        "name": "ATLASOV BULAT",
+        "country": "AIN",
+        "federation": "INDIVIDUAL NEUTRAL ATHLETES",
+        "score": 2
+      },
+      "blue": {
+        "name": "AL MUKHALIS MOHAMMED JWAIED",
+        "country": "KSA",
+        "federation": "SAUDI JIU JITSU FEDERATION",
+        "score": 2
+      },
+      "winner": null,
+      "winner_country": null
+    },
+    {
+      "event": "2025 WORLD CHAMPIONSHIPS - MASTERS",
+      "category": "MASTER 2  JIU-JITSU MALE -69 KG",
+      "round": "Main Tree Pool 1 - Round 3",
+      "red": {
+        "name": "ZEMMA OLIVIER",
+        "country": "FRA",
+        "federation": "FEDERATION FRANÇAISE DE JUDO, JUJITSU, KENDO ET DA",
+        "score": 0
+      },
+      "blue": {
+        "name": "AL MUKHALIS MOHAMMED JWAIED",
+        "country": "KSA",
+        "federation": "SAUDI JIU JITSU FEDERATION",
+        "score": 0
+      },
+      "winner": null,
+      "winner_country": null
+    }
+  ]
+}

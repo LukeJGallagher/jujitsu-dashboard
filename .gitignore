@@ -1,0 +1,46 @@
+# Streamlit Deployment - .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment
+.env
+.env.local
+.env.template
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# Large/unnecessary folders
+Brackets/
+Cache/
+Archive/
+Archive_Scrapers/
+agents/
+Athletes/
+Progressions/
+.claude/
+.streamlit/
+
+# Profiles folder (use all_profiles.json in Results/ instead)
+Profiles/
+
+# Data subfolders
+Data/
+
+# Unnecessary files
+*.log
+*.bat
+*.html
+cleanup_for_deploy.py
+IMPROVEMENT_PLAN.md
+asian_events_priority.json
+verified_asian_events.json
+event_mappings_clean.json
