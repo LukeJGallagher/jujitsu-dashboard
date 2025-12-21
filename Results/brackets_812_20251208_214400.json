@@ -1,0 +1,1023 @@
+{
+  "verid": "812",
+  "event_name": "2024 WORLD CHAMPIONSHIPS - U16-U18-U21 (GRE)",
+  "scraped_at": "2025-12-08T21:41:21.196313",
+  "categories": [
+    {
+      "catid": "5554",
+      "category": "MASTER 1 JIU-JITSU FEMALE -48 KG",
+      "competitors": [
+        {
+          "name": "TREMEL  MARION",
+          "country": "AUT"
+        },
+        {
+          "name": "HAN JI YEON  JIU-JITSU ASSOCIATION OF KOREA",
+          "country": "KOR"
+        }
+      ]
+    },
+    {
+      "catid": "5557",
+      "category": "MASTER 1 JIU-JITSU FEMALE -63 KG",
+      "competitors": [
+        {
+          "name": "GLOVER RACHEL  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "ATLASOVA ALEKSANDRA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "FRANCIS ASHLEY  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "5280",
+      "category": "MASTER 1 JIU-JITSU MALE +94 KG",
+      "competitors": [
+        {
+          "name": "TUMUR NEMEKHBAYAR  MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "MENESES BARBOSA WENDELL  WORLD PARA JIU JITSU FEDERATION",
+          "country": "BRA"
+        },
+        {
+          "name": "PLANTARD ALEXIS  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "DARIE VLAD GEORGE  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "DIMITROVSKI ANTONIO  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "GANBAATAR AVARZED  MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        }
+      ]
+    },
+    {
+      "catid": "5275",
+      "category": "MASTER 1 JIU-JITSU MALE -62 KG",
+      "competitors": [
+        {
+          "name": "MANGUBAT MYRON MYLES  JIU-JITSU FEDERATION OF THE PHILIPPINES INC.",
+          "country": "PHI"
+        },
+        {
+          "name": "BAT-ERDENE BUDEEROZA  MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "RINCON JOHAN BYRON  FEDERACION COLOMBIANA DE JIU-JITSU",
+          "country": "COL"
+        }
+      ]
+    },
+    {
+      "catid": "5276",
+      "category": "MASTER 1 JIU-JITSU MALE -69 KG",
+      "competitors": [
+        {
+          "name": "LANGKUNG RADE  JU-JITSU ASSOCIATION OF INDIA",
+          "country": "IND"
+        },
+        {
+          "name": "WHEELER KEVIN  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "JEONG CHEOL SOO  JIU-JITSU ASSOCIATION OF KOREA",
+          "country": "KOR"
+        },
+        {
+          "name": "ISMAEEL ISA  JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        },
+        {
+          "name": "FAURILLO ARLAN HUBERT  JIU-JITSU FEDERATION OF THE PHILIPPINES INC.",
+          "country": "PHI"
+        },
+        {
+          "name": "RAHMET TAGANOV  TURKMENISTAN NATIONAL MARTIAL ARTS FEDERATION",
+          "country": "TKM"
+        },
+        {
+          "name": "IVANOV DMITRII  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "HART ANDREW  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "5277",
+      "category": "MASTER 1 JIU-JITSU MALE -77 KG",
+      "competitors": [
+        {
+          "name": "STAN MARIUS ALEXANDRU  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "NEASE ERIC  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "KUMAR LOKESH  JU-JITSU ASSOCIATION OF INDIA",
+          "country": "IND"
+        },
+        {
+          "name": "BEKKOZHIN AIBEK  KAZAKHSTAN JIU JITSU ASSOCIATION",
+          "country": "KAZ"
+        },
+        {
+          "name": "AL-DOSERI  BADER  JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        },
+        {
+          "name": "HEMMINGS DARSON  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "MAMMADOV NEMAT  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "TANG ROGER  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "5278",
+      "category": "MASTER 1 JIU-JITSU MALE -85 KG",
+      "competitors": [
+        {
+          "name": "DOS SANTOS NATHAN  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "OCHIRKHUYAG MUNKHTULGA  MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "IAKOVIDIS GEORGIOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "GOEBEL MARCO  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "AGHAPOUR IMAN  JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "PUREV BUYANTUGS  MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "MENDBAYAR MUNKHTULGA  MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        }
+      ]
+    },
+    {
+      "catid": "5279",
+      "category": "MASTER 1 JIU-JITSU MALE -94 KG",
+      "competitors": [
+        {
+          "name": "ARELLANO ROMEO JOHN ALFRED RAPHAEL  JIU-JITSU FEDERATION OF THE PHILIPPINES INC.",
+          "country": "PHI"
+        },
+        {
+          "name": "FAGNANT CARL  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "KUSSAINOV RAMAZAN  KAZAKHSTAN JIU JITSU ASSOCIATION",
+          "country": "KAZ"
+        },
+        {
+          "name": "EZENMUNKH MUNKHSUKH  MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        }
+      ]
+    },
+    {
+      "catid": "17088",
+      "category": "MASTER 1 JU-JITSU FIGHTING MALE +94 KG",
+      "competitors": [
+        {
+          "name": "DARIE VLAD GEORGE  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "GANBAATAR AVARZED  MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "RUBTSOV LEONID  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        }
+      ]
+    },
+    {
+      "catid": "17092",
+      "category": "MASTER 1 JU-JITSU FIGHTING MALE -77 KG",
+      "competitors": [
+        {
+          "name": "LANGKUNG RADE  JU-JITSU ASSOCIATION OF INDIA",
+          "country": "IND"
+        },
+        {
+          "name": "RAHAMAN MD AREFUR  BANGLADESH JU-JITSU ASSOCIATION",
+          "country": "BAN"
+        },
+        {
+          "name": "MIANOE BRUCE  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "SYDYKOV TIMUR  KAZAKHSTAN JIU JITSU ASSOCIATION",
+          "country": "KAZ"
+        },
+        {
+          "name": "ARAGHI ALI  JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "CARRILLO FLORIAN  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "KUMAR LOKESH  JU-JITSU ASSOCIATION OF INDIA",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "17093",
+      "category": "MASTER 1 JU-JITSU FIGHTING MALE -85 KG",
+      "competitors": [
+        {
+          "name": "KASMON KASBANI  JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "AL-LAMI WISAM  IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "AGHAPOUR IMAN  JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "PETRENKO MAKSYM  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        }
+      ]
+    },
+    {
+      "catid": "17094",
+      "category": "MASTER 1 JU-JITSU FIGHTING MALE -94 KG",
+      "competitors": [
+        {
+          "name": "KUSSAINOV RAMAZAN  KAZAKHSTAN JIU JITSU ASSOCIATION",
+          "country": "KAZ"
+        },
+        {
+          "name": "DUPONT BAPTISTE  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "KRAWCZUK PAWEL  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "MPUTU CHRISTOPHE  RDC ATHLETES",
+          "country": "COD"
+        }
+      ]
+    },
+    {
+      "catid": "17217",
+      "category": "MASTER 1 JU-JITSU SHOW MEN",
+      "competitors": []
+    },
+    {
+      "catid": "5281",
+      "category": "MASTER 2  JIU-JITSU MALE +94 KG",
+      "competitors": [
+        {
+          "name": "BUCKLEY ANDREW  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "LUIT MEDDY  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "AL-ARADI  AHMED  JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        },
+        {
+          "name": "SRISOPARP WUTTIKRAI  JU JITSU ASSOCIATION OF THAILAND",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "5284",
+      "category": "MASTER 2  JIU-JITSU MALE -69 KG",
+      "competitors": [
+        {
+          "name": "ZEMMA OLIVIER  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "KUCHAEV DMITRY  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "LIU JEFFREY  UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "DASHTSEREN ARIUNBAYAR  MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "ALKAABI OBAID  UAE JIU-JITSU FEDERATION",
+          "country": "UAE"
+        },
+        {
+          "name": "ATLASOV BULAT  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "AL MUKHALIS MOHAMMED JWAIED  SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "ERMAKOV IURII  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "5286",
+      "category": "MASTER 2  JIU-JITSU MALE -85 KG",
+      "competitors": [
+        {
+          "name": "ARTSIMOVYCH MYKHAILO  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "BERMUKHAMBETOV MURAT  KAZAKHSTAN JIU JITSU ASSOCIATION",
+          "country": "KAZ"
+        },
+        {
+          "name": "PETRENKO MAKSYM  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "LEE DONG YOUNG  JIU-JITSU ASSOCIATION OF KOREA",
+          "country": "KOR"
+        }
+      ]
+    },
+    {
+      "catid": "5287",
+      "category": "MASTER 2  JIU-JITSU MALE -94 KG",
+      "competitors": [
+        {
+          "name": "NOVIKOV VASYL  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "AKUDOVICH VITALY  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "HENSLEY GARY  UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "KHUDHUR ALI  IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        }
+      ]
+    },
+    {
+      "catid": "5565",
+      "category": "MASTER 2 JIU-JITSU FEMALE -57 KG",
+      "competitors": [
+        {
+          "name": "HOANG THI THU THUONG  VIETNAM JUJITSU FEDERATION",
+          "country": "VIE"
+        },
+        {
+          "name": "VARRAL CHRYSTEL  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "LING LING LUO  JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "CLARK LINDEN  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "LAVION BOKOVZA GALI  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "5561",
+      "category": "MASTER 2 JIU-JITSU FEMALE -70 KG",
+      "competitors": [
+        {
+          "name": "URSCHINGER NICOLE",
+          "country": "AUT"
+        },
+        {
+          "name": "DHEKIAL PHUKEN JURY  JU-JITSU ASSOCIATION OF INDIA",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "17141",
+      "category": "MASTER 2 JU-JITSU DUO MEN",
+      "competitors": []
+    },
+    {
+      "catid": "17229",
+      "category": "MASTER 2 JU-JITSU DUO MEN WORLD R2-G1",
+      "competitors": []
+    },
+    {
+      "catid": "17230",
+      "category": "MASTER 2 JU-JITSU DUO MEN WORLD R3-G1",
+      "competitors": []
+    },
+    {
+      "catid": "17231",
+      "category": "MASTER 2 JU-JITSU DUO MEN WORLD R4-SF",
+      "competitors": []
+    },
+    {
+      "catid": "17232",
+      "category": "MASTER 2 JU-JITSU DUO MEN WORLD R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "17095",
+      "category": "MASTER 2 JU-JITSU FIGHTING FEMALE +70 KG",
+      "competitors": [
+        {
+          "name": "ITU NAHIDA AHMED  BANGLADESH JU-JITSU ASSOCIATION",
+          "country": "BAN"
+        },
+        {
+          "name": "LUGO ALEJANDRA  FEDERACION COLOMBIANA DE JIU-JITSU",
+          "country": "COL"
+        }
+      ]
+    },
+    {
+      "catid": "17099",
+      "category": "MASTER 2 JU-JITSU FIGHTING FEMALE -57 KG",
+      "competitors": [
+        {
+          "name": "BAROU ELODIE  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "LIM HSIAO PING ALVINA  JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "LING LING LUO  JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        }
+      ]
+    },
+    {
+      "catid": "17101",
+      "category": "MASTER 2 JU-JITSU FIGHTING FEMALE -70 KG",
+      "competitors": [
+        {
+          "name": "DR BORGMANN ALEXANDRA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "AHMED MUKTA  BANGLADESH JU-JITSU ASSOCIATION",
+          "country": "BAN"
+        },
+        {
+          "name": "DHEKIAL PHUKEN JURY  JU-JITSU ASSOCIATION OF INDIA",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "17102",
+      "category": "MASTER 2 JU-JITSU FIGHTING MALE +94 KG",
+      "competitors": [
+        {
+          "name": "LUIT MEDDY  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "STEPANOV EGOR  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SCHUBERT SOEREN  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "catid": "17105",
+      "category": "MASTER 2 JU-JITSU FIGHTING MALE -69 KG",
+      "competitors": [
+        {
+          "name": "KUCHAEV DMITRY  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SORIF MD  BANGLADESH JU-JITSU ASSOCIATION",
+          "country": "BAN"
+        },
+        {
+          "name": "REQUIER THIERRY  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "ISLAM MD SYFUL  BANGLADESH JU-JITSU ASSOCIATION",
+          "country": "BAN"
+        },
+        {
+          "name": "GURBANOV EMIL  AZERBAIJAN REPUBLIC JAPANESE MARTIAL ARTS AND CULTURAL ASSOCIATION",
+          "country": "AZE"
+        }
+      ]
+    },
+    {
+      "catid": "17106",
+      "category": "MASTER 2 JU-JITSU FIGHTING MALE -77 KG",
+      "competitors": [
+        {
+          "name": "HAJIHASHEMI IMAN  UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "TIEN BUI DINH  VIETNAM JUJITSU FEDERATION",
+          "country": "VIE"
+        },
+        {
+          "name": "BELOV ROMAN  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "TAIBAGAROV ARMAN  KAZAKHSTAN JIU JITSU ASSOCIATION",
+          "country": "KAZ"
+        },
+        {
+          "name": "BIEGANSKI GRZEGORZ  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "OUABEL MEHDI  FEDERATION FRAN",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "catid": "17108",
+      "category": "MASTER 2 JU-JITSU FIGHTING MALE -94 KG",
+      "competitors": [
+        {
+          "name": "BOROWIEC ANDRZEJ  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "SCHEIBE MARTIN  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "BASTAREAUD GAEL  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "KHUDHUR ALI  IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "IBISHOV ELSHAN  AZERBAIJAN REPUBLIC JAPANESE MARTIAL ARTS AND CULTURAL ASSOCIATION",
+          "country": "AZE"
+        }
+      ]
+    },
+    {
+      "catid": "17059",
+      "category": "MASTER 3 JIU-JITSU MALE +94 KG",
+      "competitors": [
+        {
+          "name": "RAMIC ALEN",
+          "country": "AUT"
+        },
+        {
+          "name": "BOWEN RYAN  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "MIHAITA TUDOR  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "BLAGOJEVIC SVJETLAN  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        }
+      ]
+    },
+    {
+      "catid": "17064",
+      "category": "MASTER 3 JIU-JITSU MALE -77 KG",
+      "competitors": [
+        {
+          "name": "ERCOLE IGOR  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "MIRCEA COSMIN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "FRASER JOHN  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "17065",
+      "category": "MASTER 3 JIU-JITSU MALE -85 KG",
+      "competitors": [
+        {
+          "name": "RIQUOIR LAURENT  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "SANTOS JEFFREY  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "ELIAS DAVID  UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "WOODRUFF DEREK  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "DOS SANTOS SANTORO MOISES  WORLD PARA JIU JITSU FEDERATION",
+          "country": "BRA"
+        }
+      ]
+    },
+    {
+      "catid": "17066",
+      "category": "MASTER 3 JIU-JITSU MALE -94 KG",
+      "competitors": [
+        {
+          "name": "LIBARIAN GEORGE  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "DIEGO SOUZA  FEDERACI",
+          "country": "URU"
+        },
+        {
+          "name": "COSARCA CATALIN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "BOSKOVIC SRDJAN  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "CHUONG QUACH  VIETNAM JUJITSU FEDERATION",
+          "country": "VIE"
+        },
+        {
+          "name": "GOZALI HAIM  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "CUMBERBATCH SEAN  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "17112",
+      "category": "MASTER 3 JU-JITSU FIGHTING FEMALE -52 KG",
+      "competitors": [
+        {
+          "name": "AMZA NORLELA  JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "PFLEFKA ANDREA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "TREMEL  MARION",
+          "country": "AUT"
+        }
+      ]
+    },
+    {
+      "catid": "17116",
+      "category": "MASTER 3 JU-JITSU FIGHTING MALE +94 KG",
+      "competitors": [
+        {
+          "name": "BLAGOJEVIC SVJETLAN  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        },
+        {
+          "name": "LEE TAYBREN  UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "BOWEN RYAN  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "17118",
+      "category": "MASTER 3 JU-JITSU FIGHTING MALE -62 KG",
+      "competitors": [
+        {
+          "name": "WANG YEH-HAO  TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "ELIET JEROME  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "LUMA-ANG CARTER  JIU-JITSU FEDERATION OF THE PHILIPPINES INC.",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "17121",
+      "category": "MASTER 3 JU-JITSU FIGHTING MALE -85 KG",
+      "competitors": [
+        {
+          "name": "LIXANDRU VIOREL  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "BASTERREIX DANIEL  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "LEGRAND DAVID  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "DAVOODI ALIREZA  JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "RIQUOIR LAURENT  FEDERATION FRAN",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "catid": "17122",
+      "category": "MASTER 3 JU-JITSU FIGHTING MALE -94 KG",
+      "competitors": [
+        {
+          "name": "CHUONG QUACH  VIETNAM JUJITSU FEDERATION",
+          "country": "VIE"
+        },
+        {
+          "name": "KRASNOZHON ANATOLII  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "TRANCHAND MARC  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "ZHIGULSKII ROMAN  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "17073",
+      "category": "MASTER 4 JIU-JITSU FEMALE -70 KG",
+      "competitors": [
+        {
+          "name": "KARAOULANI FOTEINI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "ROMALDI SONIA  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "DURASIN JENNIFER  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "17074",
+      "category": "MASTER 4 JIU-JITSU MALE +94 KG",
+      "competitors": [
+        {
+          "name": "FANOU FRANCK  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "DUARTE PEDRO  FEDERA",
+          "country": "BRA"
+        },
+        {
+          "name": "RADZIEVSKII EGOR  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "17076",
+      "category": "MASTER 4 JIU-JITSU MALE -62 KG",
+      "competitors": [
+        {
+          "name": "SALGADO RUBIO MIGUEL ANTONIO  FEDERACION COLOMBIANA DE JIU-JITSU",
+          "country": "COL"
+        },
+        {
+          "name": "MUTLU UNVER YAKUP  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "LKHANTSOO BOLD  MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        }
+      ]
+    },
+    {
+      "catid": "17077",
+      "category": "MASTER 4 JIU-JITSU MALE -69 KG",
+      "competitors": [
+        {
+          "name": "WAROQUIER FRANCK  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "BIRMINGHAM TREVOR  GREAT BRITAIN JUJITSU",
+          "country": "GBR"
+        },
+        {
+          "name": "TOBIASEN CLAUS  JU-JITSU DANMARK",
+          "country": "DEN"
+        }
+      ]
+    },
+    {
+      "catid": "17078",
+      "category": "MASTER 4 JIU-JITSU MALE -77 KG",
+      "competitors": [
+        {
+          "name": "MCGARRY MICHAEL  GREAT BRITAIN JUJITSU",
+          "country": "GBR"
+        },
+        {
+          "name": "BAYLON JOHN  JIU-JITSU FEDERATION OF THE PHILIPPINES INC.",
+          "country": "PHI"
+        },
+        {
+          "name": "BRATHE LASSE  NORWEGIAN MARTIAL ARTS FEDERATION",
+          "country": "NOR"
+        },
+        {
+          "name": "VAN RIJT MICHEL  JUDO BOND NEDERLAND",
+          "country": "NED"
+        },
+        {
+          "name": "VOGIANTZIS ANTONIOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "KHAROUBA HUSAM  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "17079",
+      "category": "MASTER 4 JIU-JITSU MALE -85 KG",
+      "competitors": [
+        {
+          "name": "ZULICK FERNANDO  CANADIAN JIU JITSU ASSOCIATION",
+          "country": "CAN"
+        },
+        {
+          "name": "BATCHULUUN ENKHTUVSHIN  MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "BURCZYNSKI FRANK  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "catid": "17130",
+      "category": "MASTER 4 JU-JITSU FIGHTING MALE +94 KG",
+      "competitors": [
+        {
+          "name": "STOCKS PATRIK  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "ENRIQUEZ BARBA HERMANN GIOVANNI  FEDERACION COLOMBIANA DE JIU-JITSU",
+          "country": "COL"
+        },
+        {
+          "name": "GEE ALEX  GREAT BRITAIN JUJITSU",
+          "country": "GBR"
+        }
+      ]
+    },
+    {
+      "catid": "17133",
+      "category": "MASTER 4 JU-JITSU FIGHTING MALE -69 KG",
+      "competitors": [
+        {
+          "name": "OUABEL KARIM  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "BIRMINGHAM TREVOR  GREAT BRITAIN JUJITSU",
+          "country": "GBR"
+        },
+        {
+          "name": "GASPARD GILLES  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "TOBIASEN CLAUS  JU-JITSU DANMARK",
+          "country": "DEN"
+        }
+      ]
+    },
+    {
+      "catid": "17134",
+      "category": "MASTER 4 JU-JITSU FIGHTING MALE -77 KG",
+      "competitors": [
+        {
+          "name": "KOROTKIKH EVGENY  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "VAN RIJT MICHEL  JUDO BOND NEDERLAND",
+          "country": "NED"
+        },
+        {
+          "name": "ZHIDIAEV VLADIMIR  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "MCGARRY MICHAEL  GREAT BRITAIN JUJITSU",
+          "country": "GBR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3027 @@
+{
+  "verid": "814",
+  "event_name": "2025 WORLD CUP - U14",
+  "scraped_at": "2025-12-10T21:10:52.531259",
+  "categories": [
+    {
+      "catid": "4289",
+      "category": "U14 JIU-JITSU FEMALE +57 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4289.html",
+      "competitors": [
+        {
+          "name": "MALIWAN PIMCHANOK JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SIMCHENKO SABRINA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "RATTANASOPA URATSAYA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MUSOKHRANOVA TATIANA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "4282",
+      "category": "U14 JIU-JITSU FEMALE -32 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4282.html",
+      "competitors": [
+        {
+          "name": "CABREROS MEGAN LOUISE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "TONGTAN JIDAPA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "LU AISHA SCARLETT JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "MILAS ANDREA JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "ALIEV ASIYA DILNUR JUDO AND JU-JITSU ASSOCIATION OF IOPIAETH",
+          "country": "ETH"
+        },
+        {
+          "name": "ZINOVEVA VALERIIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "LU MISCHA VIOLET JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SAWATDEE WARATCHAYA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "TONGTAN JIDAPA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "MILAS ANDREA JU-JITSU FEDERATION OF MONTENEGRO\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MNE",
+          "country": "MNE"
+        },
+        {
+          "name": "LU MISCHA VIOLET JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ALIEV ASIYA DILNUR JUDO AND JU-JITSU ASSOCIATION OF IOPIAETH\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ETH",
+          "country": "ETH"
+        },
+        {
+          "name": "SAWATDEE WARATCHAYA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "LU AISHA SCARLETT JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "4283",
+      "category": "U14 JIU-JITSU FEMALE -36 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4283.html",
+      "competitors": [
+        {
+          "name": "NGUYEN DIEU LINH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "YELYUBAYEVA YASMINA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KIRIYA SUWICHAYA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SHLIAKHTINA MARIIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "LIN ALYSSA UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "ABELLA KYRA VICTORIA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "DUONG GIA HAN CAO TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "HEINSOHN BAILEY JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "THEPCHOMPOO CHALISA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "YEN NHI NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "DALESSANDRO GIULIA FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "THI DAN THUY HOANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KHAIRUTDINOVA SOFIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "NUANCHAN ARAYA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ANDERSON PHOENIX ADIAN JIU JITSU ASSOCIATIONCAN",
+          "country": "CAN"
+        },
+        {
+          "name": "ANDERSON PHOENIX ADIAN JIU JITSU ASSOCIATIONCAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CAN",
+          "country": "CAN"
+        },
+        {
+          "name": "NUANCHAN ARAYA JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "NUANCHAN ARAYA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "DALESSANDRO GIULIA FIJLKAM\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ITA",
+          "country": "ITA"
+        },
+        {
+          "name": "DALESSANDRO GIULIA FIJLKAM\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ITA",
+          "country": "ITA"
+        },
+        {
+          "name": "KIRIYA SUWICHAYA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "THEPCHOMPOO CHALISA JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "THI DAN THUY HOANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THEPCHOMPOO CHALISA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "DUONG GIA HAN CAO TNAM JUJITSU FEDERATIONVIE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "DUONG GIA HAN CAO TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "YEN NHI NGUYEN TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "LIN ALYSSA UNITED SOCIETY JU-JITSU UNION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        USA",
+          "country": "USA"
+        },
+        {
+          "name": "LIN ALYSSA UNITED SOCIETY JU-JITSU UNION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        USA",
+          "country": "USA"
+        },
+        {
+          "name": "SHLIAKHTINA MARIIA INDIVIDUAL NEUTRAL ATHLETES\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "SHLIAKHTINA MARIIA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "KHAIRUTDINOVA SOFIA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "NGUYEN DIEU LINH TNAM JUJITSU FEDERATIONVIE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NGUYEN DIEU LINH TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ABELLA KYRA VICTORIA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "4284",
+      "category": "U14 JIU-JITSU FEMALE -40 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4284.html",
+      "competitors": [
+        {
+          "name": "LY HOAI XUAN LUC TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "EGOSHINA IANA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "ALIEVA LEILA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "BOONPRAVES MEEDEE JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SAEYIEM ANGELINA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "THI SINH HOANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SHUMEIKO MARIIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "DEL ROSARIO ALESSA ROBINE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "HO HIEN AN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "PUNYANUT SAE-CHU JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "SAEYIEM ANGELINA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "BOONPRAVES MEEDEE JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "BOONPRAVES MEEDEE JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "THI SINH HOANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "PUNYANUT SAE-CHU JU-JITSU ASSOCIATION SINGAPORE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SGP",
+          "country": "SGP"
+        },
+        {
+          "name": "DEL ROSARIO ALESSA ROBINE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ALIEVA LEILA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "EGOSHINA IANA INDIVIDUAL NEUTRAL ATHLETES\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "SHUMEIKO MARIIA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "EGOSHINA IANA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "4285",
+      "category": "U14 JIU-JITSU FEMALE -44 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4285.html",
+      "competitors": [
+        {
+          "name": "CHAROENYING ANGSUMALIN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "TSIMBALIUK NELLI INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "LU CHANTAL VALKYRIE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "HO TUYET ANH TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "PHETJAROON NITCHAKARN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MOSKALIUK TAISIIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "KHODAKOVSKAIA VALERIIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "PHUONG THAO DANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NURMAGAMBETOVA INZHU AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "SAENGSAWANG KAMONNONGNUAN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ESPIRITU MARTINA RIONNE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "WERAYUTHGUMJOHN LAIAKSARA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "NURMAGAMBETOVA INZHU AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "PHUONG THAO DANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "PHUONG THAO DANG TNAM JUJITSU FEDERATIONVIE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SAENGSAWANG KAMONNONGNUAN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "PHETJAROON NITCHAKARN JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KHODAKOVSKAIA VALERIIA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "PHETJAROON NITCHAKARN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "ESPIRITU MARTINA RIONNE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "HO TUYET ANH TRAN TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "HO TUYET ANH TRAN TNAM JUJITSU FEDERATIONVIE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "WERAYUTHGUMJOHN LAIAKSARA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "CHAROENYING ANGSUMALIN JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "TSIMBALIUK NELLI INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "CHAROENYING ANGSUMALIN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "4286",
+      "category": "U14 JIU-JITSU FEMALE -48 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4286.html",
+      "competitors": [
+        {
+          "name": "CABREROS MEGAN LOUISE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "TONGTAN JIDAPA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "LU AISHA SCARLETT JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "MILAS ANDREA JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "ALIEV ASIYA DILNUR JUDO AND JU-JITSU ASSOCIATION OF IOPIAETH",
+          "country": "ETH"
+        },
+        {
+          "name": "ZINOVEVA VALERIIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "LU MISCHA VIOLET JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SAWATDEE WARATCHAYA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "TONGTAN JIDAPA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "MILAS ANDREA JU-JITSU FEDERATION OF MONTENEGRO\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MNE",
+          "country": "MNE"
+        },
+        {
+          "name": "LU MISCHA VIOLET JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ALIEV ASIYA DILNUR JUDO AND JU-JITSU ASSOCIATION OF IOPIAETH\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ETH",
+          "country": "ETH"
+        },
+        {
+          "name": "SAWATDEE WARATCHAYA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "LU AISHA SCARLETT JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "4287",
+      "category": "U14 JIU-JITSU FEMALE -52 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4287.html",
+      "competitors": [
+        {
+          "name": "KEAWJUN PUNYAPORN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "HERRMANN YAEL AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "NGUYEN PHAN TRANG THU TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SAWATDIPAN PANCHANID JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "GONCHAROVA KRISTINA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "THI NGOAN DANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KURLOVA SVETLANA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "HERRMANN YAEL AEL JU-JITSU FEDERATIONISR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ISR",
+          "country": "ISR"
+        },
+        {
+          "name": "NGUYEN PHAN TRANG THU TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SAWATDIPAN PANCHANID JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "THI NGOAN DANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KEAWJUN PUNYAPORN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "4288",
+      "category": "U14 JIU-JITSU FEMALE -57 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4288.html",
+      "competitors": []
+    },
+    {
+      "catid": "21350",
+      "category": "U14 JIU-JITSU MALE +69 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21350.html",
+      "competitors": []
+    },
+    {
+      "catid": "21341",
+      "category": "U14 JIU-JITSU MALE -32 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21341.html",
+      "competitors": [
+        {
+          "name": "TOLSTYKH NIKITA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "KROMKHAWAENG PHASIN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KHEMANUNTAKOSOL PONGTISA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KUAT ALDIYAR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KNIAZEV DMITRII INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "ALBLOOSHI OMAR MANSOOR  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "GEORGIY SIM AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "DAIROV TEMRLAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "SAIF SHAIKHAN GHAZI  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "PETROV NIKITA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "VORAPAKONG PRONPIPAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "GEORGIY SIM AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KNIAZEV DMITRII INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "KNIAZEV DMITRII INDIVIDUAL NEUTRAL ATHLETES\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "DAIROV TEMRLAN AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KUAT ALDIYAR AKHSTAN JIU JITSU ASSOCIATIONKAZ\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KUAT ALDIYAR AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KHEMANUNTAKOSOL PONGTISA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "PETROV NIKITA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "VORAPAKONG PRONPIPAT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KROMKHAWAENG PHASIN JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SAIF SHAIKHAN GHAZI  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "KROMKHAWAENG PHASIN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "21342",
+      "category": "U14 JIU-JITSU MALE -36 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21342.html",
+      "competitors": [
+        {
+          "name": "MOSEANZ IGNAT FEDERAȚIA SPORTIVĂ NAȚIONALĂ DE JIU-JITSU BRAZILIAN ȘI TRADIȚIONAL",
+          "country": "MDA"
+        },
+        {
+          "name": "KAENPHUT NAPAT JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ALJNEIBI HAZAA  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "SEISENBEK DINMUKHAMMED AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "FLORES PETER MARCO JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "LIKHITWONG PHONGLADAKORN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SAVCHUK STEPAN INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "HUMAID HUMAID OMAR HASSAN  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "UPOLOVNIKOV ROMAN INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "CHAIWUT WERAVARUTH JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "BIDIN SERGEI INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "MALKA LIAV AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "MOSEANZ IGNAT FEDERAȚIA SPORTIVĂ NAȚIONALĂ DE JIU-JITSU BRAZILIAN ȘI TRADIȚIONAL\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MDA",
+          "country": "MDA"
+        },
+        {
+          "name": "HUMAID HUMAID OMAR HASSAN  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "HUMAID HUMAID OMAR HASSAN  JIU-JITSU FEDERATIONUAE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "CHAIWUT WERAVARUTH JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "FLORES PETER MARCO JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "BIDIN SERGEI INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "FLORES PETER MARCO JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "LIKHITWONG PHONGLADAKORN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "ALJNEIBI HAZAA  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "ALJNEIBI HAZAA  JIU-JITSU FEDERATIONUAE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "MALKA LIAV AEL JU-JITSU FEDERATIONISR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ISR",
+          "country": "ISR"
+        },
+        {
+          "name": "KAENPHUT NAPAT JU JITSU ASSOCIATION OF THAILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SEISENBEK DINMUKHAMMED AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KAENPHUT NAPAT JU JITSU ASSOCIATION OF THAILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "21343",
+      "category": "U14 JIU-JITSU MALE -40 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21343.html",
+      "competitors": [
+        {
+          "name": "SOPAK JAKKRIT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ALMAYOUF ABDULRAHMAN SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "HOANG VAN HUNG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ALMAZROUEI ABDULLA AHMED MUBARAK  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "BAKHTIYARULY ABZAL AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "GERMAR LOUISE CHURCHES JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "CHAWEENUAN MMAKHUN JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "TO KHANH TRIEU TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KOTCHADECH AKKARES JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MARAT ANSAR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KHOUQEER MOHAMMED SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "ALBREIKI ABDULRAHMAN TAHER  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "JINOWAT SAMEEN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "BAO LONG LE TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "BACCINO LIVIO FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "BACCINO LIVIO FIJLKAM\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ITA",
+          "country": "ITA"
+        },
+        {
+          "name": "BAO LONG LE TNAM JUJITSU FEDERATIONVIE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "BAO LONG LE TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ALBREIKI ABDULRAHMAN TAHER  JIU-JITSU FEDERATIONUAE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "ALBREIKI ABDULRAHMAN TAHER  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "ALMAZROUEI ABDULLA AHMED MUBARAK  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "KOTCHADECH AKKARES JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KHOUQEER MOHAMMED SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "KOTCHADECH AKKARES JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "TO KHANH TRIEU TNAM JUJITSU FEDERATIONVIE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TO KHANH TRIEU TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "CHAWEENUAN MMAKHUN JU JITSU ASSOCIATION OF THAILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "GERMAR LOUISE CHURCHES JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "GERMAR LOUISE CHURCHES JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "HOANG VAN HUNG TNAM JUJITSU FEDERATIONVIE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "HOANG VAN HUNG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "JINOWAT SAMEEN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SOPAK JAKKRIT JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SOPAK JAKKRIT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "ALMAYOUF ABDULRAHMAN SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        }
+      ]
+    },
+    {
+      "catid": "21344",
+      "category": "U14 JIU-JITSU MALE -44 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21344.html",
+      "competitors": [
+        {
+          "name": "SARIYEV NURAMIR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BAO CHAU NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "BAHAISAMI RASHED  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "KWA JUN HE RAPHAEL JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "URMANOV ASKAR INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SIRIMAK WORAPHAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "DILNUR YUSUF ALIEV JUDO AND JU-JITSU ASSOCIATION OF IOPIAETH",
+          "country": "ETH"
+        },
+        {
+          "name": "KHEGAI TIMUR INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "BIN DANIAL HARIS ISA HARIS JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "ALHAMMAD MOHAMED SAIF MOHAMED  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "INTARUNGSEE SUPAROEK JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ARYASATYA AYAZI KENZIE INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "KOOSAKIT KANKAWIN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ETHAN SAAR AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "TIMAKOV ROMAN INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "LUZURIAGA SANTIAGO JAVIER JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "PATTANAGAROON SAKOLPAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "GRACHEV GEORGII INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "DILNUR YUSUF ALIEV JUDO AND JU-JITSU ASSOCIATION OF IOPIAETH\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ETH",
+          "country": "ETH"
+        },
+        {
+          "name": "BAO CHAU NGUYEN TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "GRACHEV GEORGII INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "PATTANAGAROON SAKOLPAT JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "PATTANAGAROON SAKOLPAT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KHEGAI TIMUR INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "ETHAN SAAR AEL JU-JITSU FEDERATIONISR\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ISR",
+          "country": "ISR"
+        },
+        {
+          "name": "KWA JUN HE RAPHAEL JU-JITSU ASSOCIATION SINGAPORE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SGP",
+          "country": "SGP"
+        },
+        {
+          "name": "ETHAN SAAR AEL JU-JITSU FEDERATIONISR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ISR",
+          "country": "ISR"
+        },
+        {
+          "name": "ARYASATYA AYAZI KENZIE INDONESIA JU JITSU FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "ARYASATYA AYAZI KENZIE INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "KOOSAKIT KANKAWIN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "INTARUNGSEE SUPAROEK JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "INTARUNGSEE SUPAROEK JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "BIN DANIAL HARIS ISA HARIS JU-JITSU ASSOCIATION SINGAPORE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SGP",
+          "country": "SGP"
+        },
+        {
+          "name": "BIN DANIAL HARIS ISA HARIS JU-JITSU ASSOCIATION SINGAPORE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SGP",
+          "country": "SGP"
+        },
+        {
+          "name": "LUZURIAGA SANTIAGO JAVIER JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SIRIMAK WORAPHAT JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SARIYEV NURAMIR AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "SIRIMAK WORAPHAT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "BAHAISAMI RASHED  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "ALHAMMAD MOHAMED SAIF MOHAMED  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        }
+      ]
+    },
+    {
+      "catid": "21345",
+      "category": "U14 JIU-JITSU MALE -48 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21345.html",
+      "competitors": [
+        {
+          "name": "FAN RUI XIANG CALEB JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "JIRAYUWAT NATWAT JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SAVINYKH TIMOFEI INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "ALYAMMAHI KHALEIFAH  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "BENAVIDES GABRIEL JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ZININ NIKITA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "ABDESH IBRAHIM AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KHAMRABAEV MURAD INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "PHONGSAWAT SUPPHARERK JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "GULIAEV KIRILL INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "VANUNU ITAMAR AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "SRIKIEWSAI TRIN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ALMASKARI MUBARAK EISA MOHAMED  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "JIRAYUWAT NATWAT JU JITSU ASSOCIATION OF THAILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "GULIAEV KIRILL INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "GULIAEV KIRILL INDIVIDUAL NEUTRAL ATHLETES\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "ALYAMMAHI KHALEIFAH  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "ABDESH IBRAHIM AKHSTAN JIU JITSU ASSOCIATIONKAZ\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ABDESH IBRAHIM AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALMASKARI MUBARAK EISA MOHAMED  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "SRIKIEWSAI TRIN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "ZININ NIKITA INDIVIDUAL NEUTRAL ATHLETES\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "ZININ NIKITA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "SAVINYKH TIMOFEI INDIVIDUAL NEUTRAL ATHLETES\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "SAVINYKH TIMOFEI INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "PHONGSAWAT SUPPHARERK JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "FAN RUI XIANG CALEB JU-JITSU ASSOCIATION SINGAPORE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SGP",
+          "country": "SGP"
+        },
+        {
+          "name": "FAN RUI XIANG CALEB JU-JITSU ASSOCIATION SINGAPORE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SGP",
+          "country": "SGP"
+        },
+        {
+          "name": "VANUNU ITAMAR AEL JU-JITSU FEDERATIONISR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "21346",
+      "category": "U14 JIU-JITSU MALE -52 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21346.html",
+      "competitors": [
+        {
+          "name": "ALBADI ALGHAITH  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "HEDLEY ROWAN ADIAN JIU JITSU ASSOCIATIONCAN",
+          "country": "CAN"
+        },
+        {
+          "name": "NGOC QUYEN VANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "BABAILOV SEMEN INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "BUTASHIN IVAN INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SEJINY ABDULELAH SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "WATTANAKOMOLRAT PHURIN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MAKHSETBAEV JAKHANGIR JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "CASTELO FRANCO PHOENIX JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ALNAJAR ALIMOWAFAQ  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "BUTASHIN IVAN INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "NGOC QUYEN VANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NGOC QUYEN VANG TNAM JUJITSU FEDERATIONVIE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SEJINY ABDULELAH SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "ALNAJAR ALIMOWAFAQ  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "CASTELO FRANCO PHOENIX JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "BABAILOV SEMEN INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "HEDLEY ROWAN ADIAN JIU JITSU ASSOCIATIONCAN\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CAN",
+          "country": "CAN"
+        },
+        {
+          "name": "WATTANAKOMOLRAT PHURIN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "HEDLEY ROWAN ADIAN JIU JITSU ASSOCIATIONCAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CAN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "21347",
+      "category": "U14 JIU-JITSU MALE -56 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21347.html",
+      "competitors": [
+        {
+          "name": "AVDEEV VLADIMIR INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "TALGAT ISMAIL AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "TIRAPORNCHAI VORAWASU JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "EDRESS HASHIM SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "OR EPHRAT AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "AHMED AHMED SUHAIL  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "SUI DRASON WAN LONG HONG KONG JIUJITSU ASSOCIATION",
+          "country": "HKG"
+        },
+        {
+          "name": "MIRONOV TIMOFEI INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "NAEWTHUEN PHATTARAKORN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "TIRAPORNCHAI VORAWASU JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "OR EPHRAT AEL JU-JITSU FEDERATIONISR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ISR",
+          "country": "ISR"
+        },
+        {
+          "name": "AHMED AHMED SUHAIL  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "SUI DRASON WAN LONG HONG KONG JIUJITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        HKG",
+          "country": "HKG"
+        },
+        {
+          "name": "MIRONOV TIMOFEI INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "AVDEEV VLADIMIR INDIVIDUAL NEUTRAL ATHLETES\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "AVDEEV VLADIMIR INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "EDRESS HASHIM SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        }
+      ]
+    },
+    {
+      "catid": "21348",
+      "category": "U14 JIU-JITSU MALE -62 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21348.html",
+      "competitors": [
+        {
+          "name": "KHALID HAMDAN  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "SHAEVSKII EREMEI INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SAENWISES RACHEN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KUZMENKO MAKSIM INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "MALAS SULTAN SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "ALMEHAIRBI SAEED MOHAMED SAIF  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "IAKOVLEV SIMEON INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "KHALID HAMDAN  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "KUZMENKO MAKSIM INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "SAENWISES RACHEN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "MALAS SULTAN SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "IAKOVLEV SIMEON INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "21349",
+      "category": "U14 JIU-JITSU MALE -69 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21349.html",
+      "competitors": [
+        {
+          "name": "TIRKESHOV SERDOR JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "SHINKARENKO ARSENIY AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "JAMLONGRAT PHACHARA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SADBIY DARKHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "PARKHATOV BABUR JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "YAQOUB SAIF JUMA  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        }
+      ]
+    },
+    {
+      "catid": "4291",
+      "category": "U14 JU-JITSU DUO FEMALE",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4291.html",
+      "competitors": []
+    },
+    {
+      "catid": "21357",
+      "category": "U14 JU-JITSU DUO FEMALE ADVANCED R5-F",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21357.html",
+      "competitors": []
+    },
+    {
+      "catid": "21351",
+      "category": "U14 JU-JITSU DUO FEMALE WORLD R2-G1",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21351.html",
+      "competitors": []
+    },
+    {
+      "catid": "21353",
+      "category": "U14 JU-JITSU DUO FEMALE WORLD R4-SF1",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21353.html",
+      "competitors": []
+    },
+    {
+      "catid": "21354",
+      "category": "U14 JU-JITSU DUO FEMALE WORLD R4-SF2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21354.html",
+      "competitors": []
+    },
+    {
+      "catid": "21374",
+      "category": "U14 JU-JITSU DUO FEMALE WORLD R4-SF2 Tie Match 0-1",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21374.html",
+      "competitors": []
+    },
+    {
+      "catid": "21355",
+      "category": "U14 JU-JITSU DUO FEMALE WORLD R5-F",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21355.html",
+      "competitors": []
+    },
+    {
+      "catid": "4290",
+      "category": "U14 JU-JITSU DUO MALE",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4290.html",
+      "competitors": []
+    },
+    {
+      "catid": "21363",
+      "category": "U14 JU-JITSU DUO MALE ADVANCED R4-SF1",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21363.html",
+      "competitors": []
+    },
+    {
+      "catid": "21364",
+      "category": "U14 JU-JITSU DUO MALE ADVANCED R4-SF2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21364.html",
+      "competitors": []
+    },
+    {
+      "catid": "21365",
+      "category": "U14 JU-JITSU DUO MALE ADVANCED R5-F",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21365.html",
+      "competitors": []
+    },
+    {
+      "catid": "21358",
+      "category": "U14 JU-JITSU DUO MALE WORLD R2-G1",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21358.html",
+      "competitors": []
+    },
+    {
+      "catid": "21359",
+      "category": "U14 JU-JITSU DUO MALE WORLD R2-G2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21359.html",
+      "competitors": []
+    },
+    {
+      "catid": "21360",
+      "category": "U14 JU-JITSU DUO MALE WORLD R4-SF1",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21360.html",
+      "competitors": []
+    },
+    {
+      "catid": "21361",
+      "category": "U14 JU-JITSU DUO MALE WORLD R4-SF2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21361.html",
+      "competitors": []
+    },
+    {
+      "catid": "21362",
+      "category": "U14 JU-JITSU DUO MALE WORLD R5-F",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21362.html",
+      "competitors": []
+    },
+    {
+      "catid": "4292",
+      "category": "U14 JU-JITSU DUO MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4292.html",
+      "competitors": []
+    },
+    {
+      "catid": "21371",
+      "category": "U14 JU-JITSU DUO MIXED ADVANCED R4-SF1",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21371.html",
+      "competitors": []
+    },
+    {
+      "catid": "21372",
+      "category": "U14 JU-JITSU DUO MIXED ADVANCED R4-SF2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21372.html",
+      "competitors": []
+    },
+    {
+      "catid": "21373",
+      "category": "U14 JU-JITSU DUO MIXED ADVANCED R5-F",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21373.html",
+      "competitors": []
+    },
+    {
+      "catid": "21366",
+      "category": "U14 JU-JITSU DUO MIXED WORLD R2-G1",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21366.html",
+      "competitors": []
+    },
+    {
+      "catid": "21367",
+      "category": "U14 JU-JITSU DUO MIXED WORLD R2-G2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21367.html",
+      "competitors": []
+    },
+    {
+      "catid": "21368",
+      "category": "U14 JU-JITSU DUO MIXED WORLD R4-SF1",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21368.html",
+      "competitors": []
+    },
+    {
+      "catid": "21369",
+      "category": "U14 JU-JITSU DUO MIXED WORLD R4-SF2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21369.html",
+      "competitors": []
+    },
+    {
+      "catid": "21370",
+      "category": "U14 JU-JITSU DUO MIXED WORLD R5-F",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21370.html",
+      "competitors": []
+    },
+    {
+      "catid": "4269",
+      "category": "U14 JU-JITSU FIGHTING FEMALE +57 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4269.html",
+      "competitors": [
+        {
+          "name": "ROSSINI GIADA FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "MUGHDHO MASHRIFA NAZIAN GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        },
+        {
+          "name": "DOKYAEM NICHAPAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "RAHMAN NUSAIBA TASNEM GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        },
+        {
+          "name": "MUSOKHRANOVA TATIANA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "4262",
+      "category": "U14 JU-JITSU FIGHTING FEMALE -32 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4262.html",
+      "competitors": [
+        {
+          "name": "MUKHARAM AIZERE AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "RITTIRUAM SURANGSIYA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SERGIENKO ZLATA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "BOONTERM CHALINEE JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MILAS ANDREA JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "ZINOVEVA VALERIIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SAWATDEE WARATCHAYA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MUKHARAM AIZERE AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BOONTERM CHALINEE JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SERGIENKO ZLATA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "ZINOVEVA VALERIIA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "SAWATDEE WARATCHAYA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "4263",
+      "category": "U14 JU-JITSU FIGHTING FEMALE -36 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4263.html",
+      "competitors": [
+        {
+          "name": "GULOMOVA KAMOLA JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "THI DAN THUY HOANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SMAGULOVA ADELYA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "NGUYEN DIEU LINH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SERGIENKO ADEL INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "LEARTROMYANAN VIKA JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "YEN NHI NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "HAKAEW CHAYAPA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "DUONG GIA HAN CAO TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THEPCHOMPOO CHALISA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KIRIYA SUWICHAYA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "DALESSANDRO GIULIA FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "KURBATOVA VARVARA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "THI DAN THUY HOANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THEPCHOMPOO CHALISA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "THEPCHOMPOO CHALISA JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SMAGULOVA ADELYA AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "HAKAEW CHAYAPA JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "YEN NHI NGUYEN TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "HAKAEW CHAYAPA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "DALESSANDRO GIULIA FIJLKAM\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ITA",
+          "country": "ITA"
+        },
+        {
+          "name": "SERGIENKO ADEL INDIVIDUAL NEUTRAL ATHLETES\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "SERGIENKO ADEL INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "NGUYEN DIEU LINH TNAM JUJITSU FEDERATIONVIE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NGUYEN DIEU LINH TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "DUONG GIA HAN CAO TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "GULOMOVA KAMOLA JIU-JITSU FEDERATION OF EKISTANUZB\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "GULOMOVA KAMOLA JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "LEARTROMYANAN VIKA JU JITSU ASSOCIATION OF THAILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "4264",
+      "category": "U14 JU-JITSU FIGHTING FEMALE -40 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4264.html",
+      "competitors": [
+        {
+          "name": "DACHEVA MELISA GARIAN JU-JITSU FEDERATIONBUL",
+          "country": "BUL"
+        },
+        {
+          "name": "THI SINH HOANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "BARABOSHINA VIRINEIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "IN-PRONG NATCHA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KOCANOVIC SARA JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "NAGULINA NIKA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "MALAI KANRUETAI JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "TIURIKOVA ALISA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "BHUSAWANG SUPHANNARA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ALIEVA LEILA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "NAPRAWET YAPA JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "LY HOAI XUAN LUC TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "HO HIEN AN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NAPRAWET YAPA JU JITSU ASSOCIATION OF THAILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "ALIEVA LEILA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "ALIEVA LEILA INDIVIDUAL NEUTRAL ATHLETES\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "BARABOSHINA VIRINEIA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "MALAI KANRUETAI JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "MALAI KANRUETAI JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "BHUSAWANG SUPHANNARA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "TIURIKOVA ALISA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "KOCANOVIC SARA JU-JITSU FEDERATION OF MONTENEGRO\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MNE",
+          "country": "MNE"
+        },
+        {
+          "name": "KOCANOVIC SARA JU-JITSU FEDERATION OF MONTENEGRO\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MNE",
+          "country": "MNE"
+        },
+        {
+          "name": "IN-PRONG NATCHA JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "IN-PRONG NATCHA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "HO HIEN AN TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI SINH HOANG TNAM JUJITSU FEDERATIONVIE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NAGULINA NIKA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "THI SINH HOANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4265",
+      "category": "U14 JU-JITSU FIGHTING FEMALE -44 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4265.html",
+      "competitors": [
+        {
+          "name": "SAENGSAWANG KAMONNONGNUAN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "POGODINA SOFIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "KLINHOM PARICHAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KARLYSHEVA KSENIIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "HO TUYET ANH TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "WERAYUTHGUMJOHN LAIAKSARA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "BUSHUEVA MILANA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "PHUONG THAO DANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TIURIKOVA ALISA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SAE-LAI PITCHAYATHIDA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "POGODINA SOFIA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "KLINHOM PARICHAT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KLINHOM PARICHAT JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "WERAYUTHGUMJOHN LAIAKSARA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "PHUONG THAO DANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TIURIKOVA ALISA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "KARLYSHEVA KSENIIA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "SAENGSAWANG KAMONNONGNUAN JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "BUSHUEVA MILANA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "SAENGSAWANG KAMONNONGNUAN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "4266",
+      "category": "U14 JU-JITSU FIGHTING FEMALE -48 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4266.html",
+      "competitors": [
+        {
+          "name": "EGOROVA SOFIIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "JANTANAKHA BURITSARARAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "THI YEN LY TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SHCHUPLOVA VALERIIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "WUTTI BUAREEYA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KOZLOVA ALBINA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "THYER MEGAN GREAT BRITAIN JUJITSU",
+          "country": "GBR"
+        },
+        {
+          "name": "DANILOVA DIANA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "LE NGUYEN TRAM KHANH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "DAVIDE MAYA PENELOPE FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "TANAWANITNAM RAMON JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "JANTANAKHA BURITSARARAT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "WUTTI BUAREEYA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "WUTTI BUAREEYA JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "LE NGUYEN TRAM KHANH TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SHCHUPLOVA VALERIIA INDIVIDUAL NEUTRAL ATHLETES\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "SHCHUPLOVA VALERIIA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "DAVIDE MAYA PENELOPE FIJLKAM\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ITA",
+          "country": "ITA"
+        },
+        {
+          "name": "THI YEN LY TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TANAWANITNAM RAMON JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "EGOROVA SOFIIA INDIVIDUAL NEUTRAL ATHLETES\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "DANILOVA DIANA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "EGOROVA SOFIIA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "4267",
+      "category": "U14 JU-JITSU FIGHTING FEMALE -52 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4267.html",
+      "competitors": [
+        {
+          "name": "MYRZABAY AIZERE AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "PERMSAP OUEAKAN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MIKHALEVA ELIZAVETA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "NGUYEN PHAN TRANG THU TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "PREMCHEANG WARINTISHA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "THI NGOAN DANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SAWATDIPAN PANCHANID JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "PATROVA ALEKSANDRA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "MYRZABAY AIZERE AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "NGUYEN PHAN TRANG THU TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI NGOAN DANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "PREMCHEANG WARINTISHA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SAWATDIPAN PANCHANID JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "MIKHALEVA ELIZAVETA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "4268",
+      "category": "U14 JU-JITSU FIGHTING FEMALE -57 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4268.html",
+      "competitors": [
+        {
+          "name": "WONGPORN WANWISA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KOZHINA ALENA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "ROJJANABUNYAPARK PAKKAAON JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "DUONG LY HOANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "RASPAYEVA MERUERT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KOCEIR SARAH GIAN JU-JITSU FEDERATIONBEL",
+          "country": "BEL"
+        },
+        {
+          "name": "BUNYATRATCHATA CHETNIPIT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ARSHINOVA SOFIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "KOZHINA ALENA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "ROJJANABUNYAPARK PAKKAAON JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "ARSHINOVA SOFIA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "RASPAYEVA MERUERT AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BUNYATRATCHATA CHETNIPIT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "DUONG LY HOANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "21331",
+      "category": "U14 JU-JITSU FIGHTING MALE +69 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21331.html",
+      "competitors": [
+        {
+          "name": "ANBAY ALZHAN KAZAKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "POTAPOV MATVEI INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "TUKHTABAEV MOHIYZOMON JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "SEILBEK ISMAIL AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "RYZHOV MATVEI INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "RAKSAKUL SORAVIT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "21323",
+      "category": "U14 JU-JITSU FIGHTING MALE -32 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21323.html",
+      "competitors": [
+        {
+          "name": "LIMDUN KONGPHOP JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "STURLESI CRISTIAN FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "RUSINOV CHAVDAR GARIAN JU-JITSU FEDERATIONBUL",
+          "country": "BUL"
+        },
+        {
+          "name": "DAIROV TEMRLAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KROMKHAWAENG PHASIN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KNIAZEV DMITRII INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "PHUENGTHUEN PHURICHAYA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "BAUYRZHAN DAULET AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KHEMANUNTAKOSOL PONGTISA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "STURLESI CRISTIAN FIJLKAM\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ITA",
+          "country": "ITA"
+        },
+        {
+          "name": "KROMKHAWAENG PHASIN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KNIAZEV DMITRII INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "PHUENGTHUEN PHURICHAYA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "BAUYRZHAN DAULET AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "LIMDUN KONGPHOP JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "RUSINOV CHAVDAR GARIAN JU-JITSU FEDERATIONBUL\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BUL",
+          "country": "BUL"
+        },
+        {
+          "name": "LIMDUN KONGPHOP JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "21324",
+      "category": "U14 JU-JITSU FIGHTING MALE -36 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21324.html",
+      "competitors": [
+        {
+          "name": "CHAIWUT WERAVARUTH JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KOSTOV DANIEL GARIAN JU-JITSU FEDERATIONBUL",
+          "country": "BUL"
+        },
+        {
+          "name": "MOSEANZ IGNAT FEDERAȚIA SPORTIVĂ NAȚIONALĂ DE JIU-JITSU BRAZILIAN ȘI TRADIȚIONAL",
+          "country": "MDA"
+        },
+        {
+          "name": "VORONKIN NIKITA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "JANPAN WORRAPHAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "BOLATULY NURISLAM KAZAKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "UINN CHANODOM JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "BIDIN SERGEI INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "KAENPHUT NAPAT JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MOSEANZ IGNAT FEDERAȚIA SPORTIVĂ NAȚIONALĂ DE JIU-JITSU BRAZILIAN ȘI TRADIȚIONAL\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MDA",
+          "country": "MDA"
+        },
+        {
+          "name": "JANPAN WORRAPHAT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "UINN CHANODOM JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "BOLATULY NURISLAM KAZAKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KAENPHUT NAPAT JU JITSU ASSOCIATION OF THAILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KOSTOV DANIEL GARIAN JU-JITSU FEDERATIONBUL\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BUL",
+          "country": "BUL"
+        },
+        {
+          "name": "KOSTOV DANIEL GARIAN JU-JITSU FEDERATIONBUL\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BUL",
+          "country": "BUL"
+        },
+        {
+          "name": "CHAIWUT WERAVARUTH JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "11546",
+      "category": "U14 JU-JITSU FIGHTING MALE -40 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_11546.html",
+      "competitors": [
+        {
+          "name": "SOPAK JAKKRIT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SALASIN PROKHOR INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "BAO LONG LE TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KRAINARA PHUMIN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KIRDIANOV DANIIL INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "KOTCHADECH AKKARES JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SHARIFULLIN ARTEM INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "JINOWAT SAMEEN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "HOANG VAN HUNG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KIROV NIKOLAY GARIAN JU-JITSU FEDERATIONBUL",
+          "country": "BUL"
+        },
+        {
+          "name": "DIMITROV GEORGI GARIAN JU-JITSU FEDERATIONBUL",
+          "country": "BUL"
+        },
+        {
+          "name": "TO KHANH TRIEU TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "PRUTTSKIKH PRUTTSKIKH ARTEM INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SALASIN PROKHOR INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "HOANG VAN HUNG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "HOANG VAN HUNG TNAM JUJITSU FEDERATIONVIE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KRAINARA PHUMIN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "JINOWAT SAMEEN JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "TO KHANH TRIEU TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "JINOWAT SAMEEN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SHARIFULLIN ARTEM INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "KOTCHADECH AKKARES JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KOTCHADECH AKKARES JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "BAO LONG LE TNAM JUJITSU FEDERATIONVIE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "BAO LONG LE TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KIROV NIKOLAY GARIAN JU-JITSU FEDERATIONBUL\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BUL",
+          "country": "BUL"
+        },
+        {
+          "name": "SOPAK JAKKRIT JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SOPAK JAKKRIT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KIRDIANOV DANIIL INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "21325",
+      "category": "U14 JU-JITSU FIGHTING MALE -44 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21325.html",
+      "competitors": [
+        {
+          "name": "CHERNOUSOV STEPAN INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "BAO CHAU NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "POMKOAWCHUNG VORAVAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SHCHERBII ILIA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "DARKHAN MAZHIT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "INTARUNGSEE SUPAROEK JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ZININ NIKITA INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "AL-SHAMMARI ALI ALAMEER IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "MASLOV MAKAR INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SIRIMAK WORAPHAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "DARKHAN MAZHIT AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "POMKOAWCHUNG VORAVAT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "POMKOAWCHUNG VORAVAT JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "INTARUNGSEE SUPAROEK JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "MASLOV MAKAR INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "AL-SHAMMARI ALI ALAMEER IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "SIRIMAK WORAPHAT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "BAO CHAU NGUYEN TNAM JUJITSU FEDERATIONVIE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ZININ NIKITA INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "BAO CHAU NGUYEN TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "21326",
+      "category": "U14 JU-JITSU FIGHTING MALE -48 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21326.html",
+      "competitors": [
+        {
+          "name": "KASSEN FARKHAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "VORONIN ROMAN INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "FAN RUI XIANG CALEB JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "JAWAD ALI IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "TAISHIYEV MADIYAR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "CHOENCHOM SEELAWUT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "BUTASHIN IVAN INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "USSEN TEMIRLAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "SRIKIEWSAI TRIN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ABDESH IBRAHIM AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "SILPI KANISORN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "TRAN DAI QUAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "GULIAEV KIRILL INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SILPI KANISORN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SRIKIEWSAI TRIN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SRIKIEWSAI TRIN JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "FAN RUI XIANG CALEB JU-JITSU ASSOCIATION SINGAPORE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SGP",
+          "country": "SGP"
+        },
+        {
+          "name": "BUTASHIN IVAN INDIVIDUAL NEUTRAL ATHLETES\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "BUTASHIN IVAN INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "TRAN DAI QUAN TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "USSEN TEMIRLAN AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "TAISHIYEV MADIYAR AKHSTAN JIU JITSU ASSOCIATIONKAZ\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "TAISHIYEV MADIYAR AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "JAWAD ALI IRAQI JU JITSU AND MARTIAL ART FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "JAWAD ALI IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "ABDESH IBRAHIM AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "VORONIN ROMAN INDIVIDUAL NEUTRAL ATHLETES\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "VORONIN ROMAN INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "KASSEN FARKHAT AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "21327",
+      "category": "U14 JU-JITSU FIGHTING MALE -52 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21327.html",
+      "competitors": [
+        {
+          "name": "WATTANAKOMOLRAT PHURIN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KONOVALOV IVAN INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SURIN ELISEI INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "NGOC QUYEN VANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NGUYEN DUONG MINH CHAU TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SMATI NAPHATSAKON JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "GALIULLIN TIMUR INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "PATRIKOV IVAN GARIAN JU-JITSU FEDERATIONBUL",
+          "country": "BUL"
+        },
+        {
+          "name": "KITSANGSAN CHANANTHON JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "DANEL MUKHTAR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "NGUYEN DUONG MINH CHAU TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SURIN ELISEI INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "SURIN ELISEI INDIVIDUAL NEUTRAL ATHLETES\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "GALIULLIN TIMUR INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        },
+        {
+          "name": "PATRIKOV IVAN GARIAN JU-JITSU FEDERATIONBUL\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BUL",
+          "country": "BUL"
+        },
+        {
+          "name": "KITSANGSAN CHANANTHON JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "NGOC QUYEN VANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "WATTANAKOMOLRAT PHURIN JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SMATI NAPHATSAKON JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "WATTANAKOMOLRAT PHURIN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "21328",
+      "category": "U14 JU-JITSU FIGHTING MALE -56 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21328.html",
+      "competitors": [
+        {
+          "name": "NAEWTHUEN PHATTARAKORN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SHTEMPEL EGOR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "TIRAPORNCHAI VORAWASU JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ZVEREV VLADISLAV AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KOROTKOV ARSENII INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "OPHATSODSAI KRIT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MIRONOV TIMOFEI INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SHTEMPEL EGOR AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ZVEREV VLADISLAV AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "TIRAPORNCHAI VORAWASU JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "OPHATSODSAI KRIT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "MIRONOV TIMOFEI INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "21329",
+      "category": "U14 JU-JITSU FIGHTING MALE -62 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21329.html",
+      "competitors": [
+        {
+          "name": "ALBU-MOHAMMED ALI IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "KHOKONOV TIMUR INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SAENWISES RACHEN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KUCHAEV STEPAN INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "DOLGOV ARTYOM AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "WONGTHET CHAYAKRIT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "IAKOVLEV SIMEON INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "ALBU-MOHAMMED ALI IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "WONGTHET CHAYAKRIT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SAENWISES RACHEN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "DOLGOV ARTYOM AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KHOKONOV TIMUR INDIVIDUAL NEUTRAL ATHLETES\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AIN",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "21330",
+      "category": "U14 JU-JITSU FIGHTING MALE -69 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21330.html",
+      "competitors": [
+        {
+          "name": "ZEMLYANOY MIKHAIL INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "JAMLONGRAT PHACHARA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SALVI MATTIA FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "ZLAUDDIN AYYAN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "PARKHATOV BABUR JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        }
+      ]
+    },
+    {
+      "catid": "4294",
+      "category": "U14 JU-JITSU SHOW FEMALE",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4294.html",
+      "competitors": []
+    },
+    {
+      "catid": "21375",
+      "category": "U14 JU-JITSU SHOW FEMALE R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21375.html",
+      "competitors": []
+    },
+    {
+      "catid": "4293",
+      "category": "U14 JU-JITSU SHOW MALE",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4293.html",
+      "competitors": []
+    },
+    {
+      "catid": "21376",
+      "category": "U14 JU-JITSU SHOW MALE R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21376.html",
+      "competitors": []
+    },
+    {
+      "catid": "4295",
+      "category": "U14 JU-JITSU SHOW MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_4295.html",
+      "competitors": []
+    },
+    {
+      "catid": "21377",
+      "category": "U14 JU-JITSU SHOW MIXED R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_814_21377.html",
+      "competitors": []
+    }
+  ]
+}

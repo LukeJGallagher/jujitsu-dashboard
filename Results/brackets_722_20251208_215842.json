@@ -1,0 +1,3888 @@
+{
+  "verid": "722",
+  "event_name": "U16/U18/U21 WORLD CHAMPIONSHIPS 2023 (KAZ)",
+  "scraped_at": "2025-12-08T21:51:54.762528",
+  "categories": [
+    {
+      "catid": "4331",
+      "category": "U16 JIU-JITSU FEMALE +63 kg",
+      "competitors": [
+        {
+          "name": "PELIGNO SARA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "KONTAKOU AIKATERINI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "SUROWIAK ALICJA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "JOVANOVIC ELENA  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "IGNATIOU ANASTASIA-MARIA  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "VRESK ANTEA  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "HAKLAI DANIELLE  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "ZOGRAFAKI DESPOINA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        }
+      ]
+    },
+    {
+      "catid": "4325",
+      "category": "U16 JIU-JITSU FEMALE -40 kg",
+      "competitors": [
+        {
+          "name": "JOUANNY MARGAUX  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "MARTYNIUK NIKOLINA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "SZCZYPKA JULIA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "4327",
+      "category": "U16 JIU-JITSU FEMALE -48 kg",
+      "competitors": [
+        {
+          "name": "SALIKOVA ELIZVETA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "IAKOVOU SAVINIA  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "CHILLA LENI  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "LOGA MARA CARINA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "BENAKKA MYRIAM  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "KARAGIANNI PARASKEVI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "FIRSHTA NEOMI  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "BOHDAN AMALIIA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "OCEVCIC PETRA  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "LOZIER APOLLINE  FEDERATION FRAN",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "catid": "4328",
+      "category": "U16 JIU-JITSU FEMALE -52 kg",
+      "competitors": [
+        {
+          "name": "SABIC SANDRA  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "DINU BIANCA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "PALKA NAOMI  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "REINHARDT NIKA-ZOE  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "ZHUPANYN YEVHENIIA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "MOULA ANASTASIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "STEFAN ANEMONA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "HAUFMANN MICHAELA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "KONTARATOU CHRYSOULA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "STIRLING WHYTE ALICE  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "ROSZER ALICJA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "JAKUBCOVA ALEXANDRA ELENA  SLOVAK ASSOCIATION OF SPORTS JIU-JITSU",
+          "country": "SVK"
+        }
+      ]
+    },
+    {
+      "catid": "4329",
+      "category": "U16 JIU-JITSU FEMALE -57 kg",
+      "competitors": [
+        {
+          "name": "BASDEKI XENI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "BOCCARDO GIADA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "CASTAGNET CHARLOTTE  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "DUDOK SOFIIA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "TZIKOPOULOU KONSTANTINA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "VILLALBA AGUDELO MARTINA  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "MC DONAGH EMMA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "SUKHA DANA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "BALINT DENISA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "SARKISIAN AIKATERINA  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "BEN NATAN ROTEM  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "GLAZYRINA SOFIA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "4330",
+      "category": "U16 JIU-JITSU FEMALE -63 kg",
+      "competitors": [
+        {
+          "name": "SPAIDIOTI GEORGIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "VEREVKINA EKATERINA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "RIBES MARRAHI LARA  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "MOREL JADE  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "FELDMANN KIM  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "KONTOKOSTA PANAGIOTA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "GALONSKA WIKTORIA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "MARGARIT SONIA ELENA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "URSCHINGER TESSA",
+          "country": "AUT"
+        },
+        {
+          "name": "MAHOCHI YANA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "OCHOCKA BARBARA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "21340",
+      "category": "U16 JIU-JITSU MALE +77 kg",
+      "competitors": [
+        {
+          "name": "DRAGALINA ALEXANDRU  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "CHEIMONAKIS KYRIAKOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "VARTIKIAN ARTUR  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "LEKIC ANDRIJA  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "DELLA GATTA VITO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "TRUTNEV MATVEI  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "KAPETAN FRAN  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "FERTI ANUELO  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        }
+      ]
+    },
+    {
+      "catid": "21332",
+      "category": "U16 JIU-JITSU MALE -40 kg",
+      "competitors": [
+        {
+          "name": "SHTEBA NAZARII  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "AKHMETIANOV BULAT  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "ULITSKY LIOR  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "BARDANIS PANAGIOTIS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "KOROSIC DOMINIK  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "VRABII DAVID  FEDERA",
+          "country": "MDA"
+        },
+        {
+          "name": "RATIU PAMFIL STELIAN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "LOZANO MARIJUAN MARCOS  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "HONZHA MYKHAILO  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        }
+      ]
+    },
+    {
+      "catid": "21333",
+      "category": "U16 JIU-JITSU MALE -44 kg",
+      "competitors": [
+        {
+          "name": "NEGRESCU SASHA VLADIMIR  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "ELIAV NAFTALI GURIASHVILY  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "LITAN YOHONATAN MOSHE  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "FIODOROV IVAN  FEDERA",
+          "country": "MDA"
+        },
+        {
+          "name": "BOTTCHER NICOLAS AUGUSTUS  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "SAKKAS GEORGIOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "KLYMETS TARAS  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "FRUZZETTI LEONARDO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "GAZEL JORIS  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "ZOTOV KIRILL  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "AZMANI KAMIL  FEDERATION FRAN",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "catid": "21334",
+      "category": "U16 JIU-JITSU MALE -48 kg",
+      "competitors": [
+        {
+          "name": "DOLIC LEON  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "ZERVAS NIKOLAOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "ASAILOV DAVID  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "TUROGIN GRIGORI  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "MOSKATELO LUKA  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "EREMIN ZAKHAR  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "BOARON DANIEL  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "MEDVEDEV FEDOR  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "KVAPIL JORIK  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "NEGRESCU DARIUS ALEXANDRU  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "FABREGAT HAMILTON  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "ZINDOVIC BOSKO  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        }
+      ]
+    },
+    {
+      "catid": "21335",
+      "category": "U16 JIU-JITSU MALE -52 kg",
+      "competitors": [
+        {
+          "name": "BOIAKIVSKYI YAREMA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "ITAMAR YEHONATAN BERT  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "PODOLIAKO DAMIR  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "RAVASZ ROBERT  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "SKOREC SAMUEL  SLOVAK ASSOCIATION OF SPORTS JIU-JITSU",
+          "country": "SVK"
+        },
+        {
+          "name": "STAUSBERG LUPUS  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "NTELIS IOANNIS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "DESOUCHES RIBEIRO RAPHAEL  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "SHADURA TIMUR  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "KOUMASTAS DEMETRIOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "BELOBORODOV EGOR  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SHAGBAZYAN HAYK  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "BANU VLAD  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "PALAMARCHUK YAROSLAV  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "DUDAEV ABDULLAH",
+          "country": "AUT"
+        },
+        {
+          "name": "GALANTI ITAY  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "KOFIDIS LEONIDAS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        }
+      ]
+    },
+    {
+      "catid": "21336",
+      "category": "U16 JIU-JITSU MALE -56 kg",
+      "competitors": [
+        {
+          "name": "SOULIS ORESTIS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "SZABO MARCELL  HUNGARIAN SPORT JU JITSU FEDERATION",
+          "country": "HUN"
+        },
+        {
+          "name": "GRINCO ANTON  FEDERA",
+          "country": "MDA"
+        },
+        {
+          "name": "SANDU IOAN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "VISHNIAKOV VIACHESLAV  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "LIROY OHANA  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "TSALTAS NIKOLAS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "DASHCHENKOV ARTEM  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "VALENTIC KARLO  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "OWSIANIK ANTONI  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "KOMOLKIN EVGENII  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "GAMLIEL EDEN ISRAEL  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "GIATTINA ANDREA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "CHAMAS ZEIN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "BRINZA NICHITA  FEDERA",
+          "country": "MDA"
+        },
+        {
+          "name": "ZAYAS MURAYAMA DANILO  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "catid": "21337",
+      "category": "U16 JIU-JITSU MALE -62 kg",
+      "competitors": [
+        {
+          "name": "BIENEK ALEX  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "BIGANISHVILI GIORGI  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "NEUMANN JAMIE  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "SEBOK MARTON  HUNGARIAN SPORT JU JITSU FEDERATION",
+          "country": "HUN"
+        },
+        {
+          "name": "PERIC MARK  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "CARUSO SALVATORE  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "CHASIOTIS GEORGIOS-MICHAIL  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "KORNFELD YEHONATAN  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "CHEKYRDA DANYLO  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "BALOG NIKOLA  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "BOURLY TRISTAN  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "NOAM YANKO  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "PAPADOPOULOS VASILEIOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "SMOLIANOV MATVEI  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "KALAMANDA ANDRIJA  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        },
+        {
+          "name": "KIS BOTOND GYOZO  HUNGARIAN SPORT JU JITSU FEDERATION",
+          "country": "HUN"
+        },
+        {
+          "name": "PRODROMOU GEORGIOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "BOIATIUC ALEXANDR  FEDERA",
+          "country": "MDA"
+        },
+        {
+          "name": "ZAITSEV DANYLO  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "KOJAN NIKO  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        }
+      ]
+    },
+    {
+      "catid": "21338",
+      "category": "U16 JIU-JITSU MALE -69 kg",
+      "competitors": [
+        {
+          "name": "AMSTUTZ  LEO  SWISS JUDO",
+          "country": "SUI"
+        },
+        {
+          "name": "BOJENCO MIHAIL  FEDERA",
+          "country": "MDA"
+        },
+        {
+          "name": "OANCEA DARIUS  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "CHORNOHUZ ARTEM  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "SOKOLOV OLEG  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "ARSLAN ROMEO  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "SZALAY BULCSU  HUNGARIAN SPORT JU JITSU FEDERATION",
+          "country": "HUN"
+        },
+        {
+          "name": "ANASTASAKOS-AMINOU ODYSSEAS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "BIONDA BORNA  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "ARABADJI PAVEL  FEDERA",
+          "country": "MDA"
+        },
+        {
+          "name": "YUKHNOV OLEKSII  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "SENCAR VITO  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "BOLDOR RARES ALEXANDRU  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "KARPATI ZALAN  HUNGARIAN SPORT JU JITSU FEDERATION",
+          "country": "HUN"
+        },
+        {
+          "name": "LAVI BEN JOHANAN  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "KONTARATOS ATHANASIOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "ENIKEEV ALEXANDER  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        }
+      ]
+    },
+    {
+      "catid": "21339",
+      "category": "U16 JIU-JITSU MALE -77 kg",
+      "competitors": [
+        {
+          "name": "BIONDA NOA  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "CHRISTOFI MARIOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "BAZOS PANAGIOTIS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "EL DAOUDI ANAS  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "PANAGI ZACHARIAS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "DZIUBEK MARCEL INTERNATIONAL JU-JITSU ATHLETE",
+          "country": ""
+        },
+        {
+          "name": "GELASHVILI OLEG",
+          "country": "AUT"
+        },
+        {
+          "name": "GIRONE GIUSEPPE  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "KOSMIDIS DIMITRIOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "KOSTYUKOV NIKOLAY  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SUHALJ ILIJA  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        }
+      ]
+    },
+    {
+      "catid": "4333",
+      "category": "U16 JU-JITSU DUO FEMALE",
+      "competitors": []
+    },
+    {
+      "catid": "21346",
+      "category": "U16 JU-JITSU DUO FEMALE ADVANCED R4-SF",
+      "competitors": []
+    },
+    {
+      "catid": "21347",
+      "category": "U16 JU-JITSU DUO FEMALE ADVANCED R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "21341",
+      "category": "U16 JU-JITSU DUO FEMALE WORLD R2-G1",
+      "competitors": []
+    },
+    {
+      "catid": "21342",
+      "category": "U16 JU-JITSU DUO FEMALE WORLD R2-G2",
+      "competitors": []
+    },
+    {
+      "catid": "21343",
+      "category": "U16 JU-JITSU DUO FEMALE WORLD R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "21344",
+      "category": "U16 JU-JITSU DUO FEMALE WORLD R4-SF2",
+      "competitors": []
+    },
+    {
+      "catid": "21345",
+      "category": "U16 JU-JITSU DUO FEMALE WORLD R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "21407",
+      "category": "U16 JU-JITSU DUO FEMALE WORLD R5-F Tie Match 0-1",
+      "competitors": []
+    },
+    {
+      "catid": "4332",
+      "category": "U16 JU-JITSU DUO MALE",
+      "competitors": []
+    },
+    {
+      "catid": "21353",
+      "category": "U16 JU-JITSU DUO MALE ADVANCED R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "21354",
+      "category": "U16 JU-JITSU DUO MALE ADVANCED R4-SF2",
+      "competitors": []
+    },
+    {
+      "catid": "21355",
+      "category": "U16 JU-JITSU DUO MALE ADVANCED R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "21356",
+      "category": "U16 JU-JITSU DUO MALE NOVICE R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "21357",
+      "category": "U16 JU-JITSU DUO MALE NOVICE R4-SF2",
+      "competitors": []
+    },
+    {
+      "catid": "21358",
+      "category": "U16 JU-JITSU DUO MALE NOVICE R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "21348",
+      "category": "U16 JU-JITSU DUO MALE WORLD R2-G1",
+      "competitors": []
+    },
+    {
+      "catid": "21349",
+      "category": "U16 JU-JITSU DUO MALE WORLD R2-G2",
+      "competitors": []
+    },
+    {
+      "catid": "21350",
+      "category": "U16 JU-JITSU DUO MALE WORLD R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "21351",
+      "category": "U16 JU-JITSU DUO MALE WORLD R4-SF2",
+      "competitors": []
+    },
+    {
+      "catid": "21352",
+      "category": "U16 JU-JITSU DUO MALE WORLD R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "4334",
+      "category": "U16 JU-JITSU DUO MIXED",
+      "competitors": []
+    },
+    {
+      "catid": "21364",
+      "category": "U16 JU-JITSU DUO MIXED ADVANCED R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "21365",
+      "category": "U16 JU-JITSU DUO MIXED ADVANCED R4-SF2",
+      "competitors": []
+    },
+    {
+      "catid": "21366",
+      "category": "U16 JU-JITSU DUO MIXED ADVANCED R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "21404",
+      "category": "U16 JU-JITSU DUO MIXED NOVICE R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "21368",
+      "category": "U16 JU-JITSU DUO MIXED NOVICE R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "21359",
+      "category": "U16 JU-JITSU DUO MIXED WORLD R2-G1",
+      "competitors": []
+    },
+    {
+      "catid": "21360",
+      "category": "U16 JU-JITSU DUO MIXED WORLD R2-G2",
+      "competitors": []
+    },
+    {
+      "catid": "21361",
+      "category": "U16 JU-JITSU DUO MIXED WORLD R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "21362",
+      "category": "U16 JU-JITSU DUO MIXED WORLD R4-SF2",
+      "competitors": []
+    },
+    {
+      "catid": "21363",
+      "category": "U16 JU-JITSU DUO MIXED WORLD R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "4313",
+      "category": "U16 JU-JITSU FIGHTING FEMALE +63 kg",
+      "competitors": [
+        {
+          "name": "STRANZ FENJA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "VUKAJLOVIC SOFIA  JU-JUTSU SAVEZ SRBIJE",
+          "country": "SRB"
+        },
+        {
+          "name": "ZIEBICKA PAULA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "ZHEKOVA IVANINA  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        },
+        {
+          "name": "HOERANDL MAJA",
+          "country": "AUT"
+        },
+        {
+          "name": "KOSTENKO SOFIIA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "MARLIER LEA  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "STELZER BELLA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "TRAITORAKI PELAGIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "PELIGNO SARA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "ZHUKOVA EMILIIA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "LIOFAGOU STYLIANI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        }
+      ]
+    },
+    {
+      "catid": "4306",
+      "category": "U16 JU-JITSU FIGHTING FEMALE -36 kg",
+      "competitors": []
+    },
+    {
+      "catid": "4307",
+      "category": "U16 JU-JITSU FIGHTING FEMALE -40 kg",
+      "competitors": [
+        {
+          "name": "TSAPAKIDI AIKATERINI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "SVYRYDIUK ANASTASIIA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        }
+      ]
+    },
+    {
+      "catid": "4308",
+      "category": "U16 JU-JITSU FIGHTING FEMALE -44 kg",
+      "competitors": [
+        {
+          "name": "SCARNECIU SOFIA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "WASIOLEK ANNA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "LOZIER APOLLINE  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "PAPADOPOULOU MARIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "OSTERBERG JOSEPHINE  SWEDISH JU-JUTSU FEDERATION",
+          "country": "SWE"
+        },
+        {
+          "name": "SALAS SIMON MAR  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "SOUDI IKRAM  FIJLKAM",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "catid": "4309",
+      "category": "U16 JU-JITSU FIGHTING FEMALE -48 kg",
+      "competitors": [
+        {
+          "name": "KARAGIANNI CHRISTIANA  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "CRISTEA ILINCA MARIA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "OZTURK BEYZA ELIF  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "BANOT AGATA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "EVAGGELOU ALEXANDRA  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "PICONE SOFIA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "LARIBI FERIEL  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "BOHDAN AMALIIA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "ANAGNOSTOPOULOU SOFIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "ERBACH MARIA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "STIVAKTAKI MARIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        }
+      ]
+    },
+    {
+      "catid": "4310",
+      "category": "U16 JU-JITSU FIGHTING FEMALE -52 kg",
+      "competitors": [
+        {
+          "name": "BOUZA SOFIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "DOMINO GINEVRA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "TORUN ZOHRA  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "STEFAN ANEMONA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "DELIPARA ANJA  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        },
+        {
+          "name": "DIMITROVA IVAILA  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        },
+        {
+          "name": "KUBICIUS ALEKSANDRA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "KOZINA TIA  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "NISTOR FRANCESCA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "HOLOBORODKO ALONA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "SKOUTERI DIMITRA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "MAKKIDOU ANASTASIA  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "ROSZER ALICJA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "MOLDOVANU KARINA REBECCA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "MUZDEKA ANDJELA  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        },
+        {
+          "name": "CARRATELLO EMMANUELA  FIJLKAM",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "catid": "4311",
+      "category": "U16 JU-JITSU FIGHTING FEMALE -57 kg",
+      "competitors": [
+        {
+          "name": "MANDIC NIKOL  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        },
+        {
+          "name": "GRONDIN MAELLY  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "DI MARCO MARIA CONCETTA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "TRZECIAK MARIA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "TIKHONOVA EKATERINA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "PASSA PANAGIOTA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "MARCU DIANA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "KAZAMIA THEA  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "WAWRZYNIAK ZOFIA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "SIMANIC ANJA  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        },
+        {
+          "name": "VALEVA IZABELA  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        },
+        {
+          "name": "DI MAGGIO GRETA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "IVANOVA YOANNA",
+          "country": "AUT"
+        },
+        {
+          "name": "CHRISTODOULAKI KALLIOPI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "VILLALBA AGUDELO MARTINA  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        }
+      ]
+    },
+    {
+      "catid": "4312",
+      "category": "U16 JU-JITSU FIGHTING FEMALE -63 kg",
+      "competitors": [
+        {
+          "name": "BUCHLEITNER MAYA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "MORETTI AGATA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "SUROWIAK ALICJA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "MARGARIT SONIA ELENA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "COUGOUREUX LENA  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "ZMEEV ANASTASIA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "SPAIDIOTI GEORGIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "RIBES MARRAHI LARA  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "LAMBROU EIRINI  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "MANDIC ATINA  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        },
+        {
+          "name": "GKINI ELENI-VASILIKI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        }
+      ]
+    },
+    {
+      "catid": "21188",
+      "category": "U16 JU-JITSU FIGHTING MALE +77 kg",
+      "competitors": [
+        {
+          "name": "DELLA GATTA VITO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "WILKEN PAUL  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "FERTI ANUELO  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "DRAGALINA ALEXANDRU  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "MALESA WIKTOR  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "LAHANQUE LOUKA  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "CIZEJ UROS  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "FERNANDEZ SAMUELE  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "GENITSARIDIS VASILEIOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        }
+      ]
+    },
+    {
+      "catid": "21196",
+      "category": "U16 JU-JITSU FIGHTING MALE -40 kg",
+      "competitors": [
+        {
+          "name": "GODAWA THEODOR  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "TANG CHENGLE INTERNATIONAL JU-JITSU ATHLETE",
+          "country": ""
+        },
+        {
+          "name": "BOZOVIC DANILO  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "TANG CHENGAN INTERNATIONAL JU-JITSU ATHLETE",
+          "country": ""
+        },
+        {
+          "name": "LOZANO MARIJUAN MARCOS  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "STURLESE GIANMARCO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "DANDRIA KEVIN  FIJLKAM",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "catid": "21195",
+      "category": "U16 JU-JITSU FIGHTING MALE -44 kg",
+      "competitors": [
+        {
+          "name": "GAZEL JORIS  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "KOKKONIS ANGELOS-MARINOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "MANNO GIOELE MARIA SALVATORE  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "BOTTCHER NICOLAS AUGUSTUS  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "DUENOW ADRIAN  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "NEIKOV MARTIN  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        },
+        {
+          "name": "SPULBER RAUL ALEXANDRU  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "GUTIERREZ SORIANO DAVID  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "KATSIMPRIS CHRISTOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "PETIT GAUTRON LUCAS  FEDERATION FRAN",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "catid": "21194",
+      "category": "U16 JU-JITSU FIGHTING MALE -48 kg",
+      "competitors": [
+        {
+          "name": "LUCCHESE GIUSEPPE  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "ZINDOVIC BOSKO  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "SHPYCHAK DAVYD  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "STAN ADRIAN GABRIEL  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "BENOVSKI NIKOLA  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        },
+        {
+          "name": "MICHAEL NESTORAS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "ANDREI LUCA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "CVORO ANDRIJA  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        },
+        {
+          "name": "HAZNADAR DINO  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "KAMBOURIS MARIOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "ILIC NIKOLA  JU-JUTSU SAVEZ SRBIJE",
+          "country": "SRB"
+        },
+        {
+          "name": "THOMOPOULOS KONSTANTINOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "POLITI MATTIA  FIJLKAM",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "catid": "21193",
+      "category": "U16 JU-JITSU FIGHTING MALE -52 kg",
+      "competitors": [
+        {
+          "name": "WOJTAS SZYMON  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "GHEORGHE FILIP ALEXANDRU  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "KOUMASTAS DEMETRIOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "VARBANOV RUMEN  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        },
+        {
+          "name": "ILIA GIORGOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "ZAMBITO EMANUELE  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "PAVLIC TIM  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "SAUTRON YOHAN  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "JACOBS AUDRAN  BELGIAN JU-JITSU FEDERATION",
+          "country": "BEL"
+        },
+        {
+          "name": "GALLINA GIUSEPPE  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "USTYMCHUK VLADYSLAV  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "PALCHIKOV TIMUR  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "PAPAGIANNIS THEODOROS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "LERBAUDIERE NOA  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "TOTH LAURENZ",
+          "country": "AUT"
+        },
+        {
+          "name": "AZOFRA VICENTE SAMUEL  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "EREMENKO LEV  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "VASILESCU TEODOR  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "BIRMPILAS VASILEIOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "GRABSKI FILIP  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "21192",
+      "category": "U16 JU-JITSU FIGHTING MALE -56 kg",
+      "competitors": [
+        {
+          "name": "BESSARAB YEHOR  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "BRUNO ARTHUR  BELGIAN JU-JITSU FEDERATION",
+          "country": "BEL"
+        },
+        {
+          "name": "GOCIU PETRU DANIEL  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "MORFIADAKIS GEORGIOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "KROLCZYK MILOSZ  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "PLESHKOV TIHOMIR  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        },
+        {
+          "name": "GIATTINA ANDREA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "MALIKOV IVAN  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "ARENDT ALEXANDER  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "IVIC  NENAD  JU-JUTSU SAVEZ SRBIJE",
+          "country": "SRB"
+        },
+        {
+          "name": "GIRGENTI SIMONE  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "DINKOV GEORGI  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        },
+        {
+          "name": "JUANOLE JEAN BAPTISTE  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "MOSTAFA ESSAM  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "SANDU IOAN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "KOVACEVIC ALEKSANDAR  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        }
+      ]
+    },
+    {
+      "catid": "21191",
+      "category": "U16 JU-JITSU FIGHTING MALE -62 kg",
+      "competitors": [
+        {
+          "name": "ZAIMAKIS GEORGIOS-MAXIMOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "HAANS TIMMO  SWEDISH JU-JUTSU FEDERATION",
+          "country": "SWE"
+        },
+        {
+          "name": "LARIN DMITRII  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "DIOGENOUS PANAYIOTIS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "MAGNO ANTONIO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "SCHOLL ANDREAS  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "MIHAI DAVID STEFAN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "ZAITSEV DANYLO  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "MILOVANOVIC BORIS  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "HASARDJIEV VALENTIN  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        },
+        {
+          "name": "MARKOVIC VELJKO  JU-JUTSU SAVEZ SRBIJE",
+          "country": "SRB"
+        },
+        {
+          "name": "MARICAVIC OGNJEN  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "STEFANAKIS EMMANUEL  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "KALAMANDA ANDRIJA  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        },
+        {
+          "name": "MUTOIU ERIC  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "IACHETTA GABRIELE  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "TZANAKIS EMMANOUIL  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        }
+      ]
+    },
+    {
+      "catid": "21190",
+      "category": "U16 JU-JITSU FIGHTING MALE -69 kg",
+      "competitors": [
+        {
+          "name": "MAZILU TUDOR STEFAN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "STAGKOURAKIS PAVLOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "GIANNAKOUDAKIS THOMAS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "SLEZAK ADAM  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "LORENZON RICCARDO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "ROTTMANN MATIC  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "YUKHNOV OLEKSII  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "WERNICKE THEO  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "TAMMARO LUIGI  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "MILOSEVIC FILIP  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "PANUS STEFAN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        }
+      ]
+    },
+    {
+      "catid": "21189",
+      "category": "U16 JU-JITSU FIGHTING MALE -77 kg",
+      "competitors": [
+        {
+          "name": "KALATHAKIS NIKOLAOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "SCALESE MAIKOL  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "CHRISTOFI MARIOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "BERFROI BERFEUIL MICHAEL BENJAMIN  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "GRIPPA ALESSANDRO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "PANAGI ZACHARIAS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "PANAGIOTOPOULOS MICHAIL  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "PYVOVAROV MYKYTA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        }
+      ]
+    },
+    {
+      "catid": "4336",
+      "category": "U16 JU-JITSU SHOW FEMALE",
+      "competitors": []
+    },
+    {
+      "catid": "21410",
+      "category": "U16 JU-JITSU SHOW FEMALE R2",
+      "competitors": []
+    },
+    {
+      "catid": "4335",
+      "category": "U16 JU-JITSU SHOW MALE",
+      "competitors": []
+    },
+    {
+      "catid": "21409",
+      "category": "U16 JU-JITSU SHOW MALE R2",
+      "competitors": []
+    },
+    {
+      "catid": "4337",
+      "category": "U16 JU-JITSU SHOW MIXED",
+      "competitors": []
+    },
+    {
+      "catid": "21405",
+      "category": "U16 JU-JITSU SHOW MIXED R2",
+      "competitors": []
+    },
+    {
+      "catid": "1815",
+      "category": "U18 JIU-JITSU FEMALE +70 KG",
+      "competitors": [
+        {
+          "name": "NICIARZ ADELA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "FANOU SHANA  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "DELJKAN LENA",
+          "country": "AUT"
+        },
+        {
+          "name": "SAKATI AIKATERINI-STYLIANI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "GAPONENKO KHRISTINA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "1817",
+      "category": "U18 JIU-JITSU FEMALE -44 KG",
+      "competitors": [
+        {
+          "name": "JAURES  LUDMILA  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "JOLLIVET NOELIE  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "SAMMITO CHIARA  FIJLKAM",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "catid": "1818",
+      "category": "U18 JIU-JITSU FEMALE -48 KG",
+      "competitors": [
+        {
+          "name": "FILIC NORA  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "HAIEVSKA MARHARITA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "GIATAGANA THEODORA-APOSTOLIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "HERRMANN TAMAR  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "AMAXOPOULOU NINA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "ZUNIC LEANA  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "BABCHUK MARIIA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "LUTON MATHILDE  FEDERATION FRAN",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "catid": "1819",
+      "category": "U18 JIU-JITSU FEMALE -52 KG",
+      "competitors": [
+        {
+          "name": "GAZEL JUDITH  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "RIZZA MIRIAM  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "EFTHYMIOU POLYXENI-ELENI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "PARNAU DIANA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "SZABO VIVIEN  HUNGARIAN SPORT JU JITSU FEDERATION",
+          "country": "HUN"
+        },
+        {
+          "name": "BOHLERT MELISSA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "SMIALEK ZUZANNA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "SIAKAVELLA ARETI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "TEULIE CECILE  FEDERATION FRAN",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "catid": "1820",
+      "category": "U18 JIU-JITSU FEMALE -57 KG",
+      "competitors": [
+        {
+          "name": "POLTORAK MARIIA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "PETUKHOVA ALEKSANDRA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SPODA ALEXANDRA  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "MARIDAKI NIOVI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "BURTE LOLA  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "SZALAY PETRA  HUNGARIAN SPORT JU JITSU FEDERATION",
+          "country": "HUN"
+        },
+        {
+          "name": "CSERNY LOTTI  HUNGARIAN SPORT JU JITSU FEDERATION",
+          "country": "HUN"
+        },
+        {
+          "name": "FERNANDEZ SORDO TATIANA  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "SHOMKO SOFIIA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "TSELLOU EVMORFIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "MINOL NATALIA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "GERCHINSHTAIN ADEL  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "ZEMTSOVA NATALIA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "1821",
+      "category": "U18 JIU-JITSU FEMALE -63 KG",
+      "competitors": [
+        {
+          "name": "BALINT ANA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "LAURENT MELIAN  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "TSALAI LIUDMYLA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "GIMENEZ GOMEZ INES  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "ROSSELLO FRANCESCA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "LOREK WIKTORIA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "ARENKOV YAMIT ARTEMIS  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "FANARA MICHAELLA  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "KALLIGIANNAKI ANTONIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "MASAR MIRUNA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "TOKMAKOVA MARIIA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "MAVROGIANNI CHRISTINA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "BRANCA ANNA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "DIAS VITORIA  FEDERA",
+          "country": "POR"
+        },
+        {
+          "name": "KOVACOVA ELA  SLOVAK ASSOCIATION OF SPORTS JIU-JITSU",
+          "country": "SVK"
+        },
+        {
+          "name": "GUSAROVA FAINA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "LEFRANCQ VICTORIA  FEDERATION FRAN",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "catid": "1822",
+      "category": "U18 JIU-JITSU FEMALE -70 KG",
+      "competitors": [
+        {
+          "name": "GOLDMAN NICOLE  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "KALOPETRI MARIETTA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "NENADIC KATA  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "ZINK JARA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "DORLI CHRYSANTHI-PANAGIOTA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "BIBAUD SAMYA  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "MATSKO AVIGAYIL  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "FARIAN VITALINA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "BATRNEK ANA  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "HAHN AILEEN",
+          "country": "AUT"
+        },
+        {
+          "name": "FELDMAN MARIA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "21322",
+      "category": "U18 JIU-JITSU MALE +85 KG",
+      "competitors": [
+        {
+          "name": "FILOKOSTAS PANAGIOTIS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "PALAMARCHUK RINAT  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "KUJAWKA DAWID  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "TESIC NIKSA  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        },
+        {
+          "name": "TELEF LUCAS  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "KUROSH LEV  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "LIKHACHEV ALEXANDR  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "PAVLOV NIKITA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SZABO LEVENTE  HUNGARIAN SPORT JU JITSU FEDERATION",
+          "country": "HUN"
+        },
+        {
+          "name": "SKOPAC JAKOV  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "KATSADOURAS NIKOLAOS-RAFAIL  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "BUBERNAK ARTEM  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "GRABITZKI PAUL  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "KROLICZEWSKI KSAWERY  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "21315",
+      "category": "U18 JIU-JITSU MALE -48 KG",
+      "competitors": [
+        {
+          "name": "KOMNINOS EROS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "PHALARIS MATHIEU  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "GAZIZOV TIMUR  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "GOBAA DHAKOUANI YOUNES  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "ULASHEV ULASH  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "KOKOTAKIS PANAGIOTIS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        }
+      ]
+    },
+    {
+      "catid": "21316",
+      "category": "U18 JIU-JITSU MALE -52 KG",
+      "competitors": [
+        {
+          "name": "COHEN LION YOSEF  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "PANTELIMON ANDREI ALIN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "PANKEVYCH STANISLAV  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "PRAVEDNIKOV DMITRIY  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "KEFALAS XENIOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "PNEVMATIKAKIS EMMANOUIL  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "JIMENEZ GOMEZ DIEGO  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "NEDVYHA MARK  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "DVIR TZVI SARABI  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "21317",
+      "category": "U18 JIU-JITSU MALE -56 KG",
+      "competitors": [
+        {
+          "name": "TURK JOSIP  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "VOUTSINOS PANAGIOTIS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "MALKA EREZ  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "GECS BALAZS  HUNGARIAN SPORT JU JITSU FEDERATION",
+          "country": "HUN"
+        },
+        {
+          "name": "JURAS FILIP  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "LUTSIUK ELDAR  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "INDELLICATI SIMONE  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "FRIDENBERG NIKITA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "KISS ROLAND  HUNGARIAN SPORT JU JITSU FEDERATION",
+          "country": "HUN"
+        },
+        {
+          "name": "KOUIKOGLOU ILIAS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "ESPINAS GUILHEM  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "BAR HOROWITZ  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "POPA MARIO ALEXANDRU  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "GEORGIOU CHRISTOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "GRIGORE RARES  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        }
+      ]
+    },
+    {
+      "catid": "21318",
+      "category": "U18 JIU-JITSU MALE -62 KG",
+      "competitors": [
+        {
+          "name": "SOLOVII KIRILL  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "HEESCHEN THILO  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "WINKLER ERYK  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "SARAKANIDIS ANDREAS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "GAIDASENCO DUMITRU  FEDERA",
+          "country": "MDA"
+        },
+        {
+          "name": "STOLIAROV VLADYSLAV  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "ABDAL KADIR RAMI BESIM  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "PIRES PAOLO  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "MOLNAR VASILE  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "ZAGAR MOHAMED  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "FLORENZA ANSON GENIS  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "KANER ORAN  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "KALANDAROV DAMIR  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "KUSNEZOW JULIAN  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "SARRAS THEODOROS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "CHARALAMBOUS MARINOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "GRANER LEVED  HUNGARIAN SPORT JU JITSU FEDERATION",
+          "country": "HUN"
+        },
+        {
+          "name": "FORTE FABRIZIO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "LULKO ELVIS  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "VURI MARTIN  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "CHAMBURAEV LAMBERD",
+          "country": "AUT"
+        },
+        {
+          "name": "FEDORKOV OLEKSANDR  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "SALANITRO SAMUELE  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "TRNINIC MATEJA  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        }
+      ]
+    },
+    {
+      "catid": "21319",
+      "category": "U18 JIU-JITSU MALE -69 KG",
+      "competitors": [
+        {
+          "name": "CANEPARI ANDREA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "DIDENKO MARK  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "ZHAR RAYAN  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "ATELY IDAN  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "BOGZA RAZVAN VIOREL  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "KHAZBIEV ISLAM  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "MUGATTAROV ISKANDER  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "DEMIRCI EYUEP  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "GARWOL LEON  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "PLANQUE KEYLIAN  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "BASDEKIS ANDREAS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "MENELAOU STEFANOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "STANCIULEASA ADRIAN CLAUDIU  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "ANTONIR OMER  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "BLIUM OTTO  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "SCHUDY ALEXANDER  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "GKITZOS ORFEAS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "HOBLAJ DAVID  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "GUTIERREZ MUNOZ ERIC  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "NGUYEN MILO  SWISS JUDO",
+          "country": "SUI"
+        },
+        {
+          "name": "BARSKYY YURII  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "MIHOLJEK GABRIJEL  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "SCHNOEPF JULIAN",
+          "country": "AUT"
+        },
+        {
+          "name": "ARIF YASSINE  BELGIAN JU-JITSU FEDERATION",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "21320",
+      "category": "U18 JIU-JITSU MALE -77 KG",
+      "competitors": [
+        {
+          "name": "RELJANOVIC NOA  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "LANCHUK SVIATOSLAV  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "MAIER RAUL ALEXANDRU  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "PAP JONAS  HUNGARIAN SPORT JU JITSU FEDERATION",
+          "country": "HUN"
+        },
+        {
+          "name": "VLAHOVIC MATIJA  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "PANNIKOV ANTONIO  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "VRHOVEC MAKS  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "GIORGIO RICCARDO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "HASIN OMER  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "DERDIAI VASILII  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "BEZUHLYI TYMOFII  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "LAFAZANIS ARTEM",
+          "country": "AUT"
+        },
+        {
+          "name": "FISHER POMAR CARMELO  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "KAMANETS NIKOLAS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "BAYRAMIAN SIPANE  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "FOKIN LEON  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "FERRAMOSCHE BETTI EDOARDO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "DJURKOVIC SVEN  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "KASTANAS ATHANASIOS-EFRAIM  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "CARVALHO FRANCISCO  FEDERA",
+          "country": "POR"
+        },
+        {
+          "name": "DE PELLEGRIN MATTEO",
+          "country": "AUT"
+        },
+        {
+          "name": "ARGYRIS VASILEIOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "BOZOVIC VASILIJE  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "MICHALOVITZ ITAY  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "SOLOMON ALBERT ANDREI  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        }
+      ]
+    },
+    {
+      "catid": "21321",
+      "category": "U18 JIU-JITSU MALE -85 KG",
+      "competitors": [
+        {
+          "name": "SMOLINSKYI MYKHAILO  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "JEMILLER ROQUE  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "BENAS PAULO  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        },
+        {
+          "name": "DIFONIS CHARALAMPOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "KULAK JAKUB  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "MEZHONNOV PAVEL  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "ABDOU AMINE  BELGIAN JU-JITSU FEDERATION",
+          "country": "BEL"
+        },
+        {
+          "name": "DENNEMONT SAM  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "KRISTAN TEVZ  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "TRETIAK ILLIA  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "IONITA ANTONIO  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "RON ORI  ISRAEL JU-JITSU FEDERATION",
+          "country": "ISR"
+        },
+        {
+          "name": "KRETOV ALEXANDROS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "CHRISTODOULOU PETROS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "SHAPIEV GASAN  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "BEGONJA DOMAGOJ  CROATIAN JU-JITSU FEDERATION",
+          "country": "CRO"
+        }
+      ]
+    },
+    {
+      "catid": "1889",
+      "category": "U18 JU-JITSU DUO MEN",
+      "competitors": []
+    },
+    {
+      "catid": "21376",
+      "category": "U18 JU-JITSU DUO MEN ADVANCED R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "21377",
+      "category": "U18 JU-JITSU DUO MEN ADVANCED R4-SF2",
+      "competitors": []
+    },
+    {
+      "catid": "21378",
+      "category": "U18 JU-JITSU DUO MEN ADVANCED R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "21379",
+      "category": "U18 JU-JITSU DUO MEN NOVICE R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "21380",
+      "category": "U18 JU-JITSU DUO MEN NOVICE R4-SF2",
+      "competitors": []
+    },
+    {
+      "catid": "21381",
+      "category": "U18 JU-JITSU DUO MEN NOVICE R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "21369",
+      "category": "U18 JU-JITSU DUO MEN WORLD R2-G1",
+      "competitors": []
+    },
+    {
+      "catid": "21370",
+      "category": "U18 JU-JITSU DUO MEN WORLD R2-G2",
+      "competitors": []
+    },
+    {
+      "catid": "21371",
+      "category": "U18 JU-JITSU DUO MEN WORLD R3-G1",
+      "competitors": []
+    },
+    {
+      "catid": "21372",
+      "category": "U18 JU-JITSU DUO MEN WORLD R3-G2",
+      "competitors": []
+    },
+    {
+      "catid": "21373",
+      "category": "U18 JU-JITSU DUO MEN WORLD R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "21374",
+      "category": "U18 JU-JITSU DUO MEN WORLD R4-SF2",
+      "competitors": []
+    },
+    {
+      "catid": "21408",
+      "category": "U18 JU-JITSU DUO MEN WORLD R4-SF2 Tie Match 0-1",
+      "competitors": []
+    },
+    {
+      "catid": "21375",
+      "category": "U18 JU-JITSU DUO MEN WORLD R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "1890",
+      "category": "U18 JU-JITSU DUO MIXED",
+      "competitors": []
+    },
+    {
+      "catid": "21389",
+      "category": "U18 JU-JITSU DUO MIXED ADVANCED R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "21390",
+      "category": "U18 JU-JITSU DUO MIXED ADVANCED R4-SF2",
+      "competitors": []
+    },
+    {
+      "catid": "21391",
+      "category": "U18 JU-JITSU DUO MIXED ADVANCED R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "21392",
+      "category": "U18 JU-JITSU DUO MIXED NOVICE R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "21382",
+      "category": "U18 JU-JITSU DUO MIXED WORLD R2-G1",
+      "competitors": []
+    },
+    {
+      "catid": "21383",
+      "category": "U18 JU-JITSU DUO MIXED WORLD R2-G2",
+      "competitors": []
+    },
+    {
+      "catid": "21384",
+      "category": "U18 JU-JITSU DUO MIXED WORLD R3-G1",
+      "competitors": []
+    },
+    {
+      "catid": "21385",
+      "category": "U18 JU-JITSU DUO MIXED WORLD R3-G2",
+      "competitors": []
+    },
+    {
+      "catid": "21386",
+      "category": "U18 JU-JITSU DUO MIXED WORLD R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "21387",
+      "category": "U18 JU-JITSU DUO MIXED WORLD R4-SF2",
+      "competitors": []
+    },
+    {
+      "catid": "21388",
+      "category": "U18 JU-JITSU DUO MIXED WORLD R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "1891",
+      "category": "U18 JU-JITSU DUO WOMEN",
+      "competitors": []
+    },
+    {
+      "catid": "21400",
+      "category": "U18 JU-JITSU DUO WOMEN ADVANCED R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "21401",
+      "category": "U18 JU-JITSU DUO WOMEN ADVANCED R4-SF2",
+      "competitors": []
+    },
+    {
+      "catid": "21402",
+      "category": "U18 JU-JITSU DUO WOMEN ADVANCED R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "21393",
+      "category": "U18 JU-JITSU DUO WOMEN WORLD R2-G1",
+      "competitors": []
+    },
+    {
+      "catid": "21394",
+      "category": "U18 JU-JITSU DUO WOMEN WORLD R2-G2",
+      "competitors": []
+    },
+    {
+      "catid": "21395",
+      "category": "U18 JU-JITSU DUO WOMEN WORLD R3-G1",
+      "competitors": []
+    },
+    {
+      "catid": "21396",
+      "category": "U18 JU-JITSU DUO WOMEN WORLD R3-G2",
+      "competitors": []
+    },
+    {
+      "catid": "21397",
+      "category": "U18 JU-JITSU DUO WOMEN WORLD R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "21398",
+      "category": "U18 JU-JITSU DUO WOMEN WORLD R4-SF2",
+      "competitors": []
+    },
+    {
+      "catid": "21399",
+      "category": "U18 JU-JITSU DUO WOMEN WORLD R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "1814",
+      "category": "U18 JU-JITSU FIGHTING FEMALE +70 KG",
+      "competitors": [
+        {
+          "name": "YUEKSEL AYLIN  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "EVSENINA POLINA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "POPOVIC VLADANA  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "STRANZ LISA MALIN  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "SKANDALAKI ANASTASIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "NIGRO VICTORIA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "TRENEVSKA MARIJA  JU JITSU FEDERATION OF REPUBLIC OF NORTH MACEDONIA",
+          "country": "MKD"
+        },
+        {
+          "name": "MIKLAVC ZALA  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "XENAKI ZACHARENIA-IOANNA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "NICIARZ ADELA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "1806",
+      "category": "U18 JU-JITSU FIGHTING FEMALE -40 KG",
+      "competitors": [
+        {
+          "name": "ELKINA ALEKSANDRA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "TRAVAIN OLYMPE  FEDERATION FRAN",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "catid": "1807",
+      "category": "U18 JU-JITSU FIGHTING FEMALE -44 KG",
+      "competitors": [
+        {
+          "name": "SAMMITO CHIARA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "JOLLIVET NOELIE  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "NIKULINA ALISA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "TERRISSE JADE  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "PITSIKOULI ILIANA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        }
+      ]
+    },
+    {
+      "catid": "1808",
+      "category": "U18 JU-JITSU FIGHTING FEMALE -48 KG",
+      "competitors": [
+        {
+          "name": "HEESCHEN ADELE  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "GASCO ANTON CRISTINA  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "FILOMIA GIULIA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "BIESIADECKA LIWIA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "PANOVSKI OLIVIA  SWEDISH JU-JUTSU FEDERATION",
+          "country": "SWE"
+        },
+        {
+          "name": "VOURVACHAKI ELEFTHERIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "KARAVASILI ALEXANDRA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "KRUTOVA SOFIA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "LUTON MATHILDE  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "COJOCARU ALINA MARIA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "MURDAREA ALEXANDRA DANIELA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        }
+      ]
+    },
+    {
+      "catid": "1809",
+      "category": "U18 JU-JITSU FIGHTING FEMALE -52 KG",
+      "competitors": [
+        {
+          "name": "PARNAU DIANA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "EFTHYMIOU POLYXENI-ELENI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "MAITRE LUDIVINE  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "DOMIC ALENA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "SUEDBROCK NIEKE  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "ALVAREZ PEREZ NURIA  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "BONOMOLO SIMONA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "VERYKOKIDI AIKATERINI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "FARNE CECILIA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "STOYANOVA VANESA  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        }
+      ]
+    },
+    {
+      "catid": "1810",
+      "category": "U18 JU-JITSU FIGHTING FEMALE -57 KG",
+      "competitors": [
+        {
+          "name": "TSELLOU EVMORFIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "BIESIADECKA JAGODA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "FERNANDEZ SORDO TATIANA  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "BUFANO MARTINA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "GALANI MARIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "POSTRAK TAJA  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "BOULANGER  LISA  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "HARTEL STELLA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "LUNGU BRIANNA ANDREEA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "WIDING KLARA  SWEDISH JU-JUTSU FEDERATION",
+          "country": "SWE"
+        },
+        {
+          "name": "IUGA MIRUNA DANIELA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "MINOL NATALIA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "1811",
+      "category": "U18 JU-JITSU FIGHTING FEMALE -63 KG",
+      "competitors": [
+        {
+          "name": "VAN DAM CHELSEY  JUDO BOND NEDERLAND",
+          "country": "NED"
+        },
+        {
+          "name": "KOCUVAN MIJA  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "BALLA ANNA-MARIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "HARTEL CLARA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "PETIT ROMANE  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "BALINT ANA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "DE VLEESSCHAUWER THYRA  BELGIAN JU-JITSU FEDERATION",
+          "country": "BEL"
+        },
+        {
+          "name": "ONISORU MIHAELA GABRIELA  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "KALLIGIANNAKI ANTONIA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "FOERSTER FRIEDA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "GIMENEZ GOMEZ INES  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "BAUDONE RACHELE  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "KONSTANTINOU SARA  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "ATESALP TULIN  BELGIAN JU-JITSU FEDERATION",
+          "country": "BEL"
+        },
+        {
+          "name": "FILUS JUDYTA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "1812",
+      "category": "U18 JU-JITSU FIGHTING FEMALE -70 KG",
+      "competitors": [
+        {
+          "name": "MIHALJEVIC MILICA  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "SGAMUFFA GINEVRA LOUISE  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "CHOUSOU CHRISTINA  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "FELDMAN MARIA  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "PAVON SOSA ANGELA  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "ZIZEK LARA  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "SEMERARO FEDERICA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "HANEWALD LIDDY  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "KUHN JETTE  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "MASCARO LUCIE  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "GOLDMAN NICOLE  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "GIAKOUMAKI CHRYSI  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        }
+      ]
+    },
+    {
+      "catid": "21205",
+      "category": "U18 JU-JITSU FIGHTING MALE +85 KG",
+      "competitors": [
+        {
+          "name": "RADOLFI RABEC RAPHAEL  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "NYZHNYK VOLODYMYR  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "TESIC NIKSA  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        },
+        {
+          "name": "PAYET LUDERIC  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "TSOROMOKOS GEORGIOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "GUROV EGOR  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "GOLIC ANDRIJA  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "MULKA DOMINIK  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "TSATSAKIS ANDREAS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "RIZZO LUCA  FIJLKAM",
+          "country": "ITA"
+        }
+      ]
+    },
+    {
+      "catid": "21212",
+      "category": "U18 JU-JITSU FIGHTING MALE -48 KG",
+      "competitors": [
+        {
+          "name": "KOKOTAKIS PANAGIOTIS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "PISTONE ANTONINO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "AHAMED ANDY NOURAYN  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "DOLCE MARIO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "CHUBAROV MAKSIM  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "DIMA FLORIN CIPRIAN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "NAGOVITSYN DMITRII  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        }
+      ]
+    },
+    {
+      "catid": "21211",
+      "category": "U18 JU-JITSU FIGHTING MALE -52 KG",
+      "competitors": [
+        {
+          "name": "CAPLLIURE CAMPOS DANIEL  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "BAYER SEBASTIAN",
+          "country": "AUT"
+        },
+        {
+          "name": "MAGRO MATTIA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "EYRAUD EVAN  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "FAROUX PIERRICK  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "TABOLSKII NIKITA  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "JIMENEZ GOMEZ DIEGO  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "GARZIA NICHOLAS  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "GHEORGHE ANDREI CALIN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "RACIC DJORDJE  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        },
+        {
+          "name": "PNEVMATIKAKIS EMMANOUIL  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "KYRIAKOU MICHALAKIS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        }
+      ]
+    },
+    {
+      "catid": "21210",
+      "category": "U18 JU-JITSU FIGHTING MALE -56 KG",
+      "competitors": [
+        {
+          "name": "NTESILVA GEORGIOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "TRAN VALENTIN  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "JURAS FILIP  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "POULLIS PANAYIOTIS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "KHALIQUAR DANIEL  BELGIAN JU-JITSU FEDERATION",
+          "country": "BEL"
+        },
+        {
+          "name": "GEORGIOU CHRISTOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "LUKAS ANDREAS",
+          "country": "AUT"
+        },
+        {
+          "name": "DELAGE ENZO  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "LUBOJANSKI KAMIL  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "POPA MARIO ALEXANDRU  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "OLIINYK MAKSYM  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "RICCOBONO ANDREA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "PELTEKIS GEORGIOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "SCHMIED TRISTAN  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "GRIGORE RARES  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "KIRDIANOV SERGEI  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "PETIT JULES  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "OSTERBERG SEBASTIAN  SWEDISH JU-JUTSU FEDERATION",
+          "country": "SWE"
+        }
+      ]
+    },
+    {
+      "catid": "21209",
+      "category": "U18 JU-JITSU FIGHTING MALE -62 KG",
+      "competitors": [
+        {
+          "name": "KIRDIANOV MATVEI  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "ZAIMAKIS MICHAIL  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "STROCHER ALEX  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "LAZAROV NIKOLAY  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        },
+        {
+          "name": "SEMINAHIN SEBASTIAN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "MILLENDORFER JONAS",
+          "country": "AUT"
+        },
+        {
+          "name": "NAVARSARDYAN ALBERT INTERNATIONAL JU-JITSU ATHLETE",
+          "country": ""
+        },
+        {
+          "name": "ABDAL KADIR RAMI BESIM  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "TRAITORAKIS MICHAIL-ANGELOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "JACOBS HANNES  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "MANOILO ARTEM  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "HADDED NAEL  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "CHARALAMBOUS MARINOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "WOZNIAK FRANCISZEK  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "STANZIONE JOHN JOSEPH  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "PARAMANANTHAM SELLATHURAI SAHARANUJITH  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "HOGBOM ALBIN  SWEDISH JU-JUTSU FEDERATION",
+          "country": "SWE"
+        },
+        {
+          "name": "VITERBO RICCARDO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "WINKLER ERYK  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "LUCEV MARTIN  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "RONCERO CHARLES  FEDERATION FRAN",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "catid": "21208",
+      "category": "U18 JU-JITSU FIGHTING MALE -69 KG",
+      "competitors": [
+        {
+          "name": "FIORE ANTONIO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "MACHNA DAWID  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "HOVANESIAN ARMEN  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "GUTIERREZ MUNOZ ERIC  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "LOULOUDIS IOANNIS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "VAN HATTEM ALEX  JUDO BOND NEDERLAND",
+          "country": "NED"
+        },
+        {
+          "name": "GERIMOU AIMILIOS-FANOURIOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "OSTROVSKI RADOSLAV  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        },
+        {
+          "name": "ZAIMAKIS IOANNIS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "RYLKOV PETR  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "BERNARD JUDICAEL  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "JOST JONATHAN  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "KARADIMOV DANAIL  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        },
+        {
+          "name": "IOANNOU ANDREAS-ION  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "CARABINERU TEODOR BOGDAN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "KIRSCHKE JOSHUA  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "VUKCEVIC ANDRIJA  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "STOJCESKI ANTONIO  JU JITSU FEDERATION OF REPUBLIC OF NORTH MACEDONIA",
+          "country": "MKD"
+        },
+        {
+          "name": "ROZIC DJORDJE  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        },
+        {
+          "name": "DREWEK JAKUB  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "MANNO LIAM MARIA GIOVAN BATTISTA  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "GELUYKENS SEM  BELGIAN JU-JITSU FEDERATION",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "21207",
+      "category": "U18 JU-JITSU FIGHTING MALE -77 KG",
+      "competitors": [
+        {
+          "name": "DIVJAK JAN  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "BAKARDJIEV LACHEZAR  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        },
+        {
+          "name": "RUSU GABRIEL EUGEN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "PERRONE GIORGIO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "GUARMIT ILYES  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "KULESHOV ALEKSANDR  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "CHROSTEK MACIEJ  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "MURKIC EDIN  JU-JUTSU SAVEZ SRBIJE",
+          "country": "SRB"
+        },
+        {
+          "name": "WERNICKE MADS  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "RADULOVIC NEMANJA  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "ZHABCHYK MAKSYM  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "ROMERO NAVARRO MARIO  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "MORFIADAKIS DIMITRIOS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "CHRISTOFORIDIS KIMON  SWEDISH JU-JUTSU FEDERATION",
+          "country": "SWE"
+        },
+        {
+          "name": "ALEXANDRU ADRIAN  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "PORCIANY IGOR  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "RAAB HARTMUT",
+          "country": "AUT"
+        },
+        {
+          "name": "TRIFUNOVIC LUKA  JU-JITSU FEDERATION OF REPUBLIC OF SRPSKA",
+          "country": "BIH"
+        },
+        {
+          "name": "CATHERINE STAN  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "XENAKIS PARASCHOS-TAXIARCHIS  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "FISHER POMAR CARMELO  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "MANIATIS KONSTANTINOS  CYPRUS JU JITSU FEDERATION",
+          "country": "CYP"
+        },
+        {
+          "name": "VETH RODIN  JUDO BOND NEDERLAND",
+          "country": "NED"
+        },
+        {
+          "name": "CARRAFFA DANIELE  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "GOCHEV DIMITAR  BULGARIAN JU-JITSU FEDERATION",
+          "country": "BUL"
+        },
+        {
+          "name": "MARTYNENKO DANYLO  JU-JITSU ASSOCIATION OF UKRAINE",
+          "country": "UKR"
+        },
+        {
+          "name": "WIEDEMANN ELIAS  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "MAKSIMOVIC ALEKSANDAR  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "WENDT WILLHELM  SWEDISH JU-JUTSU FEDERATION",
+          "country": "SWE"
+        },
+        {
+          "name": "DJURISIC BALSA  JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        }
+      ]
+    },
+    {
+      "catid": "21206",
+      "category": "U18 JU-JITSU FIGHTING MALE -85 KG",
+      "competitors": [
+        {
+          "name": "KOKOLAKIS EMMANOUIL  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "STAGNARI TOMMASO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "WENNBLADH GUSTAV  SWEDISH JU-JUTSU FEDERATION",
+          "country": "SWE"
+        },
+        {
+          "name": "AMORIM TOMAS  FEDERA",
+          "country": "POR"
+        },
+        {
+          "name": "SVELC ALEKS  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "MIKHEIKIN ALEKSANDR  INDIVIDUAL NEUTRAL ATHLETES",
+          "country": "AIN"
+        },
+        {
+          "name": "GARCIA SALAMANCA MARKEL  ROYAL SPAIN JU JUTSI FEDERATION",
+          "country": "ESP"
+        },
+        {
+          "name": "DENNEMONT SAM  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "KULAK JAKUB  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "NIENHAUS JANNES  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "DUBOIS CELYAN  BELGIAN JU-JITSU FEDERATION",
+          "country": "BEL"
+        },
+        {
+          "name": "LO PRESTI MATTEO  FIJLKAM",
+          "country": "ITA"
+        },
+        {
+          "name": "DASKALAKIS IOANNIS-DAVID  HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "PISKOWSKI MACIEJ  POLISH SPORT JU-JITSU ASSOCIATION",
+          "country": "POL"
+        },
+        {
+          "name": "EL KAKI GODARD ALI  FEDERATION FRAN",
+          "country": "FRA"
+        },
+        {
+          "name": "RAKAS STEFAN  JU-JITSU FEDERATION OF SLOVENIA",
+          "country": "SLO"
+        },
+        {
+          "name": "BULGARU LUCAS DAVID  ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "SCHULZ NICOLAS  DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "catid": "1892",
+      "category": "U18 JU-JITSU SHOW MEN",
+      "competitors": []
+    },
+    {
+      "catid": "21411",
+      "category": "U18 JU-JITSU SHOW MEN R2",
+      "competitors": []
+    },
+    {
+      "catid": "1893",
+      "category": "U18 JU-JITSU SHOW MIXED",
+      "competitors": []
+    },
+    {
+      "catid": "1894",
+      "category": "U18 JU-JITSU SHOW WOMEN",
+      "competitors": []
+    }
+  ]
+}

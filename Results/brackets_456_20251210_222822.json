@@ -1,0 +1,939 @@
+{
+  "verid": "456",
+  "event_name": "JJIF WORLD CUP JIUJITSU IN GI FOR U16/U18/U21/ADULTS",
+  "scraped_at": "2025-12-10T22:25:47.376027",
+  "categories": [
+    {
+      "catid": "1482",
+      "category": "ADULTS JIU-JITSU FEMALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1482.html",
+      "competitors": [
+        {
+          "name": "KOVALIOV SARA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "RUSETSKA OLEKSANDRA NATIONAL ASSOCIATION JU-JITSU OF AINEUKR",
+          "country": "UKR"
+        },
+        {
+          "name": "YAKOVENKO OLEKSANDRA NATIONAL ASSOCIATION JU-JITSU OF AINEUKR",
+          "country": "UKR"
+        },
+        {
+          "name": "DAY MAYA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1483",
+      "category": "ADULTS JIU-JITSU FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1483.html",
+      "competitors": [
+        {
+          "name": "ARONOV PNINA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "BALY MICHAL AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "DANIEL MAY AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "ABRAMOVA ALESIA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1484",
+      "category": "ADULTS JIU-JITSU FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1484.html",
+      "competitors": [
+        {
+          "name": "ROSENFELD MESHI AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "BOGDANOV ANNA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "VINTALAS ANAIS FIONA SWISS JUDO & JU-JITSU FEDERATION",
+          "country": "SUI"
+        },
+        {
+          "name": "MCGOWAN NAOMI MARIA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1485",
+      "category": "ADULTS JIU-JITSU FEMALE -70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1485.html",
+      "competitors": [
+        {
+          "name": "KRAHN DENISE DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "BEHAR MAYA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "WARNAKULASURIYA PATABEDIGE  HIMASHI LAKSALA FERNANDO JU-JITSU FEDERATION LANKA",
+          "country": "SRI"
+        },
+        {
+          "name": "BAKERMAN OR ELA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "CHRISTODOULOU ELETHERIA RUS JU JITSU FEDERATIONCYP",
+          "country": "CYP"
+        }
+      ]
+    },
+    {
+      "catid": "1479",
+      "category": "ADULTS JIU-JITSU MALE +94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1479.html",
+      "competitors": [
+        {
+          "name": "CHAZEN MATTAN JACOB AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "KOBILOV JURABEK JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "HERSHCO YEHONADAV AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "LEVIEV YOSEF THOMAS AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "ZADOROZHNII MAKSYM NATIONAL ASSOCIATION JU-JITSU OF AINEUKR",
+          "country": "UKR"
+        }
+      ]
+    },
+    {
+      "catid": "1473",
+      "category": "ADULTS JIU-JITSU MALE -56 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1473.html",
+      "competitors": [
+        {
+          "name": "ZAVIDA OMRI AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "RAKHMONBERDIEV SARVARBEK JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        }
+      ]
+    },
+    {
+      "catid": "1474",
+      "category": "ADULTS JIU-JITSU MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1474.html",
+      "competitors": [
+        {
+          "name": "KALUARATCHI KAVEEN GREAT BRITAIN JUJITSU",
+          "country": "GBR"
+        },
+        {
+          "name": "MANSUROV DAVLATJON JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "BURSHTEIN AMIT MEIR AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "BIRMINGHAM TREVOR GREAT BRITAIN JUJITSU",
+          "country": "GBR"
+        },
+        {
+          "name": "STARIKOV RON AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "PISTINER TAL AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "HAVIV OMRI AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "PISTINER TAL AEL JU-JITSU FEDERATIONISR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ISR",
+          "country": "ISR"
+        },
+        {
+          "name": "BIRMINGHAM TREVOR GREAT BRITAIN JUJITSU \t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        GBR",
+          "country": "GBR"
+        },
+        {
+          "name": "STARIKOV RON AEL JU-JITSU FEDERATIONISR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ISR",
+          "country": "ISR"
+        },
+        {
+          "name": "MANSUROV DAVLATJON JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        }
+      ]
+    },
+    {
+      "catid": "1475",
+      "category": "ADULTS JIU-JITSU MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1475.html",
+      "competitors": [
+        {
+          "name": "ALENBERG SHALEV AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "NEUBAUER STJEPAN ATIAN JU-JITSU FEDERATIONCRO",
+          "country": "CRO"
+        },
+        {
+          "name": "CHRIKI YARIN AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "SHUTKO KOSTIANTYN NATIONAL ASSOCIATION JU-JITSU OF AINEUKR",
+          "country": "UKR"
+        }
+      ]
+    },
+    {
+      "catid": "1476",
+      "category": "ADULTS JIU-JITSU MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1476.html",
+      "competitors": [
+        {
+          "name": "KETIS ANDREJ JU-JITSU FEDERATION OF VENIASLO",
+          "country": "SLO"
+        },
+        {
+          "name": "SIROOSI ALIINTERNATIONAL JU-JITSU ATHLETEJ",
+          "country": "JIF"
+        },
+        {
+          "name": "PAPERNI EVYATAR AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "SAP NATAN ISH SPORT JU-JITSU ASSOCIATIONPOL",
+          "country": "POL"
+        },
+        {
+          "name": "VOLOSHYN BOHDAN NATIONAL ASSOCIATION JU-JITSU OF AINEUKR",
+          "country": "UKR"
+        },
+        {
+          "name": "BITON NAHMAN YARIV AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "STRAKL GREGOR JU-JITSU FEDERATION OF VENIASLO",
+          "country": "SLO"
+        },
+        {
+          "name": "PETRYK OLEH NATIONAL ASSOCIATION JU-JITSU OF AINEUKR",
+          "country": "UKR"
+        },
+        {
+          "name": "MAMMADOV NEMAT RBAIJAN JU-JITSU FEDERATIONAZE",
+          "country": "AZE"
+        },
+        {
+          "name": "KETIS ANDREJ JU-JITSU FEDERATION OF VENIASLO\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SLO",
+          "country": "SLO"
+        },
+        {
+          "name": "PETRYK OLEH NATIONAL ASSOCIATION JU-JITSU OF AINEUKR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UKR",
+          "country": "UKR"
+        },
+        {
+          "name": "STRAKL GREGOR JU-JITSU FEDERATION OF VENIASLO\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SLO",
+          "country": "SLO"
+        },
+        {
+          "name": "MAMMADOV NEMAT RBAIJAN JU-JITSU FEDERATIONAZE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        AZE",
+          "country": "AZE"
+        },
+        {
+          "name": "VOLOSHYN BOHDAN NATIONAL ASSOCIATION JU-JITSU OF AINEUKR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UKR",
+          "country": "UKR"
+        }
+      ]
+    },
+    {
+      "catid": "1477",
+      "category": "ADULTS JIU-JITSU MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1477.html",
+      "competitors": [
+        {
+          "name": "ARTSIMOVYCH MYKHAILO NATIONAL ASSOCIATION JU-JITSU OF AINEUKR",
+          "country": "UKR"
+        },
+        {
+          "name": "RAKHIMOV HUSAN JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "SHURKOV YAN AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "KOBILOV JURABEK JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "DABOOL YARIN AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "MINENKO KONSTANTIN AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "RYEDER NIMROD AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "RAKHIMOV HUSAN JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "SHURKOV YAN AEL JU-JITSU FEDERATIONISR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ISR",
+          "country": "ISR"
+        },
+        {
+          "name": "MINENKO KONSTANTIN AEL JU-JITSU FEDERATIONISR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ISR",
+          "country": "ISR"
+        },
+        {
+          "name": "ARTSIMOVYCH MYKHAILO NATIONAL ASSOCIATION JU-JITSU OF AINEUKR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UKR",
+          "country": "UKR"
+        }
+      ]
+    },
+    {
+      "catid": "1478",
+      "category": "ADULTS JIU-JITSU MALE -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1478.html",
+      "competitors": [
+        {
+          "name": "MCGARRY MICHAEL GREAT BRITAIN JUJITSU",
+          "country": "GBR"
+        },
+        {
+          "name": "SHEMESH SAAR AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "IBRAGIMOV AVRAHAM AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "DAGAN ROY AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "4339",
+      "category": "ADULTS JIUJITSU NOGI female -57",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4339.html",
+      "competitors": []
+    },
+    {
+      "catid": "4337",
+      "category": "ADULTS JIUJITSU NOGI female -63",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4337.html",
+      "competitors": []
+    },
+    {
+      "catid": "4334",
+      "category": "ADULTS JIUJITSU NOGI female -70",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4334.html",
+      "competitors": []
+    },
+    {
+      "catid": "4335",
+      "category": "Adults JiuJitsu NoGi Men +94",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4335.html",
+      "competitors": []
+    },
+    {
+      "catid": "4340",
+      "category": "Adults JiuJitsu NoGi Men -62",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4340.html",
+      "competitors": []
+    },
+    {
+      "catid": "4333",
+      "category": "Adults JiuJitsu NoGi Men -69",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4333.html",
+      "competitors": []
+    },
+    {
+      "catid": "4332",
+      "category": "Adults JiuJitsu NoGi Men -77",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4332.html",
+      "competitors": []
+    },
+    {
+      "catid": "4336",
+      "category": "Adults JiuJitsu NoGi Men -85",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4336.html",
+      "competitors": [
+        {
+          "name": "DABOOL YARIN AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "NIKOLAOU CHRISTOS RUS JU JITSU FEDERATIONCYP",
+          "country": "CYP"
+        },
+        {
+          "name": "MINENKO KONSTANTIN AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "LEITE LUCCA FEDERAÇÃO DE JU-JITSU E DA DE TUGALPOR",
+          "country": "POR"
+        }
+      ]
+    },
+    {
+      "catid": "4338",
+      "category": "Adults JiuJitsu NoGi Men -94",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4338.html",
+      "competitors": []
+    },
+    {
+      "catid": "4318",
+      "category": "U16 JIU-JITSU MALE -55 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4318.html",
+      "competitors": [
+        {
+          "name": "HE YI KANG CHINA JUJITSU COUNCIL",
+          "country": "CHN"
+        },
+        {
+          "name": "JURAS FILIP ISH SPORT JU-JITSU ASSOCIATIONPOL",
+          "country": "POL"
+        },
+        {
+          "name": "OCHMAN AGAM KATIEL AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "KALANDAROV DAMIR RJF",
+          "country": "RJF"
+        },
+        {
+          "name": "HALABI AYMAN AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "DABOOL ALON AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "MAOR BEN AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "HE YI KANG CHINA JUJITSU COUNCIL\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CHN",
+          "country": "CHN"
+        },
+        {
+          "name": "OCHMAN AGAM KATIEL AEL JU-JITSU FEDERATIONISR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ISR",
+          "country": "ISR"
+        },
+        {
+          "name": "KALANDAROV DAMIR RJF\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        RJF",
+          "country": "RJF"
+        },
+        {
+          "name": "DABOOL ALON AEL JU-JITSU FEDERATIONISR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ISR",
+          "country": "ISR"
+        },
+        {
+          "name": "JURAS FILIP ISH SPORT JU-JITSU ASSOCIATIONPOL\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        POL",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "4319",
+      "category": "U16 JIU-JITSU MALE -60 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4319.html",
+      "competitors": [
+        {
+          "name": "LAN YOUZHE CHINA JUJITSU COUNCIL",
+          "country": "CHN"
+        },
+        {
+          "name": "BITON ORI AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "HANIA AVIV AEL ISRAEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "DULEMBA WIKTOR ISH SPORT JU-JITSU ASSOCIATIONPOL",
+          "country": "POL"
+        },
+        {
+          "name": "WEISS URI YITZHAK AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "SHTOFF ROI AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "4320",
+      "category": "U16 JIU-JITSU MALE -66 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4320.html",
+      "competitors": [
+        {
+          "name": "PUPKIN URIYA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "ANTONIR OMER AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "KOVALIOV STEVEN AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "4321",
+      "category": "U16 JIU-JITSU MALE -73 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4321.html",
+      "competitors": [
+        {
+          "name": "SURMA MATEUSZ ISH SPORT JU-JITSU ASSOCIATIONPOL",
+          "country": "POL"
+        },
+        {
+          "name": "KUCA MATEUSZ ISH SPORT JU-JITSU ASSOCIATIONPOL",
+          "country": "POL"
+        },
+        {
+          "name": "BEGONJA DOMAGOJ ATIAN JU-JITSU FEDERATIONCRO",
+          "country": "CRO"
+        }
+      ]
+    },
+    {
+      "catid": "4343",
+      "category": "U16 JIUJITSU NOGI boys -55",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4343.html",
+      "competitors": []
+    },
+    {
+      "catid": "4344",
+      "category": "U16 JIUJITSU NOGI boys -60",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4344.html",
+      "competitors": []
+    },
+    {
+      "catid": "4346",
+      "category": "U16 JIUJITSU NOGI boys -73",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4346.html",
+      "competitors": []
+    },
+    {
+      "catid": "1819",
+      "category": "U18 JIU-JITSU FEMALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1819.html",
+      "competitors": [
+        {
+          "name": "SELA ZOHAR AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "SZYMIK  EWA ISH SPORT JU-JITSU ASSOCIATIONPOL",
+          "country": "POL"
+        },
+        {
+          "name": "SNEH REEF AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1820",
+      "category": "U18 JIU-JITSU FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1820.html",
+      "competitors": []
+    },
+    {
+      "catid": "1821",
+      "category": "U18 JIU-JITSU FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1821.html",
+      "competitors": [
+        {
+          "name": "ELESHINA TAISIIA RJF",
+          "country": "RJF"
+        },
+        {
+          "name": "TEVELEV ARINA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "GORDIN TAMAR AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "SHALEV LIA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "RESHEF NOGA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1830",
+      "category": "U18 JIU-JITSU MALE +81 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1830.html",
+      "competitors": [
+        {
+          "name": "BARASH IDO AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "SADE NITAY AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "FADLON JONATHAN HAIM AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1825",
+      "category": "U18 JIU-JITSU MALE -55 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1825.html",
+      "competitors": [
+        {
+          "name": "SALINGER GAL AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "DADON RONEL YEUDA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "RABI KASHI ITAMAR AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "JACOBSON DANIEL BAEU AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1826",
+      "category": "U18 JIU-JITSU MALE -60 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1826.html",
+      "competitors": [
+        {
+          "name": "RAVID OFIR AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "JACOBY OFEK AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "CHIBIKEEV MIKHAIL RJF",
+          "country": "RJF"
+        },
+        {
+          "name": "BURSHTEIN GUY AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1827",
+      "category": "U18 JIU-JITSU MALE -66 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1827.html",
+      "competitors": [
+        {
+          "name": "ATELY IDAN AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "BEN YAIR LIAV AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "GOLAN YALI AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1828",
+      "category": "U18 JIU-JITSU MALE -73 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1828.html",
+      "competitors": [
+        {
+          "name": "LEVITAN ITAI AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "BARHAM TAMIR AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "PELTZ ILAY ARIE AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "BEN OZERI LAVI AEL ISRAEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1829",
+      "category": "U18 JIU-JITSU MALE -81 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1829.html",
+      "competitors": [
+        {
+          "name": "ABULCHER  OR AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "DROZD BARTLOMIEJ ISH SPORT JU-JITSU ASSOCIATIONPOL",
+          "country": "POL"
+        },
+        {
+          "name": "SHAHRABANY AMIT AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "BOARON TOMMY NINO AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "LAYANI AMIT DAVID AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "THONGSONG KENNETH JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "4347",
+      "category": "U18 JIUJITSU NOGI boys -55",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4347.html",
+      "competitors": []
+    },
+    {
+      "catid": "4348",
+      "category": "U18 JIUJITSU NOGI boys -60",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4348.html",
+      "competitors": []
+    },
+    {
+      "catid": "4349",
+      "category": "U18 JIUJITSU NOGI boys -66",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4349.html",
+      "competitors": [
+        {
+          "name": "BEN YAIR LIAV AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "PELTZ ILAY ARIE AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "4350",
+      "category": "U18 JIUJITSU NOGI boys -73",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4350.html",
+      "competitors": [
+        {
+          "name": "LEVITAN ITAI AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "BEN OZERI LAVI AEL ISRAEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "SCHWEBEL LEO DAVID AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "4351",
+      "category": "U18 JIUJITSU NOGI boys -81",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4351.html",
+      "competitors": []
+    },
+    {
+      "catid": "4352",
+      "category": "U18 JIUJITSU NOGI GIRLS -52",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4352.html",
+      "competitors": []
+    },
+    {
+      "catid": "4353",
+      "category": "U18 JIUJITSU NOGI GIRLS -63",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4353.html",
+      "competitors": []
+    },
+    {
+      "catid": "1470",
+      "category": "U21 JIU-JITSU FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1470.html",
+      "competitors": [
+        {
+          "name": "MILLER NOYA RUTH AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "DOLGANOVA KSENIIAINTERNATIONAL JU-JITSU ATHLETEJ",
+          "country": "JIF"
+        },
+        {
+          "name": "ARPI NETA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1460",
+      "category": "U21 JIU-JITSU MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1460.html",
+      "competitors": [
+        {
+          "name": "BABENKOV DENIS AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "KALUTARA ARACHCHIGE  ROMESH DASUN JU-JITSU FEDERATION LANKA",
+          "country": "SRI"
+        },
+        {
+          "name": "VACHTELL BARAK AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "WEISMAN ORI YEHUDA AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1461",
+      "category": "U21 JIU-JITSU MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1461.html",
+      "competitors": [
+        {
+          "name": "KOREN NOAM AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "FRIEDMAN RON AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "SHAHRUR LIAV ELIAV AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "LIPETZ MEIR EMANUEL AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1462",
+      "category": "U21 JIU-JITSU MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_1462.html",
+      "competitors": [
+        {
+          "name": "BARASH IDO AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "FOTA JULIEN SWISS JUDO & JU-JITSU FEDERATION",
+          "country": "SUI"
+        },
+        {
+          "name": "AMAR YIZHAQ AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "ROSENFELD MEYTAR AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "SCHWEBEL LEO DAVID AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "4354",
+      "category": "U21 JIUJITSU NOGI female -63",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4354.html",
+      "competitors": []
+    },
+    {
+      "catid": "4355",
+      "category": "U21 JiuJitsu NoGi Men -62",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4355.html",
+      "competitors": []
+    },
+    {
+      "catid": "4356",
+      "category": "U21 JiuJitsu NoGi Men -69",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4356.html",
+      "competitors": []
+    },
+    {
+      "catid": "4357",
+      "category": "U21 JiuJitsu NoGi Men -85",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_456_4357.html",
+      "competitors": []
+    }
+  ]
+}

@@ -1,0 +1,2284 @@
+{
+  "verid": "50",
+  "event_name": "Ju Jitsu Thailand Open - South East Asian Championship",
+  "scraped_at": "2025-12-10T23:12:49.599947",
+  "categories": [
+    {
+      "catid": "476",
+      "category": "Contact Ju Jitsu Senior Men +94 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_476.html",
+      "competitors": [
+        {
+          "name": "Wang Liming Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "Liu Chiyu Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "chumchureeruk Phuwaded Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Dong Chunlei Ju-Jitsu International Association of China",
+          "country": "CHN"
+        }
+      ]
+    },
+    {
+      "catid": "470",
+      "category": "Contact Ju Jitsu Senior Men -56 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_470.html",
+      "competitors": [
+        {
+          "name": "Machungern Arthit Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "SON DAO HONG TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Ritthidecha Chatchai Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "SOLANKI KUNDAN Ju-Jitsu Association of India",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "471",
+      "category": "Contact Ju Jitsu Senior Men -62 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_471.html",
+      "competitors": [
+        {
+          "name": "wanram Viroj Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "kraiyarach natchanon Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Yang Wenge Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "Khamwan Nattapat Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "472",
+      "category": "Contact Ju Jitsu Senior Men -69 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_472.html",
+      "competitors": [
+        {
+          "name": "Potijaen Chayanon Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "MEHMOOD RIASAT Pakistan",
+          "country": "PAK"
+        },
+        {
+          "name": "Yi Xiang Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "Uttapan Veerayut Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Bo Jiarui Ju-Jitsu International Association of China",
+          "country": "CHN"
+        }
+      ]
+    },
+    {
+      "catid": "473",
+      "category": "Contact Ju Jitsu Senior Men -77 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_473.html",
+      "competitors": [
+        {
+          "name": "Tantaatipanit Sirapat Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Li Lin Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "Butmahai Chanthat Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Wu Jiahan Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "Li Yafei Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "Zou Jian Ju-Jitsu International Association of China",
+          "country": "CHN"
+        }
+      ]
+    },
+    {
+      "catid": "474",
+      "category": "Contact Ju Jitsu Senior Men -85 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_474.html",
+      "competitors": [
+        {
+          "name": "TUNG HOANG MANH TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "chantharathanu Thawatchai Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "475",
+      "category": "Contact Ju Jitsu Senior Men -94 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_475.html",
+      "competitors": [
+        {
+          "name": "klungklangdon Ratchapon Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "TUAN NGUYEN VAN TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Fei Zhigang Ju-Jitsu International Association of China",
+          "country": "CHN"
+        }
+      ]
+    },
+    {
+      "catid": "477",
+      "category": "Contact Ju Jitsu Senior Women -49 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_477.html",
+      "competitors": [
+        {
+          "name": "Namngam Rachadakorn Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "KALAM ROHINI Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Chomchon Gayroong Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "SWAIN ANUPAMA Ju-Jitsu Association of India",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "478",
+      "category": "Contact Ju Jitsu Senior Women -55 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_478.html",
+      "competitors": [
+        {
+          "name": "homchuen Sukruethai Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Cherdmanusatian Natechanok Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Lin Lin Ju-Jitsu International Association of China",
+          "country": "CHN"
+        }
+      ]
+    },
+    {
+      "catid": "479",
+      "category": "Contact Ju Jitsu Senior Women -62 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_479.html",
+      "competitors": [
+        {
+          "name": "SHARMA ARCHANA VISHWANATH Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "nuansomsri Kunlasatree Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "KUMARI NISHI Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Akkajan Kamolwan Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "480",
+      "category": "Contact Ju Jitsu Senior Women -70 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_480.html",
+      "competitors": [
+        {
+          "name": "KUMARI MEENU Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Tubsai Nitchanan Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "3",
+      "category": "Duo Classic Men Senior",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_3.html",
+      "competitors": [
+        {
+          "name": "Viet Nam TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "ISTAN PakistanPAK",
+          "country": "PAK"
+        }
+      ]
+    },
+    {
+      "catid": "117",
+      "category": "Duo Classic men U18",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_117.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "TNAM VIETNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "120",
+      "category": "Duo Classic men U21",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_120.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Viet Nam TNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "606",
+      "category": "Duo Classic men U21 Final",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_606.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Viet Nam TNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "5",
+      "category": "Duo Classic Mixed Senior",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_5.html",
+      "competitors": [
+        {
+          "name": "Viet Nam TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "119",
+      "category": "Duo Classic mixed U18",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_119.html",
+      "competitors": [
+        {
+          "name": "TNAM VIETNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "122",
+      "category": "Duo Classic mixed U21",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_122.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Viet Nam TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TNAM VIETNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "118",
+      "category": "Duo Classic women U18",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_118.html",
+      "competitors": [
+        {
+          "name": "TNAM VIETNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "12",
+      "category": "Fighting System Men Senior +94 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_12.html",
+      "competitors": [
+        {
+          "name": "Kitpongpanit Phanuphong Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Wang Liming Ju-Jitsu International Association of China",
+          "country": "CHN"
+        }
+      ]
+    },
+    {
+      "catid": "6",
+      "category": "Fighting System Men Senior -56 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_6.html",
+      "competitors": [
+        {
+          "name": "SON DAO HONG TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Shaikh Ali Alkhatib Shaikh Ahmad TEAM GAPORESIN",
+          "country": "SIN"
+        },
+        {
+          "name": "Sangkham Narongphorn Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "7",
+      "category": "Fighting System Men Senior -62 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_7.html",
+      "competitors": [
+        {
+          "name": "Bualuang Phuwadech Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Namjilmaa Bat-erdene Mongolian Jiu Jitsu Association",
+          "country": "MGL"
+        },
+        {
+          "name": "Keadnin Komkrit Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "8",
+      "category": "Fighting System Men Senior -69 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_8.html",
+      "competitors": [
+        {
+          "name": "Muankitnittayachai Titiwut Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "MEHMOOD RIASAT Pakistan",
+          "country": "PAK"
+        },
+        {
+          "name": "HOANG LE TRONG TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Ariunbileg Gantulkhuur Mongolian Jiu Jitsu Association",
+          "country": "MGL"
+        },
+        {
+          "name": "Bin Asad Muhannad Fadhli TEAM GAPORESIN",
+          "country": "SIN"
+        },
+        {
+          "name": "Yi Xiang Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "Mamee Noppasin Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Muankitnittayachai Titiwut Ju-jitsu association of thailand\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "HOANG LE TRONG TNAMVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Bin Asad Muhannad Fadhli TEAM GAPORESIN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SIN",
+          "country": "SIN"
+        },
+        {
+          "name": "Yi Xiang Ju-Jitsu International Association of China\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CHN",
+          "country": "CHN"
+        }
+      ]
+    },
+    {
+      "catid": "9",
+      "category": "Fighting System Men Senior -77 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_9.html",
+      "competitors": [
+        {
+          "name": "En Wei Chew TEAM GAPORESIN",
+          "country": "SIN"
+        },
+        {
+          "name": "Wang Xu Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "CHARLOT Jonathan MAURITIUS JUJITSU FEDERATION",
+          "country": "MRI"
+        },
+        {
+          "name": "RATHOD SARVAN Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Li Lin Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "Wu Jiahan Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "Tortermkitchai Thitipant Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Zou Jian Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "Li Yafei Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "Madkla Yuki Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "En Wei Chew TEAM GAPORESIN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SIN",
+          "country": "SIN"
+        },
+        {
+          "name": "Li Yafei Ju-Jitsu International Association of China\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CHN",
+          "country": "CHN"
+        },
+        {
+          "name": "RATHOD SARVAN Ju-Jitsu Association of India\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "RATHOD SARVAN Ju-Jitsu Association of India\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "Zou Jian Ju-Jitsu International Association of China\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CHN",
+          "country": "CHN"
+        },
+        {
+          "name": "Li Lin Ju-Jitsu International Association of China\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CHN",
+          "country": "CHN"
+        },
+        {
+          "name": "Wang Xu Ju-Jitsu International Association of China\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CHN",
+          "country": "CHN"
+        },
+        {
+          "name": "Wang Xu Ju-Jitsu International Association of China\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CHN",
+          "country": "CHN"
+        }
+      ]
+    },
+    {
+      "catid": "10",
+      "category": "Fighting System Men Senior -85 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_10.html",
+      "competitors": [
+        {
+          "name": "Sangsin Karun Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "klangsena patiwat Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "JANYA KANJANAPHAT Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "11",
+      "category": "Fighting System Men Senior -94 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_11.html",
+      "competitors": [
+        {
+          "name": "Fei Zhigang Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "KUSSAINOV Ramazan Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Benjanilath Thanalath Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "108",
+      "category": "Fighting System Men U18 +81 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_108.html",
+      "competitors": [
+        {
+          "name": "watabunditkul Prab Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Kaewweed Mr.Siwakorn Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "101",
+      "category": "Fighting System Men U18 -46 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_101.html",
+      "competitors": [
+        {
+          "name": "Thambanthoeng Tatpol Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "POONCHUEN KULKORN Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "102",
+      "category": "Fighting System Men U18 -50 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_102.html",
+      "competitors": [
+        {
+          "name": "Detharn Thanapat Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Noipanit Puwanat Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "103",
+      "category": "Fighting System Men U18 -55 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_103.html",
+      "competitors": [
+        {
+          "name": "PHOPANA WARAKORN Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "TRIEN NGUYEN TIEN TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TantaAtipanit Tanapat Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "104",
+      "category": "Fighting System Men U18 -60 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_104.html",
+      "competitors": [
+        {
+          "name": "CONG NGUYEN THANH TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Pingmuang Piyatat Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Phankalasin Setthawoot Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "105",
+      "category": "Fighting System Men U18 -66 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_105.html",
+      "competitors": [
+        {
+          "name": "SANG HOANG NGOC TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "kokarunphong Nawaphon Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "poomkaew Phuwarit Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "106",
+      "category": "Fighting System Men U18 -73 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_106.html",
+      "competitors": [
+        {
+          "name": "Jantanakha Ratanapidech Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Thongpinta Nakarin Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "107",
+      "category": "Fighting System Men U18 -81 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_107.html",
+      "competitors": [
+        {
+          "name": "soiphlaeng Aphisak Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "phosri Sriwichai Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "253",
+      "category": "FIGHTING SYSTEM MEN U21 +94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_253.html",
+      "competitors": [
+        {
+          "name": "Bamrungsalee Thanakorn Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "chumchureeruk Phuwaded Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "248",
+      "category": "FIGHTING SYSTEM MEN U21 -56 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_248.html",
+      "competitors": [
+        {
+          "name": "IEMLUENAM PANOP Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "SOLANKI KUNDAN Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Supamanee Nattanon Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "259",
+      "category": "FIGHTING SYSTEM MEN U21 -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_259.html",
+      "competitors": [
+        {
+          "name": "Songsri Kittipoom Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "THANG CAN VAN TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Sinchaitan Sirirot Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Yang Wenge Ju-Jitsu International Association of China",
+          "country": "CHN"
+        }
+      ]
+    },
+    {
+      "catid": "249",
+      "category": "FIGHTING SYSTEM MEN U21 -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_249.html",
+      "competitors": [
+        {
+          "name": "sutipalo Wutthichai Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Bo Jiarui Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "Seehawong Konlawad Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "KHANH BUI QUOC TNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "250",
+      "category": "FIGHTING SYSTEM MEN U21 -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_250.html",
+      "competitors": [
+        {
+          "name": "Butmahai Chanthat Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Tantaatipanit Sirapat Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "251",
+      "category": "FIGHTING SYSTEM MEN U21 -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_251.html",
+      "competitors": [
+        {
+          "name": "TUNG HOANG MANH TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "chantharathanu Thawatchai Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "252",
+      "category": "FIGHTING SYSTEM MEN U21 -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_252.html",
+      "competitors": [
+        {
+          "name": "saejueng Sakon Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "TUAN NGUYEN VAN TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Maneerat Atit Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "MULE SIDDHARTH Ju-Jitsu Association of India",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "13",
+      "category": "Fighting System Women Senior -49 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_13.html",
+      "competitors": [
+        {
+          "name": "Singse Chananan Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "SWAIN ANUPAMA Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "KALAM ROHINI Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Namngam Rachadakorn Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "14",
+      "category": "Fighting System Women Senior -55 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_14.html",
+      "competitors": [
+        {
+          "name": "Chomchon Gayroong Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Taweesupumporn Sutasinee Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Mingkhwan Apichaya Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Lin Lin Ju-Jitsu International Association of China",
+          "country": "CHN"
+        }
+      ]
+    },
+    {
+      "catid": "15",
+      "category": "Fighting System Women Senior -62 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_15.html",
+      "competitors": [
+        {
+          "name": "SHARMA ARCHANA VISHWANATH Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Jangsawang Pawan Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "16",
+      "category": "Fighting System Women Senior -70 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_16.html",
+      "competitors": [
+        {
+          "name": "KUMARI MEENU Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Akkajan Kamolwan Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Chansonthi Pornthip Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "116",
+      "category": "Fighting System Women U18 +70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_116.html",
+      "competitors": [
+        {
+          "name": "ANH NGUYEN NGOC TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "LAN DAO THI TNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "110",
+      "category": "Fighting System Women U18 -44 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_110.html",
+      "competitors": [
+        {
+          "name": "chaiwong Jenjila Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "LAN NGUYEN THI TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Buthkub Nitchanan Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "SHARMA VAIDEHI Ju-Jitsu Association of India",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "111",
+      "category": "Fighting System Women U18 -48 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_111.html",
+      "competitors": [
+        {
+          "name": "singchalad Nuchanat Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "VAN DINH THI THU TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Suvannakul Napasorn Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "QUYNH DAO THI NHU TNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "112",
+      "category": "Fighting System Women U18 -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_112.html",
+      "competitors": [
+        {
+          "name": "Vechphisit Poonnisa Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "PATEL KHUSHI Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "BOONYEUN MISS NATNA Ju-jitsu association of thailandTHA",
+          "country": "THA"
+        },
+        {
+          "name": "LINH NGUYEN KHANH TNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "113",
+      "category": "Fighting System Women U18 -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_113.html",
+      "competitors": [
+        {
+          "name": "HUONG NGUYEN THI TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Thongpuang Nattakan Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "LINH NGUYEN THI KHANH TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "PANPHET PHUNJAPAK Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "114",
+      "category": "Fighting System Women U18 -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_114.html",
+      "competitors": [
+        {
+          "name": "Meekaew Wilasinee Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Rabeabouth Teerissara Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "115",
+      "category": "Fighting System Women U18 -70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_115.html",
+      "competitors": [
+        {
+          "name": "Sngaunwong Panasya Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Theindee Nithinan Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "258",
+      "category": "FIGHTING SYSTEM WOMEN U21 +70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_258.html",
+      "competitors": [
+        {
+          "name": "LY NGUYEN NGOC HUONG TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Purisodom Kanchanit Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "254",
+      "category": "FIGHTING SYSTEM WOMEN U21 -49 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_254.html",
+      "competitors": [
+        {
+          "name": "Chiangrang Benyapa Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "sugun Nutchaya Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Bangwised Panadda​ Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "256",
+      "category": "FIGHTING SYSTEM WOMEN U21 -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_256.html",
+      "competitors": [
+        {
+          "name": "Somkham Thanyaruk Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Phuang-injai Wannikha Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "130",
+      "category": "Ne Waza Men U18 +81 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_130.html",
+      "competitors": [
+        {
+          "name": "polput Rakpol Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "watabunditkul Prab Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "123",
+      "category": "Ne Waza Men U18 -46 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_123.html",
+      "competitors": [
+        {
+          "name": "POONCHUEN KULKORN Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Thambanthoeng Tatpol Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "124",
+      "category": "Ne Waza Men U18 -50 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_124.html",
+      "competitors": [
+        {
+          "name": "Detharn Thanapat Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "leelalearsatian Narapat Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "125",
+      "category": "Ne Waza Men U18 -55 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_125.html",
+      "competitors": [
+        {
+          "name": "TantaAtipanit Tanapat Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "TRIEN NGUYEN TIEN TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "poopa Nannapat Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Hidayat Handoko Wahyu PBJI Indo Team",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "126",
+      "category": "Ne Waza Men U18 -60 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_126.html",
+      "competitors": [
+        {
+          "name": "SANG HOANG NGOC TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Jangsawang Thanthorn Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "CONG NGUYEN THANH TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KEESURIYA JITWISUT Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "127",
+      "category": "Ne Waza Men U18 -66 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_127.html",
+      "competitors": [
+        {
+          "name": "kokarunphong Nawaphon Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Engwerda Nakharin Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "128",
+      "category": "Ne Waza Men U18 -73 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_128.html",
+      "competitors": [
+        {
+          "name": "Jantanakha Ratanapidech Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Tragoonin Tanaphum Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "129",
+      "category": "Ne Waza Men U18 -81 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_129.html",
+      "competitors": [
+        {
+          "name": "phosri Sriwichai Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "soiphlaeng Aphisak Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Dy Joaquin Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "145",
+      "category": "Ne Waza Men U21 +94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_145.html",
+      "competitors": [
+        {
+          "name": "chumchureeruk Phuwaded Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Bamrungsalee Thanakorn Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "140",
+      "category": "Ne Waza Men U21 -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_140.html",
+      "competitors": [
+        {
+          "name": "THANG CAN VAN TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "chaichaiyaphum khunanon Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "141",
+      "category": "Ne Waza Men U21 -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_141.html",
+      "competitors": [
+        {
+          "name": "KHANH BUI QUOC TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Chatgeon Monton Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "MURASAWA EKACHAI Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "142",
+      "category": "Ne Waza Men U21 -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_142.html",
+      "competitors": [
+        {
+          "name": "Boonrang Phoonnavich Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Tantaatipanit Sirapat Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "143",
+      "category": "Ne Waza Men U21 -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_143.html",
+      "competitors": [
+        {
+          "name": "TUNG HOANG MANH TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "chantharathanu Thawatchai Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "144",
+      "category": "Ne Waza Men U21 -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_144.html",
+      "competitors": [
+        {
+          "name": "MULE SIDDHARTH Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Arya Wijoyo Revana PBJI Indo Team",
+          "country": "INA"
+        },
+        {
+          "name": "saejueng Sakon Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "TUAN NGUYEN VAN TNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "138",
+      "category": "Ne Waza Women U18 +70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_138.html",
+      "competitors": [
+        {
+          "name": "LY NGUYEN NGOC HUONG TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "LAN DAO THI TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Valmores Dylan Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "ANH NGUYEN NGOC TNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "131",
+      "category": "Ne Waza Women U18 -40 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_131.html",
+      "competitors": [
+        {
+          "name": "Kantadong Thanwarat Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "TRANG PHAM THUY TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "chaiwong Jenjila Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "132",
+      "category": "Ne Waza Women U18 -44 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_132.html",
+      "competitors": [
+        {
+          "name": "Buthkub Nitchanan Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Adkins Kinaree ruth Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Chanasabaeng Waraporn Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "LAN NGUYEN THI TNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "133",
+      "category": "Ne Waza Women U18 -48 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_133.html",
+      "competitors": [
+        {
+          "name": "singchalad Nuchanat Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "VAN DINH THI THU TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Jaikamhang Miss Natrada Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "QUYNH DAO THI NHU TNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "134",
+      "category": "Ne Waza Women U18 -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_134.html",
+      "competitors": [
+        {
+          "name": "Vechphisit Poonnisa Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "PATEL KHUSHI Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "PUDTHONGSEEWARA NARWASORND Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "LINH NGUYEN KHANH TNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "135",
+      "category": "Ne Waza Women U18 -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_135.html",
+      "competitors": [
+        {
+          "name": "PANPHET PHUNJAPAK Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "LINH NGUYEN THI KHANH TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Suraratrungsri Navanapast Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "136",
+      "category": "Ne Waza Women U18 -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_136.html",
+      "competitors": [
+        {
+          "name": "HUONG NGUYEN THI TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Meekaew Wilasinee Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "146",
+      "category": "Ne Waza Women U21 -49 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_146.html",
+      "competitors": [
+        {
+          "name": "Engwerda Saengdao Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Sala Jiraphon Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Meechai Kanthika Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Thatthong Rattanaporn Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Bangwised Panadda​ Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "148",
+      "category": "Ne Waza Women U21 -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_148.html",
+      "competitors": [
+        {
+          "name": "Phuang-injai Wannikha Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "KUMARI NISHI Ju-Jitsu Association of India",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "149",
+      "category": "Ne Waza Women U21 -70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_149.html",
+      "competitors": [
+        {
+          "name": "IAMJUMNONG PORNPAILIN Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Nilyakanon Thawanrat Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "24",
+      "category": "Ne-Waza Men Senior +94 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_24.html",
+      "competitors": [
+        {
+          "name": "NANDAL ABHISHEK Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Liu Chiyu Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "Kitpongpanit Phanuphong Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "18",
+      "category": "Ne-Waza Men Senior -56 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_18.html",
+      "competitors": [
+        {
+          "name": "Mauludy Ikhsan Ananda PBJI Indo Team",
+          "country": "INA"
+        },
+        {
+          "name": "Singchalad Payoongsak Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Sangkham Narongphorn Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Konyssov Kuandyk Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Ritthidecha Chatchai Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "SHIN TAEBOM Jiu-Jitsu Association of Korea",
+          "country": "KOR"
+        },
+        {
+          "name": "Seiduali Nurzhan Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "SHIN TAEBOM Jiu-Jitsu Association of Korea\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "Konyssov Kuandyk Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "19",
+      "category": "Ne-Waza Men Senior -62 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_19.html",
+      "competitors": [
+        {
+          "name": "NORTAYEV DARKHAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "soonthorn Sarin Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Lone Jahanzeb Rashad USJJO",
+          "country": "USA"
+        },
+        {
+          "name": "Chua Calvin TEAM GAPORESIN",
+          "country": "SIN"
+        },
+        {
+          "name": "Ramadhan Fikri PBJI Indo Team",
+          "country": "INA"
+        },
+        {
+          "name": "JO LEO Jiu-Jitsu Association of Korea",
+          "country": "KOR"
+        },
+        {
+          "name": "Mastur Imam PBJI Indo Team",
+          "country": "INA"
+        },
+        {
+          "name": "Cortez Jan Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "Jangsawang Woraman Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Bualuang Phuwadech Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Chia Daryl TEAM GAPORESIN",
+          "country": "SIN"
+        },
+        {
+          "name": "JO LEO Jiu-Jitsu Association of Korea\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "Cortez Jan Jiu JItsu Federation of the Philippines\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "20",
+      "category": "Ne-Waza Men Senior -69 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_20.html",
+      "competitors": [
+        {
+          "name": "LERTISONG MR.BANPOT Ju-jitsu association of thailandTHA",
+          "country": "THA"
+        },
+        {
+          "name": "Kazhekov Nartay Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Saputera Julius PBJI Indo Team",
+          "country": "INA"
+        },
+        {
+          "name": "Pena Carlo Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "DHILLON AMRIT JOT SINGH Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Chua Ivan TEAM GAPORESIN",
+          "country": "SIN"
+        },
+        {
+          "name": "BEAK SEUNGMOON Jiu-Jitsu Association of Korea",
+          "country": "KOR"
+        },
+        {
+          "name": "KUMAR RAVI Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "YIMPRAI RATCHARAT Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "HOANG LE TRONG TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "JOO SEONGHYEON Jiu-Jitsu Association of Korea",
+          "country": "KOR"
+        },
+        {
+          "name": "Mataharu Michael PBJI Indo Team",
+          "country": "INA"
+        },
+        {
+          "name": "Lim Bing Sheng Fernando TEAM GAPORESIN",
+          "country": "SIN"
+        },
+        {
+          "name": "Chua Ivan TEAM GAPORESIN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SIN",
+          "country": "SIN"
+        }
+      ]
+    },
+    {
+      "catid": "21",
+      "category": "Ne-Waza Men Senior -77 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_21.html",
+      "competitors": [
+        {
+          "name": "Wang Xu Ju-Jitsu International Association of China",
+          "country": "CHN"
+        },
+        {
+          "name": "HUNNY HUNNY Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Nurtakanov Olzhas Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Suntra Sooknatee Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Gunawan Rudi PBJI Indo Team",
+          "country": "INA"
+        },
+        {
+          "name": "Yan Wei Kwan TEAM GAPORESIN",
+          "country": "SIN"
+        },
+        {
+          "name": "Serranilla Rian Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "Ariunbileg Gantulkhuur Mongolian Jiu Jitsu Association",
+          "country": "MGL"
+        },
+        {
+          "name": "Willy Willy PBJI Indo Team",
+          "country": "INA"
+        },
+        {
+          "name": "JEONG JINHYEON Jiu-Jitsu Association of Korea",
+          "country": "KOR"
+        },
+        {
+          "name": "Ngamyoo Rachata Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "RATHOD SARVAN Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Ariunbileg Gantulkhuur Mongolian Jiu Jitsu Association\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "Ariunbileg Gantulkhuur Mongolian Jiu Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "Serranilla Rian Jiu JItsu Federation of the Philippines\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "Gunawan Rudi PBJI Indo Team\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "Gunawan Rudi PBJI Indo Team\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "Suntra Sooknatee Ju-jitsu association of thailand\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "Wang Xu Ju-Jitsu International Association of China\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CHN",
+          "country": "CHN"
+        }
+      ]
+    },
+    {
+      "catid": "22",
+      "category": "Ne-Waza Men Senior -85 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_22.html",
+      "competitors": [
+        {
+          "name": "GAVRILYUK Andrey Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Sangsin Karun Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Mariano Marvin Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "SHIN TAESU Jiu-Jitsu Association of Korea",
+          "country": "KOR"
+        },
+        {
+          "name": "Sangyai Phongchai Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "KUMAR RAJESH Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Roxas Dean Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "Wee Kok Ng TEAM GAPORESIN",
+          "country": "SIN"
+        },
+        {
+          "name": "dumsuwan Karuedach Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Mariano Marvin Jiu JItsu Federation of the Philippines\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SHIN TAESU Jiu-Jitsu Association of Korea\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        }
+      ]
+    },
+    {
+      "catid": "23",
+      "category": "Ne-Waza Men Senior -94 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_23.html",
+      "competitors": [
+        {
+          "name": "Benjanilath Thanalath Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "SINGH AMARJEET Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Netthip Natdanai Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "JUNG MINSU Jiu-Jitsu Association of Korea",
+          "country": "KOR"
+        },
+        {
+          "name": "KUSSAINOV Ramazan Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Tri Saputra Herman PBJI Indo Team",
+          "country": "INA"
+        },
+        {
+          "name": "klungklangdon Ratchapon Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "KHARE JITENDRA GYANENDRA Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "JUNG MINSU Jiu-Jitsu Association of Korea\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "SINGH AMARJEET Ju-Jitsu Association of India\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "25",
+      "category": "Ne-Waza Women Senior -49 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_25.html",
+      "competitors": [
+        {
+          "name": "Mekenbayeva Arailym Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Phumthong Benyatip Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "SWAIN ANUPAMA Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Pajaron Caroline Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "BOONSORN SUWANAN Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "KALAM ROHINI Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "KIM JISUN Jiu-Jitsu Association of Korea",
+          "country": "KOR"
+        },
+        {
+          "name": "DEEPUDSA SIRAMOL Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "KHADTARE AKSHATA SUBHASH Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Namngam Rachadakorn Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "GHATUARY PRIYADARSINI Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Boonrueang Runchana Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Apriani Savitri Santi PBJI Indo Team",
+          "country": "INA"
+        },
+        {
+          "name": "Lumban Tobing Cornelia PBJI Indo Team",
+          "country": "INA"
+        },
+        {
+          "name": "DEEPUDSA SIRAMOL Ju-jitsu association of thailand\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "Mekenbayeva Arailym Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "26",
+      "category": "Ne-Waza Women Senior -55 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_26.html",
+      "competitors": [
+        {
+          "name": "IRFAN FATIMA Pakistan",
+          "country": "PAK"
+        },
+        {
+          "name": "Lakpasom Patchara Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "CHOI HUIYUN Jiu-Jitsu Association of Korea",
+          "country": "KOR"
+        },
+        {
+          "name": "Mingkhwan Apichaya Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Rafael Mariella Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "27",
+      "category": "Ne-Waza Women Senior -62 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_27.html",
+      "competitors": [
+        {
+          "name": "SANGSIRICHOK ONANONG Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Yeni Megawati Ilma PBJI Indo Team",
+          "country": "INA"
+        },
+        {
+          "name": "Duvanova Galina Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Pinprayoon Anotai Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "ROSHNI ROSHNI Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Ooi May TEAM GAPORESIN",
+          "country": "SIN"
+        },
+        {
+          "name": "SENAM ORAPA Ju-jitsu association of thailandTHA",
+          "country": "THA"
+        },
+        {
+          "name": "Lien Constance TEAM GAPORESIN",
+          "country": "SIN"
+        },
+        {
+          "name": "LEE YOUNI Jiu-Jitsu Association of Korea",
+          "country": "KOR"
+        },
+        {
+          "name": "SHARMA ARCHANA VISHWANATH Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "LEE YOUNI Jiu-Jitsu Association of Korea\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "Duvanova Galina Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "28",
+      "category": "Ne-Waza Women Senior -70 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_28.html",
+      "competitors": [
+        {
+          "name": "Gutierrez Lou Ann Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "Chansonthi Pornthip Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Julia Simone PBJI Indo Team",
+          "country": "INA"
+        },
+        {
+          "name": "Rodriguez Natasha Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "Tubsai Nitchanan Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "KUMARI MEENU Ju-Jitsu Association of India",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "607",
+      "category": "Ne-Waza Women Senior -70 Kg Final",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_607.html",
+      "competitors": [
+        {
+          "name": "Tubsai Nitchanan Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Julia Simone PBJI Indo Team",
+          "country": "INA"
+        },
+        {
+          "name": "Chansonthi Pornthip Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Rodriguez Natasha Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "460",
+      "category": "Show System Senior Men",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_460.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "ISTAN PakistanPAK",
+          "country": "PAK"
+        },
+        {
+          "name": "Viet Nam TNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "463",
+      "category": "Show System Senior Mixed",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_463.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Viet Nam TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ISTAN PakistanPAK",
+          "country": "PAK"
+        },
+        {
+          "name": "JAI  SHOW Ju-Jitsu Association of India",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "466",
+      "category": "Show System U18 Men",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_466.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "TNAM VIETNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "464",
+      "category": "Show System U18 Mixed",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_464.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "TNAM VIETNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "465",
+      "category": "Show System U18 Women",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_465.html",
+      "competitors": [
+        {
+          "name": "TNAM VIETNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "JAI SHOW Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "467",
+      "category": "Show System U21 Men",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_467.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Viet Nam TNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "608",
+      "category": "Show System U21 Men Final",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_608.html",
+      "competitors": [
+        {
+          "name": "Viet Nam TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "469",
+      "category": "Show System U21 Mixed",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_50_469.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Viet Nam TNAMVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TNAM VIETNAMVIE",
+          "country": "VIE"
+        }
+      ]
+    }
+  ]
+}

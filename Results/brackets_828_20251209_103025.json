@@ -1,0 +1,57 @@
+{
+  "verid": "828",
+  "event_name": "2025 ASIAN CHAMPIONSHIPS U21 (JOR)",
+  "scraped_at": "2025-12-09T10:29:47.018407",
+  "categories": [
+    {
+      "catid": "1485",
+      "category": "ADULTS JIU-JITSU FEMALE -70 KG",
+      "html_saved": true
+    },
+    {
+      "catid": "1479",
+      "category": "ADULTS JIU-JITSU MALE +94 KG",
+      "html_saved": true
+    },
+    {
+      "catid": "1475",
+      "category": "ADULTS JIU-JITSU MALE -69 KG",
+      "html_saved": true
+    },
+    {
+      "catid": "1476",
+      "category": "ADULTS JIU-JITSU MALE -77 KG",
+      "html_saved": true
+    },
+    {
+      "catid": "1477",
+      "category": "ADULTS JIU-JITSU MALE -85 KG",
+      "html_saved": true
+    },
+    {
+      "catid": "1478",
+      "category": "ADULTS JIU-JITSU MALE -94 KG",
+      "html_saved": true
+    },
+    {
+      "catid": "1457",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -70 KG",
+      "html_saved": true
+    },
+    {
+      "catid": "1450",
+      "category": "ADULTS JU-JITSU FIGHTING MALE +94 KG",
+      "html_saved": true
+    },
+    {
+      "catid": "1447",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -77 KG",
+      "html_saved": true
+    },
+    {
+      "catid": "1448",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -85 KG",
+      "html_saved": true
+    }
+  ]
+}

@@ -1,0 +1,2051 @@
+{
+  "verid": "49",
+  "event_name": "3rd JJAU Asian Championship",
+  "scraped_at": "2025-12-10T23:17:57.058190",
+  "categories": [
+    {
+      "catid": "476",
+      "category": "Contact Ju Jitsu Senior Men +94 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_476.html",
+      "competitors": [
+        {
+          "name": "BISSALIYEV TYNYS Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "TOLUEGAZIYEV ASLAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Tejenov Mergen Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        }
+      ]
+    },
+    {
+      "catid": "470",
+      "category": "Contact Ju Jitsu Senior Men -56 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_470.html",
+      "competitors": [
+        {
+          "name": "LIU HSUEH-KANG Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "Meredov Kemal Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "KENESBAYEV RASUL Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALZHANOV YELAMAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Bobomurodov Alidzhon Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "DIKHAN TOKTAR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Batyr Durdeyyev Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "ZHAKYPBEKOV DASTAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "471",
+      "category": "Contact Ju Jitsu Senior Men -62 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_471.html",
+      "competitors": [
+        {
+          "name": "Gantumur Bayanduuren Mongolian Jiu Jitsu Association",
+          "country": "MGL"
+        },
+        {
+          "name": "MAGAYEV ADAM Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Almasbek uulu Bakyt Kyrgyz Republic",
+          "country": "KGZ"
+        },
+        {
+          "name": "Agayev Mirali Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "ZHASSIYA BEKZAT Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "CHIEN SHENG-FENG Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "KASSYMBAYEV KALDAR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Tanriberdiyev Yusup Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "KEMALOV NURSULTAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "472",
+      "category": "Contact Ju Jitsu Senior Men -69 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_472.html",
+      "competitors": [
+        {
+          "name": "KOSHERBAYEV BEIBIT Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "YERDAULET YERZHAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "ANGAPOV KANAT Kazakhstan Jiu-Jitsu AssociationKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "Hojamyradov Jelilmuhammet Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "More Abhijeet Sharad Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Zakarin Zhanbolat Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "473",
+      "category": "Contact Ju Jitsu Senior Men -77 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_473.html",
+      "competitors": [
+        {
+          "name": "AITENOV AUEZ Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Rustam Rozmetov Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Taganov Rahmet Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "AKZHIGITOV ALISHER Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Setdarov Arslan Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "RAIMBEKOV Ardak Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "SHAPOLATOV MEIRKHAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "474",
+      "category": "Contact Ju Jitsu Senior Men -85 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_474.html",
+      "competitors": [
+        {
+          "name": "Begenchmyrat Kakabayev Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "ABAYEV AZAMAT Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "WEi CHU-CHENG Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "ZHAISHIBEKOV MADI Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Jorayev Mergen Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "KATBAYEV GALYMZHAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "YESSENEYEV KUANDYK Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "475",
+      "category": "Contact Ju Jitsu Senior Men -94 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_475.html",
+      "competitors": [
+        {
+          "name": "Hojamuhammedov Serdar Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "LYSSENKO VADIM Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "TSENG WEI-LUN Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "KENZHEYEV OLZHAS Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "LIN CHANG-CHIH Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "Charyyev Nejimetdin Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "DOSMUKHAMETOV MADI Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "481",
+      "category": "Contact Ju Jitsu Senior Women +70 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_481.html",
+      "competitors": [
+        {
+          "name": "MUKHAMEDIYAROVA ZULFIYA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Garchovova Aysoltan Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Agajanova Sabina Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "YERZHANOVA NAZIRA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "477",
+      "category": "Contact Ju Jitsu Senior Women -49 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_477.html",
+      "competitors": [
+        {
+          "name": "DAURENBEKOVA GULNUR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Avezmetova Sayara Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "KHUDAIBERDIYEVA AMINA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "478",
+      "category": "Contact Ju Jitsu Senior Women -55 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_478.html",
+      "competitors": [
+        {
+          "name": "Rus Veronika Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "ASKARKYZY AINUR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "NUGMANOVA GULMIRA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Ramazanova Nazira Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Durdyyeva Jahan Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        }
+      ]
+    },
+    {
+      "catid": "479",
+      "category": "Contact Ju Jitsu Senior Women -62 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_479.html",
+      "competitors": [
+        {
+          "name": "Tlepova Aliya Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "AMANZHOLOVA AZIZA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "3",
+      "category": "Duo Classic Men Senior",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_3.html",
+      "competitors": [
+        {
+          "name": "TAJIKISTAN Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Team iraq a IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "TAJIKISTAN NATIONAL TEAM Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "ISTAN B PakistanPAK",
+          "country": "PAK"
+        }
+      ]
+    },
+    {
+      "catid": "701",
+      "category": "Duo Classic Men Senior Final",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_701.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "ISTAN B PakistanPAK",
+          "country": "PAK"
+        },
+        {
+          "name": "Team iraq a IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        }
+      ]
+    },
+    {
+      "catid": "700",
+      "category": "Duo classic mixed and women",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_700.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "pakistan Pakistan",
+          "country": "PAK"
+        },
+        {
+          "name": "Kazakhstan Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "702",
+      "category": "Duo classic mixed and women Final",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_702.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "30",
+      "category": "Duo Show Men Senior",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_30.html",
+      "competitors": [
+        {
+          "name": "TAJIKISTAN NATIONAL TEAM Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "TURKMENISTAN Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Team iraq b IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "ISTAN B PakistanPAK",
+          "country": "PAK"
+        },
+        {
+          "name": "TAJIKISTAN Tajikistan National Team",
+          "country": "TJK"
+        }
+      ]
+    },
+    {
+      "catid": "708",
+      "category": "Duo Show Men Senior Final",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_708.html",
+      "competitors": [
+        {
+          "name": "ISTAN B PakistanPAK",
+          "country": "PAK"
+        },
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Team iraq b IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "TAJIKISTAN NATIONAL TEAM Tajikistan National Team",
+          "country": "TJK"
+        }
+      ]
+    },
+    {
+      "catid": "699",
+      "category": "Duo Show Women + mixed",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_699.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "pakistan Pakistan",
+          "country": "PAK"
+        },
+        {
+          "name": "Kazakhstan Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "707",
+      "category": "Duo Show Women + mixed Final",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_707.html",
+      "competitors": [
+        {
+          "name": "Thailand Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "6",
+      "category": "Fighting System Men Senior -56 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_6.html",
+      "competitors": [
+        {
+          "name": "Meredov Kemal Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Nurlybayev Zhenis Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Bobomurodov Alidzhon Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "Singchalad Payoongsak Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "KABDENOV YELDOS Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "LIU HSUEH-KANG Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "MALGAZHDAROV BAUYRZHAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "kuntong Suwijak Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Bissengaliyev Kazakbay Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "MALGAZHDAROV BAUYRZHAN Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KABDENOV YELDOS Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "7",
+      "category": "Fighting System Men Senior -62 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_7.html",
+      "competitors": [
+        {
+          "name": "Tanriberdiyev Yusup Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "DOSMAGAMBETOV KANAT Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Aldongarov Altynbek Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "soonthorn Sarin Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Agayev Mirali Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "ZHANIBEK Abu-Bakir Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Jangsawang Woraman Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "AMANTURLIYEV TILEUKABYL Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Abdulnazarov Shoymard Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "Gantumur Bayanduuren Mongolian Jiu Jitsu Association",
+          "country": "MGL"
+        },
+        {
+          "name": "CHIEN SHENG-FENG Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "AL-SHADEEDI MOHAMMED IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "AMANTURLIYEV TILEUKABYL Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "AL-SHADEEDI MOHAMMED IRAQ JU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        }
+      ]
+    },
+    {
+      "catid": "8",
+      "category": "Fighting System Men Senior -69 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_8.html",
+      "competitors": [
+        {
+          "name": "Hojamyradov Jelilmuhammet Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "KHAMZE BAKKUAR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "LERTISONG MR.BANPOT Ju-jitsu association of thailandTHA",
+          "country": "THA"
+        },
+        {
+          "name": "Zhumabaev Almazbek Kyrgyz Republic",
+          "country": "KGZ"
+        },
+        {
+          "name": "TAHA MAHMOOD IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "Karimov Khizrali Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "More Abhijeet Sharad Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "DUISENKULOV Nursultan Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "AL-SHADEEDI ALI IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "Torebay Maxim Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "OTEPBERGENOV Shapagat Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "YIMPRAI RATCHARAT Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Odinaev Sukhrob Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "DUISENKULOV Nursultan Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "OTEPBERGENOV Shapagat Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "9",
+      "category": "Fighting System Men Senior -77 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_9.html",
+      "competitors": [
+        {
+          "name": "Ngamyoo Rachata Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "SHAPOLATOV MEIRKHAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "RAIMBEKOV Ardak Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Taganov Rahmet Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "CHAPARE KRISHNAT KAMANNA Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "ZHANGBYRBAYEV KUANDYK Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Rahimov Abdumanon Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "AL-ANSEREI IHSAN IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "Setdarov Arslan Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Zakarin Zhanbolat Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Suntra Sooknatee Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Rahimov Abdumanon Tajikistan National Team\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TJK",
+          "country": "TJK"
+        },
+        {
+          "name": "AL-ANSEREI IHSAN IRAQ JU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "CHAPARE KRISHNAT KAMANNA Ju-Jitsu Association of India\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "CHAPARE KRISHNAT KAMANNA Ju-Jitsu Association of India\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "Setdarov Arslan Turkmenistan National Martial Arts Federation\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TKM",
+          "country": "TKM"
+        },
+        {
+          "name": "Taganov Rahmet Turkmenistan National Martial Arts Federation\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TKM",
+          "country": "TKM"
+        },
+        {
+          "name": "Taganov Rahmet Turkmenistan National Martial Arts Federation\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TKM",
+          "country": "TKM"
+        },
+        {
+          "name": "RAIMBEKOV Ardak Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "Ngamyoo Rachata Ju-jitsu association of thailand\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "Ngamyoo Rachata Ju-jitsu association of thailand\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "10",
+      "category": "Fighting System Men Senior -85 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_10.html",
+      "competitors": [
+        {
+          "name": "WEi CHU-CHENG Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "KARASSAYEV DASTAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Sangsin Karun Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Jorayev Mergen Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "YESSENEYEV KUANDYK Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "MAHMOOD MURTADHA IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "RUSTAMKHANOV SAIYOD Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Bashimov Myrat Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "ABAYEV AZAMAT Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Sangsin Karun Ju-jitsu association of thailand\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KARASSAYEV DASTAN Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "11",
+      "category": "Fighting System Men Senior -94 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_11.html",
+      "competitors": [
+        {
+          "name": "ALBU-MOHAMMED MOHANAD IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "NURMUKHANOV ERNUR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "LIN CHANG-CHIH Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "KENZHEYEV OLZHAS Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "TSENG WEI-LUN Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "AUDANBAYEV DAUREN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Netthip Natdanai Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Kitpongpanit Phanuphong Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "KUSSAINOV Ramazan Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Charyyev Nejimetdin Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "LIN CHANG-CHIH Taiwan Ju-Jitsu Federation\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TPE",
+          "country": "TPE"
+        },
+        {
+          "name": "AUDANBAYEV DAUREN Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "247",
+      "category": "Fighting System Men Seniors +94 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_247.html",
+      "competitors": [
+        {
+          "name": "SINA FAYYAZ IRAN JJ FEDERATION",
+          "country": "IRI"
+        },
+        {
+          "name": "ADILBEK ERZHAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "UTKELBAYEV BERIK Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Konyssov Orynbek Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "17",
+      "category": "Fighting System Women Senior +70 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_17.html",
+      "competitors": [
+        {
+          "name": "Agajanova Sabina Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "MUKHAMEDIYAROVA ZULFIYA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Tubsai Nitchanan Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Garchovova Aysoltan Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "TARASOVA TATYANA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "KAMANDANI SOUDE IRAN JJ FEDERATION",
+          "country": "IRI"
+        }
+      ]
+    },
+    {
+      "catid": "704",
+      "category": "Fighting System Women Senior +70 Kg Final",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_704.html",
+      "competitors": [
+        {
+          "name": "Agajanova Sabina Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "TARASOVA TATYANA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Garchovova Aysoltan Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Tubsai Nitchanan Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "13",
+      "category": "Fighting System Women Senior -49 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_13.html",
+      "competitors": [
+        {
+          "name": "Suraubekova Marzhan Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Avezmetova Sayara Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "KALYKOVA PERIZAT Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "KHUDAIBERDIYEVA AMINA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "BOONSORN SUWANAN Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "MUKHANOVA ZHANSAYA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "705",
+      "category": "Fighting System Women Senior -49 Kg Final",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_705.html",
+      "competitors": [
+        {
+          "name": "BOONSORN SUWANAN Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "KALYKOVA PERIZAT Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Suraubekova Marzhan Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "KHUDAIBERDIYEVA AMINA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "14",
+      "category": "Fighting System Women Senior -55 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_14.html",
+      "competitors": [
+        {
+          "name": "Ramazanova Nazira Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "IRFAN FATIMA Pakistan",
+          "country": "PAK"
+        },
+        {
+          "name": "Nigmatullayeva Aibanu Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "ASKARKYZY AINUR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "DEEPUDSA SIRAMOL Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "706",
+      "category": "Fighting System Women Senior -55 Kg Final",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_706.html",
+      "competitors": [
+        {
+          "name": "Nigmatullayeva Aibanu Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "ASKARKYZY AINUR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "DEEPUDSA SIRAMOL Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Ramazanova Nazira Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "15",
+      "category": "Fighting System Women Senior -62 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_15.html",
+      "competitors": [
+        {
+          "name": "KOSHEMBAYEVA MOLDIR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Krovyakova Violetta Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "SANGSIRICHOK ONANONG Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Rezaei Khadijeh IRAN JJ FEDERATION",
+          "country": "IRI"
+        },
+        {
+          "name": "SENAM ORAPA Ju-jitsu association of thailandTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SHARMA ARCHANA VISHWANATH Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Tlepova Aliya Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "SENAM ORAPA Ju-jitsu association of thailandTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KOSHEMBAYEVA MOLDIR Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "16",
+      "category": "Fighting System Women Senior -70 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_16.html",
+      "competitors": [
+        {
+          "name": "Chansonthi Pornthip Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "YERZHANOVA NAZIRA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "ORAZALINA AZHAR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "607",
+      "category": "NE WAZA MEN SENIORS -62KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_607.html",
+      "competitors": [
+        {
+          "name": "soonthorn Sarin Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "CHIEN SHENG-FENG Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "SERIKULY ARMAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Tanriberdiyev Yusup Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Gantumur Bayanduuren Mongolian Jiu Jitsu Association",
+          "country": "MGL"
+        },
+        {
+          "name": "Munfaredi AbdullaJU JITSU ASIAN UNIONJ",
+          "country": "JAU"
+        },
+        {
+          "name": "ZHANIBEK Abu-Bakir Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Abdulnazarov Shoymard Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "Baluyot Eros Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "alharasheh freeh Jordan Jiu Jitsu",
+          "country": "JOR"
+        },
+        {
+          "name": "ALKATHEERI ZAYED  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "AL-SHADEEDI MOHAMMED IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "Agayev Mirali Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Yim Ju Hyuck Jiu-Jitsu Association of Korea",
+          "country": "KOR"
+        },
+        {
+          "name": "ORAZALY AIBAR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "NORTAYEV DARKHAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Jangsawang Woraman Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Pena Carlo Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "ALBREIKI MANA  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "ORAZALY AIBAR Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "Pena Carlo Jiu JItsu Federation of the Philippines\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "71",
+      "category": "NE WAZA MEN SENIORS -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_71.html",
+      "competitors": [
+        {
+          "name": "More Abhijeet Sharad Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "Novikov Dmitrii Kyrgyz Republic",
+          "country": "KGZ"
+        },
+        {
+          "name": "Gombosuren Lkhagvasuren Mongolian Jiu Jitsu Association",
+          "country": "MGL"
+        },
+        {
+          "name": "AL-SHADEEDI ALI IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "SADYROV DAMIR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Odinaev Sukhrob Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "Man Siu Kei HONG KONG-CHINA BRAZILIAN JIU-JITSU ASSOCIATION",
+          "country": "HKG"
+        },
+        {
+          "name": "Lim Marc Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "Hojamyradov Jelilmuhammet Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "TAHA MAHMOOD IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "Kazhekov Nartay Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "YIMPRAI RATCHARAT Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "MAMILOV ISLAM Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Au Hing Tung HONG KONG-CHINA BRAZILIAN JIU-JITSU ASSOCIATION",
+          "country": "HKG"
+        },
+        {
+          "name": "LERTISONG MR.BANPOT Ju-jitsu association of thailandTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ALTAHER MAHER ABDULSALAM  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "LIN YU Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "Zakarin Zhanbolat Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALHAMMADI ABDULLA YOUSIF  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "AL ALABD ALI IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "Karimov Khizrali Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "Munkhtur Batbileg Mongolian Jiu Jitsu Association",
+          "country": "MGL"
+        },
+        {
+          "name": "More Abhijeet Sharad Ju-Jitsu Association of India\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "AL-SHADEEDI ALI IRAQ JU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "Odinaev Sukhrob Tajikistan National Team\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TJK",
+          "country": "TJK"
+        },
+        {
+          "name": "AL ALABD ALI IRAQ JU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "Zakarin Zhanbolat Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "Man Siu Kei HONG KONG-CHINA BRAZILIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        HKG",
+          "country": "HKG"
+        },
+        {
+          "name": "TAHA MAHMOOD IRAQ JU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "SADYROV DAMIR Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "YIMPRAI RATCHARAT Ju-jitsu association of thailand\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "Novikov Dmitrii Kyrgyz Republic\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "MAMILOV ISLAM Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "72",
+      "category": "NE WAZA MEN SENIORS -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_72.html",
+      "competitors": [
+        {
+          "name": "AL-ANSEREI IHSAN IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "Rahimov Abdumanon Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "Setdarov Arslan Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Ngamyoo Rachata Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "LEE TIEN-YU Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "alrashid Abdelkarim Jordan Jiu Jitsu",
+          "country": "JOR"
+        },
+        {
+          "name": "Suntra Sooknatee Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Taganov Rahmet Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "ISRAILOV RUSLAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Lai Ting Yee HONG KONG-CHINA BRAZILIAN JIU-JITSU ASSOCIATION",
+          "country": "HKG"
+        },
+        {
+          "name": "MUMTAZ MUHAMMAD Pakistan",
+          "country": "PAK"
+        },
+        {
+          "name": "Sabba Maitham AliJU JITSU ASIAN UNIONJ",
+          "country": "JAU"
+        },
+        {
+          "name": "ALDIYAROV ALBERT Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Co Hansel Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "Nurtakanov Olzhas Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Batkhuyag Ekrkhbayar Mongolian Jiu Jitsu Association",
+          "country": "MGL"
+        },
+        {
+          "name": "Guggenheim Adrian Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "DISENBAYEV BAKHYT Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Munfaredi AliJU JITSU ASIAN UNIONJ",
+          "country": "JAU"
+        },
+        {
+          "name": "Tong Wai Yin HONG KONG-CHINA BRAZILIAN JIU-JITSU ASSOCIATION",
+          "country": "HKG"
+        },
+        {
+          "name": "DISENBAYEV BAKHYT Kazakhstan Jiu-Jitsu Association\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "DISENBAYEV BAKHYT Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "Ngamyoo Rachata Ju-jitsu association of thailand\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "Nurtakanov Olzhas Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "LEE TIEN-YU Taiwan Ju-Jitsu Federation\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TPE",
+          "country": "TPE"
+        },
+        {
+          "name": "Co Hansel Jiu JItsu Federation of the Philippines\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "Suntra Sooknatee Ju-jitsu association of thailand\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "Co Hansel Jiu JItsu Federation of the Philippines\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ISRAILOV RUSLAN Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "79",
+      "category": "NE WAZA MEN SENIORS -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_79.html",
+      "competitors": [
+        {
+          "name": "ALBLOOSHI HAMDAN  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "GAVRILYUK Andrey Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Jorayev Mergen Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Ahunov Rishat Kyrgyz Republic",
+          "country": "KGZ"
+        },
+        {
+          "name": "KARALE PANKAJ CHANDRAKANT Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "rasheed Haidar Jordan Jiu Jitsu",
+          "country": "JOR"
+        },
+        {
+          "name": "Tumur Nemekhbayar Mongolian Jiu Jitsu Association",
+          "country": "MGL"
+        },
+        {
+          "name": "Sangsin Karun Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "MAHMOOD MURTADHA IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "YESSENEYEV KUANDYK Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Wong Viking Wai Chun HONG KONG-CHINA BRAZILIAN JIU-JITSU ASSOCIATION",
+          "country": "HKG"
+        },
+        {
+          "name": "ALKHUZAYYIM MESHAL FAHAD SAUDI JIU-JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "WEi CHU-CHENG Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "SAKAULOV OLZHAS Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Bashimov Myrat Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "ALAMRI KHALID  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "WEi CHU-CHENG Taiwan Ju-Jitsu Federation\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TPE",
+          "country": "TPE"
+        },
+        {
+          "name": "ALBLOOSHI HAMDAN  Jiu Jitsu FederationUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        }
+      ]
+    },
+    {
+      "catid": "73",
+      "category": "NE WAZA MEN SENIORS -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_73.html",
+      "competitors": [
+        {
+          "name": "Kim Jong Mok Jiu-Jitsu Association of Korea",
+          "country": "KOR"
+        },
+        {
+          "name": "MAKHASHEV RIZAT Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALMUBARAK MOHAMMED ABDULMAJEED SAUDI JIU-JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "ALMANSOORI FAHAD ALI MIUSAEID  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "Netthip Natdanai Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Charyyev Nejimetdin Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "LIN CHANG-CHIH Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "AUDANBAYEV DAUREN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "TSENG WEI-LUN Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "KENZHEYEV OLZHAS Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Kitpongpanit Phanuphong Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "ALBU-MOHAMMED MOHANAD IRAQ JU-JITSU FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "AlShamsi Mohammed  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "KUSSAINOV Ramazan Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "sami zaid Jordan Jiu Jitsu",
+          "country": "JOR"
+        },
+        {
+          "name": "Charyyev Nejimetdin Turkmenistan National Martial Arts Federation\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TKM",
+          "country": "TKM"
+        },
+        {
+          "name": "sami zaid Jordan Jiu Jitsu\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        JOR",
+          "country": "JOR"
+        }
+      ]
+    },
+    {
+      "catid": "565",
+      "category": "Ne Waza Women Senior -45 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_565.html",
+      "competitors": [
+        {
+          "name": "MUKHANOVA ZHANSAYA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Phumthong Benyatip Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "KHUDAIBERDIYEVA AMINA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "KALYKOVA PERIZAT Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "86",
+      "category": "NE WAZA WOMEN SENIORS -55 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_86.html",
+      "competitors": [
+        {
+          "name": "Filipova Angelina Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "SABRAKHMETOVA GULNUR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Al Ameri Shamsa  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "IRFAN FATIMA Pakistan",
+          "country": "PAK"
+        },
+        {
+          "name": "KOSHEMBAYEVA MOLDIR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "CHOI HUIYUN Jiu-Jitsu Association of Korea",
+          "country": "KOR"
+        },
+        {
+          "name": "AlHinaai Maha  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "Alzahrani Farah SAUDI JIU-JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "Nigmatullayeva Aibanu Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Al Ameri Shamsa  Jiu Jitsu FederationUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "KOSHEMBAYEVA MOLDIR Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "CHOI HUIYUN Jiu-Jitsu Association of Korea\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "SABRAKHMETOVA GULNUR Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "85",
+      "category": "NE WAZA WOMEN SENIORS -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_85.html",
+      "competitors": [
+        {
+          "name": "IZBASAROVA AINUR Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Krovyakova Violetta Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Alkalbani Shamma  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "Ramirez Annie Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "SENAM ORAPA Ju-jitsu association of thailandTHA",
+          "country": "THA"
+        },
+        {
+          "name": "Khaled Enas Jordan Jiu Jitsu",
+          "country": "JOR"
+        },
+        {
+          "name": "Duvanova Galina Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "KUMARI NISHI Ju-Jitsu Association of India",
+          "country": "IND"
+        },
+        {
+          "name": "SANGSIRICHOK ONANONG Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Lee Hee Jin Jiu-Jitsu Association of Korea",
+          "country": "KOR"
+        },
+        {
+          "name": "Tlepova Aliya Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Alketbi Shamsa  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "Eppinger Apryl Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "Ramirez Annie Jiu JItsu Federation of the Philippines\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "Lee Hee Jin Jiu-Jitsu Association of Korea\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        }
+      ]
+    },
+    {
+      "catid": "87",
+      "category": "NE WAZA WOMEN SENIORS -70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_87.html",
+      "competitors": [
+        {
+          "name": "Aldhaheri Alia  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "Chansonthi Pornthip Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "AlDhanhani Alia  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "YERZHANOVA NAZIRA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "24",
+      "category": "Ne-Waza Men Senior +94 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_24.html",
+      "competitors": [
+        {
+          "name": "IKHSANOV ANUARBEK Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "HASAN HASEEB UL Pakistan",
+          "country": "PAK"
+        },
+        {
+          "name": "ALHOMIDA SALIH SAUDI JIU-JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "ALALI SULTAN  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "Arellano Romeo Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "Tejenov Mergen Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "BAIBOLATOV SULTAN Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "HASAN HASEEB UL Pakistan\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PAK",
+          "country": "PAK"
+        },
+        {
+          "name": "ALALI SULTAN  Jiu Jitsu FederationUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "Arellano Romeo Jiu JItsu Federation of the Philippines\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "IKHSANOV ANUARBEK Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "18",
+      "category": "Ne-Waza Men Senior -56 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_18.html",
+      "competitors": [
+        {
+          "name": "ALNUAIMI OBAID  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "KHAN SHAHID Pakistan",
+          "country": "PAK"
+        },
+        {
+          "name": "LIU HSUEH-KANG Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "Seiduali Nurzhan Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Dee Gian Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "Singchalad Payoongsak Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Qurbonov Amriddin Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "Konyssov Kuandyk Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALSUWAIDI KHALIFA  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "OMAR NURDAULET Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "KASHMEERI KHALID SAUDI JIU-JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "Cortez Jan Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "kuntong Suwijak Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Bobomurodov Alidzhon Tajikistan National Team",
+          "country": "TJK"
+        },
+        {
+          "name": "AITPANBET SAMAT Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Meredov Kemal Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "kuntong Suwijak Ju-jitsu association of thailand\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "ALSUWAIDI KHALIFA  Jiu Jitsu FederationUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        }
+      ]
+    },
+    {
+      "catid": "29",
+      "category": "Ne-Waza Women Senior +70 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_29.html",
+      "competitors": [
+        {
+          "name": "MUKHAMEDIYAROVA ZULFIYA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Agajanova Sabina Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Aljhoori Haya  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "Garchovova Aysoltan Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "TARASOVA TATYANA Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Tubsai Nitchanan Ju-jitsu association of thailand",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "703",
+      "category": "Ne-Waza Women Senior +70 Kg Final",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_703.html",
+      "competitors": [
+        {
+          "name": "Agajanova Sabina Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Tubsai Nitchanan Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Garchovova Aysoltan Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Aljhoori Haya  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        }
+      ]
+    },
+    {
+      "catid": "25",
+      "category": "Ne-Waza Women Senior -49 Kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_49_25.html",
+      "competitors": [
+        {
+          "name": "Suraubekova Marzhan Kazakhstan Jiu-Jitsu Association",
+          "country": "KAZ"
+        },
+        {
+          "name": "Napolis Kaila Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "Alkhatib Yasmeen Jordan Jiu Jitsu",
+          "country": "JOR"
+        },
+        {
+          "name": "Al Shkeili Hamdah  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "Al Rashdi Meera  Jiu Jitsu FederationUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "LAI YI-WEN Taiwan Ju-Jitsu Federation",
+          "country": "TPE"
+        },
+        {
+          "name": "BOONSORN SUWANAN Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Avezmetova Sayara Turkmenistan National Martial Arts Federation",
+          "country": "TKM"
+        },
+        {
+          "name": "Ochoa Margarita Jiu JItsu Federation of the Philippines",
+          "country": "PHI"
+        },
+        {
+          "name": "DEEPUDSA SIRAMOL Ju-jitsu association of thailand",
+          "country": "THA"
+        },
+        {
+          "name": "Al Rashdi Meera  Jiu Jitsu FederationUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "Alkhatib Yasmeen Jordan Jiu Jitsu\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        JOR",
+          "country": "JOR"
+        },
+        {
+          "name": "Al Shkeili Hamdah  Jiu Jitsu FederationUAE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "Al Shkeili Hamdah  Jiu Jitsu FederationUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "Avezmetova Sayara Turkmenistan National Martial Arts Federation\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TKM",
+          "country": "TKM"
+        },
+        {
+          "name": "DEEPUDSA SIRAMOL Ju-jitsu association of thailand\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "BOONSORN SUWANAN Ju-jitsu association of thailand\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "Suraubekova Marzhan Kazakhstan Jiu-Jitsu Association\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    }
+  ]
+}

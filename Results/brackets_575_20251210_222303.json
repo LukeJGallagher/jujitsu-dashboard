@@ -1,0 +1,3677 @@
+{
+  "verid": "575",
+  "event_name": "Asian Championships ADULTS 2024",
+  "scraped_at": "2025-12-10T22:18:42.711550",
+  "categories": [
+    {
+      "catid": "1486",
+      "category": "ADULTS JIU-JITSU FEMALE +70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1486.html",
+      "competitors": [
+        {
+          "name": "ALTAI BATZUL MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "ASSANOVA LIANA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "JHINUK JAMILA KHATUN GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        },
+        {
+          "name": "SHOLANOVA NARGIZ AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "VALMORES DYLAN CHRYSTLE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SAREN AHLAWAT JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "ALSHALABI MARWA IAN MARTIAL ART FEDERATIONSYR",
+          "country": "SYR"
+        },
+        {
+          "name": "TALHA QARI LINA SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "BATBAATAR KHULAN MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "TAN JOANNE PAULINE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "VALMORES DYLAN CHRYSTLE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "JHINUK JAMILA KHATUN GLADESH JU-JITSU ASSOCIATIONBAN\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BAN",
+          "country": "BAN"
+        },
+        {
+          "name": "JHINUK JAMILA KHATUN GLADESH JU-JITSU ASSOCIATIONBAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BAN",
+          "country": "BAN"
+        },
+        {
+          "name": "SAREN AHLAWAT JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "SHOLANOVA NARGIZ AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "TALHA QARI LINA SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "TAN JOANNE PAULINE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ASSANOVA LIANA AKHSTAN JIU JITSU ASSOCIATIONKAZ\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ASSANOVA LIANA AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALSHALABI MARWA IAN MARTIAL ART FEDERATIONSYR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SYR",
+          "country": "SYR"
+        }
+      ]
+    },
+    {
+      "catid": "1480",
+      "category": "ADULTS JIU-JITSU FEMALE -45 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1480.html",
+      "competitors": [
+        {
+          "name": "KIM JOO HYEON JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "ORTIKBOEVA RAYKHONA JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "CUSTODIO KIMBERLY ANNE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "AILANA MENZHASSAROVA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "PALANCA DANIELLA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ALSHAMSI AYSHA  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "PANDEY NAVYA JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "WAENPHET NEERANUCH JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ABDOH BALQEES  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "KIM JOO HYEON JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "AILANA MENZHASSAROVA AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALSHAMSI AYSHA  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "PANDEY NAVYA JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "WAENPHET NEERANUCH JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "ORTIKBOEVA RAYKHONA JIU-JITSU FEDERATION OF EKISTANUZB\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "PALANCA DANIELLA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ORTIKBOEVA RAYKHONA JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        }
+      ]
+    },
+    {
+      "catid": "1481",
+      "category": "ADULTS JIU-JITSU FEMALE -48 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1481.html",
+      "competitors": [
+        {
+          "name": "ISSAKHANOVA ASSEMKHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KIM NA HYUN JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "BAYARTSAIKHAN EGIIMAA MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "JUNG HUI WON JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "ASHIRBEKOVA AYDANA JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "ABDULLAYEVA RAIKHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "AL SHKEILI HAMDAH  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "MANIXAY CHOMMANY JU-JITSU  FEDERATIONLAO",
+          "country": "LAO"
+        },
+        {
+          "name": "ABDUVOKHIDOVA DIYORAKHON JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "SAKET YARA DAN JIU-JITSU FEDERATIONJOR",
+          "country": "JOR"
+        },
+        {
+          "name": "BATBAYAR ODGEREL MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "TANNU KUMARI JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "SUGUN NUTCHAYA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "CO JOLLIRINE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ALGHAMDI NAJAT SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "SHRAIM MAITHA  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "ASADDUME LEELA JU-JITSU FEDERATION LANKA",
+          "country": "SRI"
+        },
+        {
+          "name": "LOMA SWAIN JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "OCHOA MARGARITA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "MANIXAY CHOMMANY JU-JITSU  FEDERATIONLAO\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        LAO",
+          "country": "LAO"
+        },
+        {
+          "name": "ISSAKHANOVA ASSEMKHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ABDULLAYEVA RAIKHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ASADDUME LEELA JU-JITSU FEDERATION LANKA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SRI",
+          "country": "SRI"
+        },
+        {
+          "name": "ASADDUME LEELA JU-JITSU FEDERATION LANKA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SRI",
+          "country": "SRI"
+        },
+        {
+          "name": "BATBAYAR ODGEREL MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "ALGHAMDI NAJAT SAUDI JIU JITSU FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "OCHOA MARGARITA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ALGHAMDI NAJAT SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "CO JOLLIRINE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "CO JOLLIRINE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SHRAIM MAITHA  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "TANNU KUMARI JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "SAKET YARA DAN JIU-JITSU FEDERATIONJOR\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        JOR",
+          "country": "JOR"
+        },
+        {
+          "name": "SAKET YARA DAN JIU-JITSU FEDERATIONJOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        JOR",
+          "country": "JOR"
+        },
+        {
+          "name": "LOMA SWAIN JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "ABDUVOKHIDOVA DIYORAKHON JIU-JITSU FEDERATION OF EKISTANUZB\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "KIM NA HYUN JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "ABDUVOKHIDOVA DIYORAKHON JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "ASHIRBEKOVA AYDANA JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "SUGUN NUTCHAYA JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "1482",
+      "category": "ADULTS JIU-JITSU FEMALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1482.html",
+      "competitors": [
+        {
+          "name": "PARK JEONG HYE JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "BATNADMID TSENDJAV MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "SWAIN ANUPAMA JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "SAAKIAN RIMMA NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC",
+          "country": "KGZ"
+        },
+        {
+          "name": "SINGCHALAD NUCHANAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ALHOSANI ASMA  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "ALSHAMSI HESSA  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "RAFAEL MARIELLA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "TAP MENIA JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "SENGDAKEE TOUKKY JU-JITSU  FEDERATIONLAO",
+          "country": "LAO"
+        },
+        {
+          "name": "KALLIBEKOVA BIYBIRUZA JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "TOLEUKHAN AIZAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ERDENEBAYAR ENKHJINDARI MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "IM EON JU JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "NAPOLIS JENNA KAILA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "PARK JEONG HYE JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "ERDENEBAYAR ENKHJINDARI MONGOLIAN JIU-JITSU ASSOCIATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "ERDENEBAYAR ENKHJINDARI MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "KALLIBEKOVA BIYBIRUZA JIU-JITSU FEDERATION OF EKISTANUZB\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "KALLIBEKOVA BIYBIRUZA JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "SWAIN ANUPAMA JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "TAP MENIA JU-JITSU ASSOCIATION OF IAIND\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "IM EON JU JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "TAP MENIA JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "RAFAEL MARIELLA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "RAFAEL MARIELLA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SENGDAKEE TOUKKY JU-JITSU  FEDERATIONLAO\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        LAO",
+          "country": "LAO"
+        },
+        {
+          "name": "SINGCHALAD NUCHANAT JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SINGCHALAD NUCHANAT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SAAKIAN RIMMA NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "SAAKIAN RIMMA NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "TOLEUKHAN AIZAT AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BATNADMID TSENDJAV MONGOLIAN JIU-JITSU ASSOCIATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "NAPOLIS JENNA KAILA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "BATNADMID TSENDJAV MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        }
+      ]
+    },
+    {
+      "catid": "1483",
+      "category": "ADULTS JIU-JITSU FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1483.html",
+      "competitors": [
+        {
+          "name": "JOUDAH DAREAH SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "ALHOSANI ALANOOD  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "NASER BADIAH DAN JIU-JITSU FEDERATIONJOR",
+          "country": "JOR"
+        },
+        {
+          "name": "AZATOVA SHAKHZODA JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "DUVANOVA GALINA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "HASAN ALAA JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        },
+        {
+          "name": "ENKHMUNKH SHURENTSETSEG MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "NOLIDO ROSANNA ANDREA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "MAJOKA RENU JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "POYONG CASSANDRA J MALAYSIA JIU-JITSU FEDERATION",
+          "country": "MAS"
+        },
+        {
+          "name": "CHOI SOO IN JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "AL AMERI SHAMSA  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "LYANGUZOVA ELINA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "SON YEON GYEONG JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "GANBAATAR MONGOLJIN MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "ALDHEFIAN ALANOUD SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "TARIYAL SUCHIKA JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "RAMIREZ ANNIE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ENKHMUNKH SHURENTSETSEG MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "JOUDAH DAREAH SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "NASER BADIAH DAN JIU-JITSU FEDERATIONJOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        JOR",
+          "country": "JOR"
+        },
+        {
+          "name": "TARIYAL SUCHIKA JU-JITSU ASSOCIATION OF IAIND\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "TARIYAL SUCHIKA JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "NOLIDO ROSANNA ANDREA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SON YEON GYEONG JIU-JITSU ASSOCIATION OF EAKOR\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "RAMIREZ ANNIE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SON YEON GYEONG JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "LYANGUZOVA ELINA AKHSTAN JIU JITSU ASSOCIATIONKAZ\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "LYANGUZOVA ELINA AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "AL AMERI SHAMSA  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "POYONG CASSANDRA J MALAYSIA JIU-JITSU FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MAS",
+          "country": "MAS"
+        },
+        {
+          "name": "POYONG CASSANDRA J MALAYSIA JIU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MAS",
+          "country": "MAS"
+        },
+        {
+          "name": "MAJOKA RENU JU-JITSU ASSOCIATION OF IAIND\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "MAJOKA RENU JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "ALDHEFIAN ALANOUD SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "HASAN ALAA JIU-JITSU BAHRAIN FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BRN",
+          "country": "BRN"
+        },
+        {
+          "name": "HASAN ALAA JIU-JITSU BAHRAIN FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BRN",
+          "country": "BRN"
+        },
+        {
+          "name": "CHOI SOO IN JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "ALHOSANI ALANOOD  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        }
+      ]
+    },
+    {
+      "catid": "1484",
+      "category": "ADULTS JIU-JITSU FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1484.html",
+      "competitors": [
+        {
+          "name": "MAJOKA MANOKAMINI JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "CHOI HEE JOO JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "SALYKOVA AZHAR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BAYARMAA KHONGORZUL MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "IBROKHIMOVA BAKHORA JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "SENAM ORAPA JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SANGSIRICHOK ONANONG JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "TAALAIBEK KYZY KARINA NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC",
+          "country": "KGZ"
+        },
+        {
+          "name": "ENKHBAATAR KHALIUN MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "ALMATROOSHI BASHAYER  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "ALKALBANI SHAMMA  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "LAO ANDREA LOIS JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SUNG KI RA JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "CHOI HEE JOO JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "ENKHBAATAR KHALIUN MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "ENKHBAATAR KHALIUN MONGOLIAN JIU-JITSU ASSOCIATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "SENAM ORAPA JU JITSU ASSOCIATION OF THAILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "LAO ANDREA LOIS JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "TAALAIBEK KYZY KARINA NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "IBROKHIMOVA BAKHORA JIU-JITSU FEDERATION OF EKISTANUZB\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "IBROKHIMOVA BAKHORA JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "BAYARMAA KHONGORZUL MONGOLIAN JIU-JITSU ASSOCIATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "BAYARMAA KHONGORZUL MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "MAJOKA MANOKAMINI JU-JITSU ASSOCIATION OF IAIND\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "SALYKOVA AZHAR AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MAJOKA MANOKAMINI JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "1485",
+      "category": "ADULTS JIU-JITSU FEMALE -70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1485.html",
+      "competitors": [
+        {
+          "name": "SAIKIA PRIYANKA JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "MIN HA EUN JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "EPPINGER APRYL JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "YERLANOVA YERKEZHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "YADAV TEEPU JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "DELGERSAIKHAN ALTANTSETSEG MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "MITRA ANNA ANGELICA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "BULANBAYEVA DAMIRA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ABDILMANAP KYZY BUBUSAIRA NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC",
+          "country": "KGZ"
+        },
+        {
+          "name": "ALAITHAN HUDA SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "MAHFOUDH MUHRAH  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "SHEN YU-CHIN TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "ABDILMANAP KYZY BUBUSAIRA NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "ALAITHAN HUDA SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "YADAV TEEPU JU-JITSU ASSOCIATION OF IAIND\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "SHEN YU-CHIN TAIWAN JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TPE",
+          "country": "TPE"
+        },
+        {
+          "name": "YADAV TEEPU JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "DELGERSAIKHAN ALTANTSETSEG MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "YERLANOVA YERKEZHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "YERLANOVA YERKEZHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MITRA ANNA ANGELICA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SAIKIA PRIYANKA JU-JITSU ASSOCIATION OF IAIND\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "EPPINGER APRYL JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SAIKIA PRIYANKA JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "1479",
+      "category": "ADULTS JIU-JITSU MALE +94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1479.html",
+      "competitors": [
+        {
+          "name": "HADDADIN FAWAZ DAN JIU-JITSU FEDERATIONJOR",
+          "country": "JOR"
+        },
+        {
+          "name": "JAKHAD NAND KISHORE JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "SLEIMAN CAMILLE LEBANESE JIU-JITSU FEDERATION",
+          "country": "LBN"
+        },
+        {
+          "name": "MAKHMUDJONOV BOBURJON JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "ASLANOV  ISLAM AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BAASANDORJ ARIUNTSOG MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "HASAN MOHAMED PALESTINE JU-JITSU FEDERATION",
+          "country": "PLE"
+        },
+        {
+          "name": "AL-ARADI  AHMED JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        },
+        {
+          "name": "KADIROV OYBEK JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "ALHARBI MOHAMMED SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "CHE JUN YONG JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "FARHAN HAZAEA  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "GARDIYAWASAM DARSAHANA JU-JITSU FEDERATION LANKA",
+          "country": "SRI"
+        },
+        {
+          "name": "KAUSHIK VISHWADEEP JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "ABDRAKHIMOV RAMAZAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "YEA-ON KUNATHIP JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MAKHMUDJONOV BOBURJON JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "YEA-ON KUNATHIP JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "YEA-ON KUNATHIP JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "GARDIYAWASAM DARSAHANA JU-JITSU FEDERATION LANKA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SRI",
+          "country": "SRI"
+        },
+        {
+          "name": "GARDIYAWASAM DARSAHANA JU-JITSU FEDERATION LANKA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SRI",
+          "country": "SRI"
+        },
+        {
+          "name": "HASAN MOHAMED PALESTINE JU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PLE",
+          "country": "PLE"
+        },
+        {
+          "name": "CHE JUN YONG JIU-JITSU ASSOCIATION OF EAKOR\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "ABDRAKHIMOV RAMAZAN AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "CHE JUN YONG JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "ALHARBI MOHAMMED SAUDI JIU JITSU FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "ALHARBI MOHAMMED SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "KADIROV OYBEK JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "AL-ARADI  AHMED JIU-JITSU BAHRAIN FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BRN",
+          "country": "BRN"
+        },
+        {
+          "name": "AL-ARADI  AHMED JIU-JITSU BAHRAIN FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BRN",
+          "country": "BRN"
+        },
+        {
+          "name": "KAUSHIK VISHWADEEP JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "SLEIMAN CAMILLE LEBANESE JIU-JITSU FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        LBN",
+          "country": "LBN"
+        },
+        {
+          "name": "ASLANOV  ISLAM AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "SLEIMAN CAMILLE LEBANESE JIU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        LBN",
+          "country": "LBN"
+        },
+        {
+          "name": "JAKHAD NAND KISHORE JU-JITSU ASSOCIATION OF IAIND\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "JAKHAD NAND KISHORE JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "1473",
+      "category": "ADULTS JIU-JITSU MALE -56 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1473.html",
+      "competitors": [
+        {
+          "name": "BAZARBAEV TIMUR JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "MYRZABEKOV YERNAZ AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ABALOS GREGORIO ANTONIO III JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "AL-NUAIMI SALIM DAN JIU-JITSU FEDERATIONJOR",
+          "country": "JOR"
+        },
+        {
+          "name": "ALI ABDULLA JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        },
+        {
+          "name": "PENA CARLO ANGELO JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SANGHA TADER JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "TAEV BEKZAT KAZAKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALSUWAIDI OMAR  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "MATHUPAN NAPHAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "NARANBAATAR GANBOLD MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "NAZEMI HARANDI ALI JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "MAHDI HASAN JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        },
+        {
+          "name": "KASHMEERI FARIS SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "RAKHMONBERDIEV SARVARBEK JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "SHIN JAE UK JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "ALMARWAI OSAMAH ALI ALI SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "ABYLBEKOV ZHYLDYZBEK NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC",
+          "country": "KGZ"
+        },
+        {
+          "name": "KUAKUNNGERN NON JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ALNUAIMI THEYAB  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "NARANBAATAR GANBOLD MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "BAZARBAEV TIMUR JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "TAEV BEKZAT KAZAKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KUAKUNNGERN NON JU JITSU ASSOCIATION OF THAILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KUAKUNNGERN NON JU JITSU ASSOCIATION OF THAILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "MAHDI HASAN JIU-JITSU BAHRAIN FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BRN",
+          "country": "BRN"
+        },
+        {
+          "name": "SHIN JAE UK JIU-JITSU ASSOCIATION OF EAKOR\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "ALNUAIMI THEYAB  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "SHIN JAE UK JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "AL-NUAIMI SALIM DAN JIU-JITSU FEDERATIONJOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        JOR",
+          "country": "JOR"
+        },
+        {
+          "name": "PENA CARLO ANGELO JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ALMARWAI OSAMAH ALI ALI SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "ALI ABDULLA JIU-JITSU BAHRAIN FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BRN",
+          "country": "BRN"
+        },
+        {
+          "name": "ABALOS GREGORIO ANTONIO III JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "NAZEMI HARANDI ALI JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRI",
+          "country": "IRI"
+        },
+        {
+          "name": "NAZEMI HARANDI ALI JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRI",
+          "country": "IRI"
+        },
+        {
+          "name": "ABYLBEKOV ZHYLDYZBEK NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "MATHUPAN NAPHAT JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KASHMEERI FARIS SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "MATHUPAN NAPHAT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SANGHA TADER JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "MYRZABEKOV YERNAZ AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "1474",
+      "category": "ADULTS JIU-JITSU MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1474.html",
+      "competitors": [
+        {
+          "name": "KADAMOV AMRKHON JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "ISHIGURO SHOYA JIU-JITSU FEDERATION OF JAPAN",
+          "country": "JPN"
+        },
+        {
+          "name": "TENIZBAY BATYR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALBUZAYA OMAR SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "SULTAN  SALMAN JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        },
+        {
+          "name": "SWAMI RAHUL JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "FANG KUAN-CHIEH TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "KUSHTARBEK NURSULTAN NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC",
+          "country": "KGZ"
+        },
+        {
+          "name": "CHOI HYEON MYEONG JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "TAALAIBEK BAIYSHEV NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC",
+          "country": "KGZ"
+        },
+        {
+          "name": "KUMAR RAVI JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "ALBLOOSHI KHALID  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "MANGUBAT MYRON MYLES JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SATTAR MEHRAN JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "MEHR WAHID JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        },
+        {
+          "name": "YESSETOV ATAKELDI AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALSHEHHI KHALED  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "BOK GYU SEONG JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "LUZURIAGA SANTINO LUIS JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "KUNTONG SUWIJAK JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "RUSTAMOV SIROJBEK JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "AJAJ MOHAMMED PALESTINE JU-JITSU FEDERATION",
+          "country": "PLE"
+        },
+        {
+          "name": "CHANG RONG-CHI TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "AL MURDHI ABDULMALIK SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "TENIZBAY BATYR AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KADAMOV AMRKHON JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "YESSETOV ATAKELDI AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALBUZAYA OMAR SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "MANGUBAT MYRON MYLES JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SULTAN  SALMAN JIU-JITSU BAHRAIN FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BRN",
+          "country": "BRN"
+        },
+        {
+          "name": "SWAMI RAHUL JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "AJAJ MOHAMMED PALESTINE JU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PLE",
+          "country": "PLE"
+        },
+        {
+          "name": "FANG KUAN-CHIEH TAIWAN JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TPE",
+          "country": "TPE"
+        },
+        {
+          "name": "ALBLOOSHI KHALID  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "CHOI HYEON MYEONG JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "RUSTAMOV SIROJBEK JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "TAALAIBEK BAIYSHEV NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "KUNTONG SUWIJAK JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KUMAR RAVI JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "LUZURIAGA SANTINO LUIS JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "CHANG RONG-CHI TAIWAN JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TPE",
+          "country": "TPE"
+        },
+        {
+          "name": "KUSHTARBEK NURSULTAN NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "BOK GYU SEONG JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "MEHR WAHID JIU-JITSU BAHRAIN FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BRN",
+          "country": "BRN"
+        },
+        {
+          "name": "ISHIGURO SHOYA JIU-JITSU FEDERATION OF JAPAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        JPN",
+          "country": "JPN"
+        }
+      ]
+    },
+    {
+      "catid": "1475",
+      "category": "ADULTS JIU-JITSU MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1475.html",
+      "competitors": [
+        {
+          "name": "LEE JAE YOUNG JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "ERZHAN ZARIPOV NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC",
+          "country": "KGZ"
+        },
+        {
+          "name": "SERIK ALDIYAR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MOSAHID MR GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        },
+        {
+          "name": "SAMATOV SAMARBEK JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "CHOUDHARY LOKESH KUMAR JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "CHOIJAMTS TUVDENTARVAA MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "LIM MARC ALEXANDER JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ALMEKAINZI KHALID SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "AMMAR MUHAMMAD ISTAN JU-JITSU FEDERATIONPAK",
+          "country": "PAK"
+        },
+        {
+          "name": "AKBARKHANOV SAIDZHAMOL NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC",
+          "country": "KGZ"
+        },
+        {
+          "name": "KHALAF ABDULLA JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        },
+        {
+          "name": "NABIEV KHASANJON JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "GICHEK BAI JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "BATSUKH TSERENDAVAA MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "ALAMRI FARIS SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "AIBAR ORAZALY AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "HASDEE KUNNAPONG JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ABURUMUH MOHAMMAD PALESTINE JU-JITSU FEDERATION",
+          "country": "PLE"
+        },
+        {
+          "name": "TIU MICHAEL BRYANT JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ALSUWAIDI MOHAMED ALI  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "SOONTHORN SARIN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ABDURAHMONI BAHROMJON TAJIKISTAN JIU-JITSU FEDERATION",
+          "country": "TJK"
+        },
+        {
+          "name": "JABR SULTAN  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "SULAIMONOV FARAHZOD TAJIKISTAN JIU-JITSU FEDERATION",
+          "country": "TJK"
+        },
+        {
+          "name": "JOO SEONG HYEON JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "SERIK ALDIYAR AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ERZHAN ZARIPOV NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "ABURUMUH MOHAMMAD PALESTINE JU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PLE",
+          "country": "PLE"
+        },
+        {
+          "name": "CHOUDHARY LOKESH KUMAR JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "BATSUKH TSERENDAVAA MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "ABDURAHMONI BAHROMJON TAJIKISTAN JIU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TJK",
+          "country": "TJK"
+        },
+        {
+          "name": "LIM MARC ALEXANDER JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "NABIEV KHASANJON JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "JABR SULTAN  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "KHALAF ABDULLA JIU-JITSU BAHRAIN FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BRN",
+          "country": "BRN"
+        },
+        {
+          "name": "SULAIMONOV FARAHZOD TAJIKISTAN JIU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TJK",
+          "country": "TJK"
+        },
+        {
+          "name": "AKBARKHANOV SAIDZHAMOL NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "ALMEKAINZI KHALID SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "SOONTHORN SARIN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "ALAMRI FARIS SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "AIBAR ORAZALY AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "HASDEE KUNNAPONG JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "ALSUWAIDI MOHAMED ALI  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "SAMATOV SAMARBEK JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "TIU MICHAEL BRYANT JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "CHOIJAMTS TUVDENTARVAA MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        }
+      ]
+    },
+    {
+      "catid": "1476",
+      "category": "ADULTS JIU-JITSU MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1476.html",
+      "competitors": [
+        {
+          "name": "GALLOS GERARD JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "BOLATBEK SEIILKHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MUZAFAROV ARSLAN JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "KARAOGHLANIAN HAROUT LEBANESE JIU-JITSU FEDERATION",
+          "country": "LBN"
+        },
+        {
+          "name": "LEE GYO SEONG JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "QAID MOHAMMED EN JUJITSU FEDERATIONYEM",
+          "country": "YEM"
+        },
+        {
+          "name": "LALIT PRAMOD NAIK JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "ALHOSANI SULTAN  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "AL-TAMEMI JABIR IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "KHADBAATAR SUKHBAT MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "BOYMURODOV KOMIL TAJIKISTAN JIU-JITSU FEDERATION",
+          "country": "TJK"
+        },
+        {
+          "name": "AUNJAI CHANWIT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MURAD RABADANOV NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC",
+          "country": "KGZ"
+        },
+        {
+          "name": "BIN HURAYMIL MOHAMMED SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "ALNAJJAR  MAHMOOD JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        },
+        {
+          "name": "SEKHAR MAJHI SRIKANT JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "HSU HSUAN-WEI TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "ALHAMMADI FAHAD  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "MOHAMMADBAKER MOHAMMAD IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "NURTAKANOV OLZHAS AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "POLPUT KAMPANART JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KUMADA KENSHIN JIU-JITSU FEDERATION OF JAPAN",
+          "country": "JPN"
+        },
+        {
+          "name": "BULGANKHUU SHINEZORIG MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "LEE WON BIN JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "ALEGRE LIP CHRISTOPHER JIU-JITSU FEDERATION OF THE PHILIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "FARUK OMAR GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        },
+        {
+          "name": "MUNFAREDI ALI JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        },
+        {
+          "name": "MARASULOV DALER JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "ROZMATOV TAIR NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC",
+          "country": "KGZ"
+        },
+        {
+          "name": "LEE GYO SEONG JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "GALLOS GERARD JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ALEGRE LIP CHRISTOPHER JIU-JITSU FEDERATION OF THE PHILIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "KARAOGHLANIAN HAROUT LEBANESE JIU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        LBN",
+          "country": "LBN"
+        },
+        {
+          "name": "QAID MOHAMMED EN JUJITSU FEDERATIONYEM\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        YEM",
+          "country": "YEM"
+        },
+        {
+          "name": "KUMADA KENSHIN JIU-JITSU FEDERATION OF JAPAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        JPN",
+          "country": "JPN"
+        },
+        {
+          "name": "LALIT PRAMOD NAIK JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "KHADBAATAR SUKHBAT MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "AL-TAMEMI JABIR IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "LEE WON BIN JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "ALHAMMADI FAHAD  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "BOYMURODOV KOMIL TAJIKISTAN JIU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TJK",
+          "country": "TJK"
+        },
+        {
+          "name": "MURAD RABADANOV NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "ALNAJJAR  MAHMOOD JIU-JITSU BAHRAIN FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BRN",
+          "country": "BRN"
+        },
+        {
+          "name": "MARASULOV DALER JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "SEKHAR MAJHI SRIKANT JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "BIN HURAYMIL MOHAMMED SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "HSU HSUAN-WEI TAIWAN JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TPE",
+          "country": "TPE"
+        },
+        {
+          "name": "MOHAMMADBAKER MOHAMMAD IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "ALHOSANI SULTAN  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "POLPUT KAMPANART JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "ROZMATOV TAIR NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "BULGANKHUU SHINEZORIG MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "BOLATBEK SEIILKHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MUZAFAROV ARSLAN JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "FARUK OMAR GLADESH JU-JITSU ASSOCIATIONBAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BAN",
+          "country": "BAN"
+        },
+        {
+          "name": "AUNJAI CHANWIT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "1477",
+      "category": "ADULTS JIU-JITSU MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1477.html",
+      "competitors": [
+        {
+          "name": "ABDUL RAHMAN TAREK PALESTINE JU-JITSU FEDERATION",
+          "country": "PLE"
+        },
+        {
+          "name": "ALAWLAQI FARAJ  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "AKBARPOUR ALI JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "ARYAWIJOYO REVANA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "ARYA SURYANSHU JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "OLETA IVAN MATTHEW JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "KIM HEE SEOUNG JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "AL-ANI AHMED IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "KHASHIMOV KHUMOYUN JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "SUNTRA SOOKNATEE JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "TIPSIN ILYA NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC",
+          "country": "KGZ"
+        },
+        {
+          "name": "ALGHAMDI KHALED SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "MUTIE MOHAMMAD MOHAMMAD PALESTINE JU-JITSU FEDERATION",
+          "country": "PLE"
+        },
+        {
+          "name": "OZDAEV GELANIY JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "KIM MIN GYU JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "KUANYSHBEKOV ZHANDOS AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ROXAS DEAN MICHAEL JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SHETTY BALKRISHNA SHEKHAR JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "ALSALMANI ABDULLAH IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "BAYARKHUU ALTANGEREL MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "ABDULLOEV ABDUGHAFUR TAJIKISTAN JIU-JITSU FEDERATION",
+          "country": "TJK"
+        },
+        {
+          "name": "TOHME YOUSSEF LEBANESE JIU-JITSU FEDERATION",
+          "country": "LBN"
+        },
+        {
+          "name": "ASHRAF BAIK FAROUQ SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "QURSHA MOHAMMAD DAN JIU-JITSU FEDERATIONJOR",
+          "country": "JOR"
+        },
+        {
+          "name": "MAGOMEDOV  IMRAN NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC",
+          "country": "KGZ"
+        },
+        {
+          "name": "KEKULANDARA SENIYA JU-JITSU FEDERATION LANKA",
+          "country": "SRI"
+        },
+        {
+          "name": "ALKUBAISI SAEED  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "AKBARPOUR ALI JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRI",
+          "country": "IRI"
+        },
+        {
+          "name": "ABDUL RAHMAN TAREK PALESTINE JU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PLE",
+          "country": "PLE"
+        },
+        {
+          "name": "TOHME YOUSSEF LEBANESE JIU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        LBN",
+          "country": "LBN"
+        },
+        {
+          "name": "ARYAWIJOYO REVANA INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "ARYA SURYANSHU JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "ROXAS DEAN MICHAEL JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "MAGOMEDOV  IMRAN NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "AL-ANI AHMED IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "KIM MIN GYU JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "OZDAEV GELANIY JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "SUNTRA SOOKNATEE JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KEKULANDARA SENIYA JU-JITSU FEDERATION LANKA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SRI",
+          "country": "SRI"
+        },
+        {
+          "name": "ALGHAMDI KHALED SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "TIPSIN ILYA NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "KHASHIMOV KHUMOYUN JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "KUANYSHBEKOV ZHANDOS AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "QURSHA MOHAMMAD DAN JIU-JITSU FEDERATIONJOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        JOR",
+          "country": "JOR"
+        },
+        {
+          "name": "SHETTY BALKRISHNA SHEKHAR JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "BAYARKHUU ALTANGEREL MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "ALSALMANI ABDULLAH IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "KIM HEE SEOUNG JIU-JITSU ASSOCIATION OF EAKOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KOR",
+          "country": "KOR"
+        },
+        {
+          "name": "OLETA IVAN MATTHEW JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ASHRAF BAIK FAROUQ SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        }
+      ]
+    },
+    {
+      "catid": "1478",
+      "category": "ADULTS JIU-JITSU MALE -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1478.html",
+      "competitors": [
+        {
+          "name": "BUYANNEMEKH MUNKHSUKH MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "RAMADAN SAMEH IAN MARTIAL ART FEDERATIONSYR",
+          "country": "SYR"
+        },
+        {
+          "name": "IBROKHIMOV FARRUKH JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "LE DUY THANH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TARIQ NADA OMAR SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "SINGH JAVAN JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "KARTIK TANWAR JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "ALMAJED FARIS MAJED SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "ASANOV MIRATDIN JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "LUTFULLAEV SUNATULLO TAJIKISTAN JIU-JITSU FEDERATION",
+          "country": "TJK"
+        },
+        {
+          "name": "ALKUBAISI ABDULLAH  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "CHUA MARC FRANCIS JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "TOLGANBAYEV ARSLAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "NETTHIP NATDANAI JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "FARAJ KHALID JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        },
+        {
+          "name": "KOKARUNPHONG NAWAPHON JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "GALSANDORJ GANTULGA MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "TIMUR CHORIEV NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC",
+          "country": "KGZ"
+        },
+        {
+          "name": "ARELLANO ROMEO JOHN JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ALHOSANI AMAAR  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "KUSSAINOV RAMAZAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "TOLGANBAYEV ARSLAN AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "RAMADAN SAMEH IAN MARTIAL ART FEDERATIONSYR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SYR",
+          "country": "SYR"
+        },
+        {
+          "name": "ASANOV MIRATDIN JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "ARELLANO ROMEO JOHN JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ARELLANO ROMEO JOHN JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "IBROKHIMOV FARRUKH JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "LE DUY THANH TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ALHOSANI AMAAR  JIU-JITSU FEDERATIONUAE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UAE",
+          "country": "UAE"
+        },
+        {
+          "name": "TIMUR CHORIEV NATIONAL JIU-JITSU FEDERATION OF KYRGYZ REPUBLIC\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KGZ",
+          "country": "KGZ"
+        },
+        {
+          "name": "SINGH JAVAN JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "ALMAJED FARIS MAJED SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "KOKARUNPHONG NAWAPHON JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KARTIK TANWAR JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "FARAJ KHALID JIU-JITSU BAHRAIN FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BRN",
+          "country": "BRN"
+        },
+        {
+          "name": "NETTHIP NATDANAI JU JITSU ASSOCIATION OF ILANDTHA\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "NETTHIP NATDANAI JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KUSSAINOV RAMAZAN AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "CHUA MARC FRANCIS JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "TARIQ NADA OMAR SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "CHUA MARC FRANCIS JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "BUYANNEMEKH MUNKHSUKH MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        }
+      ]
+    },
+    {
+      "catid": "4350",
+      "category": "ADULTS JU-JITSU CONTACT FEMALE +70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_4350.html",
+      "competitors": [
+        {
+          "name": "GOGOI EMON JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "ALSHALABI MARWA IAN MARTIAL ART FEDERATIONSYR",
+          "country": "SYR"
+        },
+        {
+          "name": "THI THANH TRUC NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ZHARASSOVA AIGERIM AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "AKTER SUMAIYA GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        },
+        {
+          "name": "ITU NAHIDA AHMED GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        }
+      ]
+    },
+    {
+      "catid": "4351",
+      "category": "ADULTS JU-JITSU CONTACT FEMALE -45 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_4351.html",
+      "competitors": [
+        {
+          "name": "PHUNG THI HUE TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "PANDEY NAVYA JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "MALIK SUBQAT JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "4352",
+      "category": "ADULTS JU-JITSU CONTACT FEMALE -48 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_4352.html",
+      "competitors": [
+        {
+          "name": "AKHMET KYMBAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ABDUVOKHIDOVA DIYORAKHON JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "ASHIRBEKOVA AYDANA JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "MUNNI RUMI AKTER GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        }
+      ]
+    },
+    {
+      "catid": "4353",
+      "category": "ADULTS JU-JITSU CONTACT FEMALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_4353.html",
+      "competitors": [
+        {
+          "name": "IBRAYEVA ZHULDYZAY AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MARAK CHAMPI JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "ZHAKAN ARUZHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BATNADMID TSENDJAV MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        }
+      ]
+    },
+    {
+      "catid": "4354",
+      "category": "ADULTS JU-JITSU CONTACT FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_4354.html",
+      "competitors": [
+        {
+          "name": "NGUYEN THI MINH VUONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "AZATOVA SHAKHZODA JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "MERGENBAY ALTYNAY AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "4355",
+      "category": "ADULTS JU-JITSU CONTACT FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_4355.html",
+      "competitors": [
+        {
+          "name": "SAILAUBEKOVA DINARA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ENKHBAATAR KHALIUN MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "AHMED SHELLEY GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        },
+        {
+          "name": "LIN YU-FEN TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "THI HONG NGOC PHUNG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NGOC BICH NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4356",
+      "category": "ADULTS JU-JITSU CONTACT FEMALE -70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_4356.html",
+      "competitors": [
+        {
+          "name": "AMZE AYAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "HOANG THI NHAT QUE TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "MUSSABEK AIZAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "SAYMBETOVA ULDANA JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        }
+      ]
+    },
+    {
+      "catid": "4363",
+      "category": "ADULTS JU-JITSU CONTACT MALE +94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_4363.html",
+      "competitors": [
+        {
+          "name": "SHAFIEI REZA JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "MAKHMUDJONOV BOBURJON JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "AL-RUBAYE MUJTABA IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "AMANZHOL KABDOLMAZHITOV AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "4357",
+      "category": "ADULTS JU-JITSU CONTACT MALE -56 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_4357.html",
+      "competitors": [
+        {
+          "name": "RAKHMONBERDIEV SARVARBEK JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "MAGAZ SABYRZHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KUO CHEN-CHIEH TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "DAO HONG  SON TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "BAZARBAEV TIMUR JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "YERMEK RAKHAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ROY SHEDHERTO KUMAR GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        },
+        {
+          "name": "SALMAN ALI DAWOOD IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        }
+      ]
+    },
+    {
+      "catid": "4358",
+      "category": "ADULTS JU-JITSU CONTACT MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_4358.html",
+      "competitors": [
+        {
+          "name": "AL-GHARRAWI MOHAMMED ALBAQER IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "SALOMOV AZIZBEK JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "TASSEMENOV NURZHAU AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KUMAR ANIL JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "BAISULTANOV MALIK AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KADAMOV AMRKHON JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "AL-MASHAHEDI MOHAMMED IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "KU HAO-WEN TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        }
+      ]
+    },
+    {
+      "catid": "4359",
+      "category": "ADULTS JU-JITSU CONTACT MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_4359.html",
+      "competitors": [
+        {
+          "name": "MAKUL SERIK AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "TUYA TURBAT MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "GURJAR RAM SINGH JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "TAHA MAHMOOD IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "ABDIRAZAKOV AYBEK JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "JASIM HUSSEIN IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "ABISHOV BEKBULAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "NABIEV KHASANJON JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "ISLAM  MD SHARIFUL GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        }
+      ]
+    },
+    {
+      "catid": "4360",
+      "category": "ADULTS JU-JITSU CONTACT MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_4360.html",
+      "competitors": [
+        {
+          "name": "ABDULKAREEM ABDULHADI IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "RAMANAND CHOUDHARY JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "AMANGELDIEV OTABEK JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "SEKHAR MAJHI SRIKANT JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "AKZHIGITOV ALISHER AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BAKHRIDDINOV SHAMSIDDIN JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "AHMADI SAMAN JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "TAJIBAYEV NURBEK AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MOHAMMADBAKER MOHAMMAD IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "ALHAM NASIR AHMAD HANISTAN JU-JITSU FEDERATIONAFG",
+          "country": "AFG"
+        }
+      ]
+    },
+    {
+      "catid": "4361",
+      "category": "ADULTS JU-JITSU CONTACT MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_4361.html",
+      "competitors": [
+        {
+          "name": "RAJESH KUMAR HARITWAL JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "KHOJANAZAROV ARISLAN JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "KHAN MD SHAHJALAL GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        },
+        {
+          "name": "SHETTY BALKRISHNA SHEKHAR JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "AKBARPOUR ALI JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "TOKTYBAYEV TALANT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "AL-KHAZRAJI AHMED IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "AL-JIZANI HUSSEIN IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "KHASHIMOV KHUMOYUN JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "KATBAYEV GALYMZHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "4362",
+      "category": "ADULTS JU-JITSU CONTACT MALE -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_4362.html",
+      "competitors": [
+        {
+          "name": "KADHIM MOHMAMMED IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "MAGMUR KANAGAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KHAMIDOV MAMURJON JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "ALBU-MOHAMMED MOHANAD IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "GALSANDORJ GANTULGA MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "MYRZABEKOV BAGDAULET AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "1491",
+      "category": "ADULTS JU-JITSU DUO MEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1491.html",
+      "competitors": []
+    },
+    {
+      "catid": "23400",
+      "category": "ADULTS JU-JITSU DUO MEN ADV FINAL",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23400.html",
+      "competitors": []
+    },
+    {
+      "catid": "23396",
+      "category": "ADULTS JU-JITSU DUO MEN ADV SFA R4",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23396.html",
+      "competitors": []
+    },
+    {
+      "catid": "23397",
+      "category": "ADULTS JU-JITSU DUO MEN ADV SFB R4",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23397.html",
+      "competitors": []
+    },
+    {
+      "catid": "23401",
+      "category": "ADULTS JU-JITSU DUO MEN NOV FINAL",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23401.html",
+      "competitors": []
+    },
+    {
+      "catid": "23398",
+      "category": "ADULTS JU-JITSU DUO MEN NOV SF R4",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23398.html",
+      "competitors": []
+    },
+    {
+      "catid": "23383",
+      "category": "ADULTS JU-JITSU DUO MEN QF R2 POOL A",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23383.html",
+      "competitors": []
+    },
+    {
+      "catid": "23384",
+      "category": "ADULTS JU-JITSU DUO MEN QF R2 POOL B",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23384.html",
+      "competitors": []
+    },
+    {
+      "catid": "23387",
+      "category": "ADULTS JU-JITSU DUO MEN QF R3 POOL A",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23387.html",
+      "competitors": []
+    },
+    {
+      "catid": "23388",
+      "category": "ADULTS JU-JITSU DUO MEN QF R3 POOL B",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23388.html",
+      "competitors": []
+    },
+    {
+      "catid": "23395",
+      "category": "ADULTS JU-JITSU DUO MEN WD FINAL",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23395.html",
+      "competitors": []
+    },
+    {
+      "catid": "23391",
+      "category": "ADULTS JU-JITSU DUO MEN WD SFA R4",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23391.html",
+      "competitors": []
+    },
+    {
+      "catid": "23392",
+      "category": "ADULTS JU-JITSU DUO MEN WD SFB R4",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23392.html",
+      "competitors": []
+    },
+    {
+      "catid": "1492",
+      "category": "ADULTS JU-JITSU DUO MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1492.html",
+      "competitors": []
+    },
+    {
+      "catid": "23376",
+      "category": "ADULTS JU-JITSU DUO MIXED QF R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23376.html",
+      "competitors": []
+    },
+    {
+      "catid": "23377",
+      "category": "ADULTS JU-JITSU DUO MIXED QF R3",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23377.html",
+      "competitors": []
+    },
+    {
+      "catid": "23380",
+      "category": "ADULTS JU-JITSU DUO MIXED WD FINAL",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23380.html",
+      "competitors": []
+    },
+    {
+      "catid": "23378",
+      "category": "ADULTS JU-JITSU DUO MIXED WD SFA R4",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23378.html",
+      "competitors": []
+    },
+    {
+      "catid": "23379",
+      "category": "ADULTS JU-JITSU DUO MIXED WD SFB R4",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23379.html",
+      "competitors": []
+    },
+    {
+      "catid": "21351",
+      "category": "ADULTS JU-JITSU DUO OPEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_21351.html",
+      "competitors": []
+    },
+    {
+      "catid": "23408",
+      "category": "ADULTS JU-JITSU DUO OPEN ADV FINAL",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23408.html",
+      "competitors": []
+    },
+    {
+      "catid": "23403",
+      "category": "ADULTS JU-JITSU DUO OPEN QF R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23403.html",
+      "competitors": []
+    },
+    {
+      "catid": "23404",
+      "category": "ADULTS JU-JITSU DUO OPEN QF R3",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23404.html",
+      "competitors": []
+    },
+    {
+      "catid": "23407",
+      "category": "ADULTS JU-JITSU DUO OPEN WD FINAL",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23407.html",
+      "competitors": []
+    },
+    {
+      "catid": "23405",
+      "category": "ADULTS JU-JITSU DUO OPEN WD SFA R4",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23405.html",
+      "competitors": []
+    },
+    {
+      "catid": "23406",
+      "category": "ADULTS JU-JITSU DUO OPEN WD SFB R4",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23406.html",
+      "competitors": []
+    },
+    {
+      "catid": "1490",
+      "category": "ADULTS JU-JITSU DUO WOMEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1490.html",
+      "competitors": []
+    },
+    {
+      "catid": "23385",
+      "category": "ADULTS JU-JITSU DUO WOMEN QF R2 POOL A",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23385.html",
+      "competitors": []
+    },
+    {
+      "catid": "23386",
+      "category": "ADULTS JU-JITSU DUO WOMEN QF R2 POOL B",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23386.html",
+      "competitors": []
+    },
+    {
+      "catid": "23389",
+      "category": "ADULTS JU-JITSU DUO WOMEN QF R3 POOL A",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23389.html",
+      "competitors": []
+    },
+    {
+      "catid": "23390",
+      "category": "ADULTS JU-JITSU DUO WOMEN QF R3 POOL B",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23390.html",
+      "competitors": []
+    },
+    {
+      "catid": "23399",
+      "category": "ADULTS JU-JITSU DUO WOMEN WD FINAL",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23399.html",
+      "competitors": []
+    },
+    {
+      "catid": "23393",
+      "category": "ADULTS JU-JITSU DUO WOMEN WD SFA R4",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23393.html",
+      "competitors": []
+    },
+    {
+      "catid": "23394",
+      "category": "ADULTS JU-JITSU DUO WOMEN WD SFB R4",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23394.html",
+      "competitors": []
+    },
+    {
+      "catid": "1458",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE +70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1458.html",
+      "competitors": [
+        {
+          "name": "GOGOI EMON JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "BATBAATAR KHULAN MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "AKTER SUMAIYA GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        },
+        {
+          "name": "ALTAI BATZUL MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "THI THANH TRUC NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ASSANOVA LIANA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "LISSICHKINA ANASTASSIYA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "GOGOI EMON JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "ALTAI BATZUL MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "AKTER SUMAIYA GLADESH JU-JITSU ASSOCIATIONBAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BAN",
+          "country": "BAN"
+        },
+        {
+          "name": "ASSANOVA LIANA AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "LISSICHKINA ANASTASSIYA AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "1452",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -45 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1452.html",
+      "competitors": [
+        {
+          "name": "PHUNG THI HUE TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "MALIK SUBQAT JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "WAENPHET NEERANUCH JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "VISHWAKARMA HARSHITA JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "1453",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -48 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1453.html",
+      "competitors": [
+        {
+          "name": "LOMA SWAIN JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "AKHMET KYMBAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MANIXAY CHOMMANY JU-JITSU  FEDERATIONLAO",
+          "country": "LAO"
+        },
+        {
+          "name": "TOREGOZHINA AIGERIM AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "SUGUN NUTCHAYA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "1454",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1454.html",
+      "competitors": [
+        {
+          "name": "ZHAKAN ARUZHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "SWAIN ANUPAMA JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "KALLIBEKOVA BIYBIRUZA JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "MARAK CHAMPI JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "SENGDAKEE TOUKKY JU-JITSU  FEDERATIONLAO",
+          "country": "LAO"
+        },
+        {
+          "name": "NIGMATULLAYEVA AIBANU AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "SINGCHALAD NUCHANAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SWAIN ANUPAMA JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "MARAK CHAMPI JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "SENGDAKEE TOUKKY JU-JITSU  FEDERATIONLAO\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        LAO",
+          "country": "LAO"
+        },
+        {
+          "name": "ZHAKAN ARUZHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "1455",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1455.html",
+      "competitors": [
+        {
+          "name": "MERGENBAY ALTYNAY AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BAKHITOVA DINARA JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "KUTZHANOVA TOMIRIS AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "NGUYEN THI MINH VUONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1456",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1456.html",
+      "competitors": [
+        {
+          "name": "THI HONG NGOC PHUNG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SAILAUBEKOVA DINARA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "LIN YU-FEN TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "SANGSIRICHOK ONANONG JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "IBROKHIMOVA BAKHORA JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "NGOC BICH NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SENAM ORAPA JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "THI HONG NGOC PHUNG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "LIN YU-FEN TAIWAN JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TPE",
+          "country": "TPE"
+        },
+        {
+          "name": "SAILAUBEKOVA DINARA AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "1457",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1457.html",
+      "competitors": [
+        {
+          "name": "AMZE AYAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "HOANG THI NHAT QUE TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "YERLANOVA YERKEZHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "SAIKIA PRIYANKA JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "YADAV TEEPU JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "1450",
+      "category": "ADULTS JU-JITSU FIGHTING MALE +94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1450.html",
+      "competitors": [
+        {
+          "name": "YEA-ON KUNATHIP JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "AUDANBAYEV DAUREN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "JAKHAD NAND KISHORE JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "SHAFIEI REZA JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "AL-RUBAYE MUJTABA IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "BAIMAGAMBETOV NURZHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "1444",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -56 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1444.html",
+      "competitors": [
+        {
+          "name": "SARSENULY SAMAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALOMAIR ABDULRAHMAN SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "PREKEEV AYBEK JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "NAZEMI HARANDI ALI JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "MATHUPAN NAPHAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SALMAN ALI DAWOOD IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "KUO CHEN-CHIEH TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "NURLYBAEV ZHENIS AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALOMAIR ABDULRAHMAN SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "NURLYBAEV ZHENIS AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "SALMAN ALI DAWOOD IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "KUO CHEN-CHIEH TAIWAN JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TPE",
+          "country": "TPE"
+        },
+        {
+          "name": "PREKEEV AYBEK JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        }
+      ]
+    },
+    {
+      "catid": "1451",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1451.html",
+      "competitors": [
+        {
+          "name": "NITHARWAL VIKRAM JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "EIDY  AHMADREZA JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "SOR SOPHANUTH JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "DONGDA TARUK JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "AL-MASHAHEDI MOHAMMED IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "KHAMITOV ASKHAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KANATBEK ASLAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MADREYMOV MUSA JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "AL-GHARRAWI MOHAMMED ALBAQER IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "SATTAR MEHRAN JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "KUNTONG SUWIJAK JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "EIDY  AHMADREZA JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRI",
+          "country": "IRI"
+        },
+        {
+          "name": "AL-MASHAHEDI MOHAMMED IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "AL-MASHAHEDI MOHAMMED IRAQI JU JITSU AND MARTIAL ART FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "AL-GHARRAWI MOHAMMED ALBAQER IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "SOR SOPHANUTH JU JITSU FEDERATION OF BODIACAM\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CAM",
+          "country": "CAM"
+        },
+        {
+          "name": "KUNTONG SUWIJAK JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "NITHARWAL VIKRAM JU-JITSU ASSOCIATION OF IAIND\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "NITHARWAL VIKRAM JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "MADREYMOV MUSA JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        }
+      ]
+    },
+    {
+      "catid": "1446",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1446.html",
+      "competitors": [
+        {
+          "name": "SOONTHORN SARIN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "LANGKUNG RADE JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "ZAKARIN AIBEK AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MOSAVI FARHAN JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "JASIM HUSSEIN IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "HASDEE KUNNAPONG JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ABU-BAKIR ZHANIBEK AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KHAN IRFAN JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "TAHA MAHMOOD IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "TUYA TURBAT MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "AFSARIJADIDI MOHAMMAD JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "ISLAM  MD SHARIFUL GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        },
+        {
+          "name": "SOONTHORN SARIN JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "KHAN IRFAN JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "KHAN IRFAN JU-JITSU ASSOCIATION OF IAIND\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "TUYA TURBAT MONGOLIAN JIU-JITSU ASSOCIATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MGL",
+          "country": "MGL"
+        },
+        {
+          "name": "JASIM HUSSEIN IRAQI JU JITSU AND MARTIAL ART FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "HASDEE KUNNAPONG JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "JASIM HUSSEIN IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "AFSARIJADIDI MOHAMMAD JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRI",
+          "country": "IRI"
+        },
+        {
+          "name": "ZAKARIN AIBEK AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ZAKARIN AIBEK AKHSTAN JIU JITSU ASSOCIATIONKAZ\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ISLAM  MD SHARIFUL GLADESH JU-JITSU ASSOCIATIONBAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BAN",
+          "country": "BAN"
+        },
+        {
+          "name": "LANGKUNG RADE JU-JITSU ASSOCIATION OF IAIND\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "LANGKUNG RADE JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "TAHA MAHMOOD IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        }
+      ]
+    },
+    {
+      "catid": "1447",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1447.html",
+      "competitors": [
+        {
+          "name": "GOGOI PRASUJYA JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "AUNJAI CHANWIT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "POLPUT KAMPANART JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ABDULKAREEM ABDULHADI IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "DUISENKULOV NURSULTAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "AL-KHAZRAJI AHMED IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "AMANGELDIEV OTABEK JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "UDESI PAWAN KUMAR JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "AMRAEI HAMID JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "BAIMURATOV BEKZAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "AUNJAI CHANWIT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "ABDULKAREEM ABDULHADI IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "ABDULKAREEM ABDULHADI IRAQI JU JITSU AND MARTIAL ART FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "AL-KHAZRAJI AHMED IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "AMRAEI HAMID JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRI",
+          "country": "IRI"
+        },
+        {
+          "name": "UDESI PAWAN KUMAR JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "POLPUT KAMPANART JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "GOGOI PRASUJYA JU-JITSU ASSOCIATION OF IAIND\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "GOGOI PRASUJYA JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        },
+        {
+          "name": "AMANGELDIEV OTABEK JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        }
+      ]
+    },
+    {
+      "catid": "1448",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1448.html",
+      "competitors": [
+        {
+          "name": "SUNTRA SOOKNATEE JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "AL-JIZANI HUSSEIN IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "KHOJANAZAROV ARISLAN JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "MIAH RIPON GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        },
+        {
+          "name": "YESSENEYEV KUANDYK AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MATHEW AKASH JU-JITSU ASSOCIATION OF IAIND",
+          "country": "IND"
+        },
+        {
+          "name": "KHAN MD SHAHJALAL GLADESH JU-JITSU ASSOCIATIONBAN",
+          "country": "BAN"
+        },
+        {
+          "name": "YERMEKULY RUSTEM AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "AL-ANSEREI IHSAN IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "MOHSEN POUR ILIYA JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "YESSENEYEV KUANDYK AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MIAH RIPON GLADESH JU-JITSU ASSOCIATIONBAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BAN",
+          "country": "BAN"
+        },
+        {
+          "name": "MIAH RIPON GLADESH JU-JITSU ASSOCIATIONBAN\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BAN",
+          "country": "BAN"
+        },
+        {
+          "name": "KHAN MD SHAHJALAL GLADESH JU-JITSU ASSOCIATIONBAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        BAN",
+          "country": "BAN"
+        },
+        {
+          "name": "MOHSEN POUR ILIYA JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRI",
+          "country": "IRI"
+        },
+        {
+          "name": "AL-ANSEREI IHSAN IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "KHOJANAZAROV ARISLAN JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "MATHEW AKASH JU-JITSU ASSOCIATION OF IAIND\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IND",
+          "country": "IND"
+        }
+      ]
+    },
+    {
+      "catid": "1449",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1449.html",
+      "competitors": [
+        {
+          "name": "ALBU-MOHAMMED MOHANAD IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "RAMADAN SAMEH IAN MARTIAL ART FEDERATIONSYR",
+          "country": "SYR"
+        },
+        {
+          "name": "ALASERI SAJJAD IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "RAMAZANOV MUSSA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "NETTHIP NATDANAI JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "WAEL EDREES BADIE SAUDI JIU JITSU FEDERATION",
+          "country": "KSA"
+        },
+        {
+          "name": "KUSSAINOV RAMAZAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ASANOV MIRATDIN JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "KOKARUNPHONG NAWAPHON JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ASGHARZAD FAYYAZ SINA JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN",
+          "country": "IRI"
+        },
+        {
+          "name": "LE DUY THANH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "RAMADAN SAMEH IAN MARTIAL ART FEDERATIONSYR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SYR",
+          "country": "SYR"
+        },
+        {
+          "name": "WAEL EDREES BADIE SAUDI JIU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "WAEL EDREES BADIE SAUDI JIU JITSU FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KSA",
+          "country": "KSA"
+        },
+        {
+          "name": "ASANOV MIRATDIN JIU-JITSU FEDERATION OF EKISTANUZB\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        UZB",
+          "country": "UZB"
+        },
+        {
+          "name": "ALASERI SAJJAD IRAQI JU JITSU AND MARTIAL ART FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "RAMAZANOV MUSSA AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALASERI SAJJAD IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "ASGHARZAD FAYYAZ SINA JU-JITSU ASSOCIATION ISLAMIC REPUBLIC OF IRAN\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRI",
+          "country": "IRI"
+        },
+        {
+          "name": "LE DUY THANH TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ALBU-MOHAMMED MOHANAD IRAQI JU JITSU AND MARTIAL ART FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        },
+        {
+          "name": "KUSSAINOV RAMAZAN AKHSTAN JIU JITSU ASSOCIATIONKAZ\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        KAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ALBU-MOHAMMED MOHANAD IRAQI JU JITSU AND MARTIAL ART FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        IRQ",
+          "country": "IRQ"
+        }
+      ]
+    },
+    {
+      "catid": "1494",
+      "category": "ADULTS JU-JITSU SHOW MEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1494.html",
+      "competitors": []
+    },
+    {
+      "catid": "23381",
+      "category": "ADULTS JU-JITSU SHOW MEN FINAL",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23381.html",
+      "competitors": []
+    },
+    {
+      "catid": "1493",
+      "category": "ADULTS JU-JITSU SHOW MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1493.html",
+      "competitors": []
+    },
+    {
+      "catid": "23402",
+      "category": "ADULTS JU-JITSU SHOW MIXED FINAL",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23402.html",
+      "competitors": []
+    },
+    {
+      "catid": "21185",
+      "category": "ADULTS JU-JITSU SHOW OPEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_21185.html",
+      "competitors": []
+    },
+    {
+      "catid": "23409",
+      "category": "ADULTS JU-JITSU SHOW OPEN FINAL",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23409.html",
+      "competitors": []
+    },
+    {
+      "catid": "1495",
+      "category": "ADULTS JU-JITSU SHOW WOMEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_1495.html",
+      "competitors": []
+    },
+    {
+      "catid": "23382",
+      "category": "ADULTS JU-JITSU SHOW WOMEN FINAL",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_575_23382.html",
+      "competitors": []
+    }
+  ]
+}

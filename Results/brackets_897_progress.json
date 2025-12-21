@@ -1,0 +1,132 @@
+{
+  "verid": "897",
+  "event_name": "2025 ADULTS WORLD CHAMPIONSHIPS (THA)",
+  "scraped_at": "2025-12-08T21:35:23.697981",
+  "categories": [
+    {
+      "catid": "28187",
+      "category": "ADULTS AIMAG FEMALE +70KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28185",
+      "category": "ADULTS AIMAG FEMALE -63KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28186",
+      "category": "ADULTS AIMAG FEMALE -70KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28184",
+      "category": "ADULTS AIMAG MALE +94KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28180",
+      "category": "ADULTS AIMAG MALE -69KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28181",
+      "category": "ADULTS AIMAG MALE -77KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28182",
+      "category": "ADULTS AIMAG MALE -85KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28183",
+      "category": "ADULTS AIMAG MALE -94KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28196",
+      "category": "ADULTS FIGHTING FEMALE +70KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28194",
+      "category": "ADULTS FIGHTING FEMALE -63KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28195",
+      "category": "ADULTS FIGHTING FEMALE -70KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28189",
+      "category": "ADULTS FIGHTING MALE -69KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28190",
+      "category": "ADULTS FIGHTING MALE -77KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28191",
+      "category": "ADULTS FIGHTING MALE -85KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28192",
+      "category": "ADULTS FIGHTING MALE -94KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "1475",
+      "category": "ADULTS JIU-JITSU MALE -69 KG",
+      "competitors": []
+    },
+    {
+      "catid": "1477",
+      "category": "ADULTS JIU-JITSU MALE -85 KG",
+      "competitors": []
+    },
+    {
+      "catid": "20147",
+      "category": "ADULTS JIU-JITSU NOGI MALE -56 KG",
+      "competitors": []
+    },
+    {
+      "catid": "1444",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -56 KG",
+      "competitors": []
+    },
+    {
+      "catid": "28205",
+      "category": "ADULTS NEWAZA FEMALE +70KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28203",
+      "category": "ADULTS NEWAZA FEMALE -63KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28202",
+      "category": "ADULTS NEWAZA MALE +94KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28198",
+      "category": "ADULTS NEWAZA MALE -69KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28199",
+      "category": "ADULTS NEWAZA MALE -77KG GEMINA",
+      "competitors": []
+    },
+    {
+      "catid": "28200",
+      "category": "ADULTS NEWAZA MALE -85KG GEMINA",
+      "competitors": []
+    }
+  ]
+}

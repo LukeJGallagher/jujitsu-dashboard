@@ -1,0 +1,422 @@
+{
+  "verid": "434",
+  "event_name": "World Cup Contact Ju Jitsu 2023",
+  "scraped_at": "2025-12-10T22:41:45.192920",
+  "categories": [
+    {
+      "catid": "19274",
+      "category": "ADULTS CONTACT HIF JU-JITSU FEMALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_19274.html",
+      "competitors": [
+        {
+          "name": "MERGENBAY ALTYNAY AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "AKHMET KYMBAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "19275",
+      "category": "ADULTS CONTACT HIF JU-JITSU FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_19275.html",
+      "competitors": [
+        {
+          "name": "MAHARANI DESYANA GEM INDONESIA JU JITSU FEDERATIONINA",
+          "country": "INA"
+        },
+        {
+          "name": "TOREKHANOVA AIGERIM AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "19276",
+      "category": "ADULTS CONTACT HIF JU-JITSU FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_19276.html",
+      "competitors": [
+        {
+          "name": "DEGENBAY ZHANAR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MEEK DOLORES JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "19278",
+      "category": "ADULTS CONTACT HIF JU-JITSU MALE +94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_19278.html",
+      "competitors": [
+        {
+          "name": "AUDANBAYEV DAUREN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BASA LEMUEL JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "ZHUMADIL  YELZHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "19280",
+      "category": "ADULTS CONTACT HIF JU-JITSU MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_19280.html",
+      "competitors": []
+    },
+    {
+      "catid": "19281",
+      "category": "ADULTS CONTACT HIF JU-JITSU MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_19281.html",
+      "competitors": [
+        {
+          "name": "ABDIKAIYM IMANGALI AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "CHENG LING LEI CHINA JUJITSU COUNCIL",
+          "country": "CHN"
+        },
+        {
+          "name": "ALMANBETOV ILYAS AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "19282",
+      "category": "ADULTS CONTACT HIF JU-JITSU MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_19282.html",
+      "competitors": [
+        {
+          "name": "GUNAWAN M DANANG YOGA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "HUNG SHIH-YIN TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "HARTONO RUDI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "ASKER ZHANSERIK AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ZHAKSYLYK SHERKHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "YANG RICHARD JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "HUNG SHIH-YIN TAIWAN JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        TPE",
+          "country": "TPE"
+        },
+        {
+          "name": "YANG RICHARD JU-JITSU ASSOCIATION SINGAPORE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SGP",
+          "country": "SGP"
+        },
+        {
+          "name": "HARTONO RUDI INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "GUNAWAN M DANANG YOGA INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "19283",
+      "category": "ADULTS CONTACT HIF JU-JITSU MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_19283.html",
+      "competitors": [
+        {
+          "name": "KATBAYEV GALYMZHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "TAJIBAYEV NURBEK AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "19284",
+      "category": "ADULTS CONTACT HIF JU-JITSU MALE -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_19284.html",
+      "competitors": [
+        {
+          "name": "YERMEKULY RUSTEM AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "KUSSAINOV RAMAZAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "VALI MADIAR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "4939",
+      "category": "ADULTS CONTACT JU-JITSU FEMALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_4939.html",
+      "competitors": [
+        {
+          "name": "BOONYUEN NATNA JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MERGENBAY ALTYNAY AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "AKHMET KYMBAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BUNSON LUKNUM JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "4940",
+      "category": "ADULTS CONTACT JU-JITSU FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_4940.html",
+      "competitors": [
+        {
+          "name": "TOREKHANOVA AIGERIM AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MAHARANI DESYANA GEM INDONESIA JU JITSU FEDERATIONINA",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "4104",
+      "category": "ADULTS CONTACT JU-JITSU FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_4104.html",
+      "competitors": [
+        {
+          "name": "DEGENBAY ZHANAR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BOONRUAN TASSANEEYAWAN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "4941",
+      "category": "ADULTS CONTACT JU-JITSU FEMALE -70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_4941.html",
+      "competitors": [
+        {
+          "name": "BUAPHET PARICHART JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "AMZE AYAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "4936",
+      "category": "ADULTS CONTACT JU-JITSU MALE +94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_4936.html",
+      "competitors": [
+        {
+          "name": "AUDANBAYEV DAUREN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ZHUMADIL  YELZHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "4932",
+      "category": "ADULTS CONTACT JU-JITSU MALE -56 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_4932.html",
+      "competitors": [
+        {
+          "name": "BERRIE ALEXANDRE MANGKORN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "BIZHIGIT MADI AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "MATHUPAN NAPHAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "4933",
+      "category": "ADULTS CONTACT JU-JITSU MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_4933.html",
+      "competitors": [
+        {
+          "name": "TSAI CHUN-CHANG TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "SARSENULY SANAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "RATTANACHOT NUTTAKORN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SAINUI THEEEAYUTH JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MA YE CHINA JUJITSU COUNCIL",
+          "country": "CHN"
+        },
+        {
+          "name": "ORYNBEK YERZAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BAISULTANOV MALIK AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "4102",
+      "category": "ADULTS CONTACT JU-JITSU MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_4102.html",
+      "competitors": [
+        {
+          "name": "SINCHAITAN SIRIROT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "CHENG LING LEI CHINA JUJITSU COUNCIL",
+          "country": "CHN"
+        },
+        {
+          "name": "MMAWICHAI SETTHAPHONG JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ALMANBETOV ILYAS AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "SUTIPALO WUTTHICHAI JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MOOKSARN KIATTISAK JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ABDIKAIYM IMANGALI AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "4934",
+      "category": "ADULTS CONTACT JU-JITSU MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_4934.html",
+      "competitors": [
+        {
+          "name": "HUNG SHIH-YIN TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "ZHAKSYLYK SHERKHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "POTIJAEN CHAYANON JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "PORNPITTTIPONG THIRAPHAN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "GUNAWAN M DANANG YOGA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "ASKER ZHANSERIK AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "YANG RICHARD JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        }
+      ]
+    },
+    {
+      "catid": "4935",
+      "category": "ADULTS CONTACT JU-JITSU MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_4935.html",
+      "competitors": [
+        {
+          "name": "WONGMAN PHACHARAPOL JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KATBAYEV GALYMZHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "TAJIBAYEV NURBEK AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "4103",
+      "category": "ADULTS CONTACT JU-JITSU MALE -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_434_4103.html",
+      "competitors": [
+        {
+          "name": "KUSSAINOV RAMAZAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "VALI MADIAR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "YERMEKULY RUSTEM AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    }
+  ]
+}

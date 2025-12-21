@@ -1,0 +1,2406 @@
+{
+  "verid": "643",
+  "event_name": "JJAU REGIONAL CHAMPIONSHIP SOUTHEAST ASIAN",
+  "scraped_at": "2025-12-10T21:53:12.492598",
+  "categories": [
+    {
+      "catid": "1486",
+      "category": "ADULTS JIU-JITSU FEMALE +70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1486.html",
+      "competitors": [
+        {
+          "name": "TAN JOANNE PAULINE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "THI THANH TRUC NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1481",
+      "category": "ADULTS JIU-JITSU FEMALE -48 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1481.html",
+      "competitors": [
+        {
+          "name": "LE THI MY HIEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "VIOLLETA ANGELA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "PHUNG THI HUE TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "AZIZAH NURUL INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "THI PHUNG LO TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI LE NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "CO JOLLIRINE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "VIOLLETA ANGELA INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "PHUNG THI HUE TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "AZIZAH NURUL INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "THI LE NGUYEN TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "CO JOLLIRINE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "1482",
+      "category": "ADULTS JIU-JITSU FEMALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1482.html",
+      "competitors": [
+        {
+          "name": "SINGCHALAD NUCHANAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "RAFAEL MARIELLA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "NGUYEN KHANH LINH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NHIM RAKSA JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "YONG MAY JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "BALUYOT ASHLEY JERAINE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "1483",
+      "category": "ADULTS JIU-JITSU FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1483.html",
+      "competitors": [
+        {
+          "name": "NGUYEN THI MINH VUONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NOLIDO ROSANNA ANDREA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "VAN DANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "JACQUELINE JACQUELINE INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1484",
+      "category": "ADULTS JIU-JITSU FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1484.html",
+      "competitors": [
+        {
+          "name": "SENAM ORAPA JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MEGAWATI ILMA YENI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "MAHARANI  DESYANA GEM INDONESIA JU JITSU FEDERATIONINA",
+          "country": "INA"
+        },
+        {
+          "name": "ARYANI NISA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "BAYU SAPUTRA CHRISTINE INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1485",
+      "category": "ADULTS JIU-JITSU FEMALE -70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1485.html",
+      "competitors": [
+        {
+          "name": "NGUYEN THU HUONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "JULIA SIMONE INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "HOANG THI NHAT QUE TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1473",
+      "category": "ADULTS JIU-JITSU MALE -56 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1473.html",
+      "competitors": [
+        {
+          "name": "TUNG PHAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TAN ALEXANDER INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "FARIZAL RYAN MUHAMAD INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "MINH QUAN TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "HALIM ABDUL INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "AL FAJRI MUHAMMAD INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1474",
+      "category": "ADULTS JIU-JITSU MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1474.html",
+      "competitors": [
+        {
+          "name": "GUNAWAN WILLIAM INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "ANDREAS YOGI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "SANG HOANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "FIQRI WAHYU ALI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "KUNTONG SUWIJAK JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "BAGUS DEVA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "CAN VAN THANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SYAFIQ BIN SHAH ERAN AMIRUL JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "ROCHIM HASYIM NUR INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "NGUYEN HUU KHANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "GUNAWAN WILLIAM INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "FIQRI WAHYU ALI INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "FIQRI WAHYU ALI INDONESIA JU JITSU FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "BAGUS DEVA INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "NGUYEN HUU KHANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ROCHIM HASYIM NUR INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "SANG HOANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ANDREAS YOGI INDONESIA JU JITSU FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "CAN VAN THANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ANDREAS YOGI INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1475",
+      "category": "ADULTS JIU-JITSU MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1475.html",
+      "competitors": [
+        {
+          "name": "RICARD SAMUEL INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "VAN TINH PHAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "LIM MARC ALEXANDER JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "KIM KEO MONGKOL JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "LIM NOAH JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "KAUTSAR LUTHFI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "SAO SOPHEARA JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "TRINH XUAN ANH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "LIYONG MARCHEL INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "DUNG PHAM TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "DANG DINH TUNG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SAPUTRA GILANG SURYA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "SINCHAITAN SIRIROT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "TIU MICHAEL BRYANT JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SINCHAITAN SIRIROT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SAPUTRA GILANG SURYA INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "SAPUTRA GILANG SURYA INDONESIA JU JITSU FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "LIM MARC ALEXANDER JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "LIYONG MARCHEL INDONESIA JU JITSU FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "LIYONG MARCHEL INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "SAO SOPHEARA JU JITSU FEDERATION OF BODIACAM\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CAM",
+          "country": "CAM"
+        },
+        {
+          "name": "DUNG PHAM TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SAO SOPHEARA JU JITSU FEDERATION OF BODIACAM\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CAM",
+          "country": "CAM"
+        },
+        {
+          "name": "TRINH XUAN ANH TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KAUTSAR LUTHFI INDONESIA JU JITSU FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "KAUTSAR LUTHFI INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "KIM KEO MONGKOL JU JITSU FEDERATION OF BODIACAM\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CAM",
+          "country": "CAM"
+        },
+        {
+          "name": "KIM KEO MONGKOL JU JITSU FEDERATION OF BODIACAM\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CAM",
+          "country": "CAM"
+        },
+        {
+          "name": "TIU MICHAEL BRYANT JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "VAN TINH PHAN TNAM JUJITSU FEDERATIONVIE\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "VAN TINH PHAN TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "RICARD SAMUEL INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1476",
+      "category": "ADULTS JIU-JITSU MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1476.html",
+      "competitors": [
+        {
+          "name": "TUNG NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "AUNJAI CHANWIT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "RIDWAN KEVIN ADRIANUS INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "LIM PAUL JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "NGUYEN TAT LOC TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "POLPUT KAMPANART JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "WIBISONO ALFONSUS MICHAEL INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "MOEUN LIM SOPANHA JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "TUNG NGUYEN TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "RIDWAN KEVIN ADRIANUS INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "POLPUT KAMPANART JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "NGUYEN TAT LOC TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "WIBISONO ALFONSUS MICHAEL INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "AUNJAI CHANWIT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "1477",
+      "category": "ADULTS JIU-JITSU MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1477.html",
+      "competitors": [
+        {
+          "name": "LINH PHAM TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ARYAWIJOYO REVANA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "TRIEN NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "GALLEGO CHRISTOPHER JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "1478",
+      "category": "ADULTS JIU-JITSU MALE -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1478.html",
+      "competitors": [
+        {
+          "name": "LE DUY THANH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "PAAYS YUNUS JUNIOR INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "VAN TAM HOANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4352",
+      "category": "ADULTS JU-JITSU CONTACT FEMALE -48 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4352.html",
+      "competitors": [
+        {
+          "name": "PHUNG THI HUE TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI PHUNG LO TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI LE NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "LE THI MY HIEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4354",
+      "category": "ADULTS JU-JITSU CONTACT FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4354.html",
+      "competitors": [
+        {
+          "name": "NGUYEN KHANH LINH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "VAN DANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NGUYEN THI MINH VUONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4355",
+      "category": "ADULTS JU-JITSU CONTACT FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4355.html",
+      "competitors": [
+        {
+          "name": "MAHARANI  DESYANA GEM INDONESIA JU JITSU FEDERATIONINA",
+          "country": "INA"
+        },
+        {
+          "name": "THI HONG NGOC PHUNG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NGOC BICH NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4356",
+      "category": "ADULTS JU-JITSU CONTACT FEMALE -70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4356.html",
+      "competitors": [
+        {
+          "name": "HOANG THI NHAT QUE TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NGUYEN THU HUONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4357",
+      "category": "ADULTS JU-JITSU CONTACT MALE -56 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4357.html",
+      "competitors": [
+        {
+          "name": "MINH QUAN TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TUNG PHAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "AHMAD SHAIKH JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "RAMLI ROBERTUS INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "TRINH KE DUONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4358",
+      "category": "ADULTS JU-JITSU CONTACT MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4358.html",
+      "competitors": [
+        {
+          "name": "LUONG TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SEMAN ZULKANIAN JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "CAN VAN THANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4359",
+      "category": "ADULTS JU-JITSU CONTACT MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4359.html",
+      "competitors": [
+        {
+          "name": "T LAM NGUYEN VIETNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NGUYEN HUU KHANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "DANG DINH TUNG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TRINH XUAN ANH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SINCHAITAN SIRIROT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "VAN SUU TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4360",
+      "category": "ADULTS JU-JITSU CONTACT MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4360.html",
+      "competitors": [
+        {
+          "name": "NGUYEN TAT LOC TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SANCOKO DANANG WILLIAN INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "TUNG NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4361",
+      "category": "ADULTS JU-JITSU CONTACT MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4361.html",
+      "competitors": [
+        {
+          "name": "TRIEN NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "BAKAR FUAD JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "LUBIS DEDY INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "4362",
+      "category": "ADULTS JU-JITSU CONTACT MALE -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4362.html",
+      "competitors": [
+        {
+          "name": "LE DUY THANH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "DANG MINH TO TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "VAN TAM HOANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1491",
+      "category": "ADULTS JU-JITSU DUO MEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1491.html",
+      "competitors": []
+    },
+    {
+      "catid": "21359",
+      "category": "ADULTS JU-JITSU DUO MEN R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21359.html",
+      "competitors": []
+    },
+    {
+      "catid": "1492",
+      "category": "ADULTS JU-JITSU DUO MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1492.html",
+      "competitors": []
+    },
+    {
+      "catid": "21360",
+      "category": "ADULTS JU-JITSU DUO MIXED R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21360.html",
+      "competitors": []
+    },
+    {
+      "catid": "21351",
+      "category": "ADULTS JU-JITSU DUO OPEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21351.html",
+      "competitors": []
+    },
+    {
+      "catid": "21357",
+      "category": "ADULTS JU-JITSU DUO OPEN ROUND2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21357.html",
+      "competitors": []
+    },
+    {
+      "catid": "21358",
+      "category": "ADULTS JU-JITSU DUO OPEN ROUND3",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21358.html",
+      "competitors": []
+    },
+    {
+      "catid": "1490",
+      "category": "ADULTS JU-JITSU DUO WOMEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1490.html",
+      "competitors": []
+    },
+    {
+      "catid": "21362",
+      "category": "ADULTS JU-JITSU DUO WOMEN R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21362.html",
+      "competitors": []
+    },
+    {
+      "catid": "1453",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -48 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1453.html",
+      "competitors": [
+        {
+          "name": "AZIZAH NURUL INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "PHUNG THI HUE TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI LE NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ALVIRA IVON INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "LE THI MY HIEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1454",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1454.html",
+      "competitors": [
+        {
+          "name": "SINGCHALAD NUCHANAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "NHIM RAKSA JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "NGUYEN KHANH LINH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KINKY HENANDHITA STEEFANNY INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1455",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1455.html",
+      "competitors": [
+        {
+          "name": "LE DUY THANH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "DANG MINH TO TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "VAN TAM HOANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1456",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1456.html",
+      "competitors": [
+        {
+          "name": "SENAM ORAPA JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "HARUN SUCI ANGGI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "ISLAFIYATUR ROHMAH ATIKA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "NGOC BICH NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1457",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1457.html",
+      "competitors": [
+        {
+          "name": "HOANG THI NHAT QUE TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NGUYEN THU HUONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1444",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -56 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1444.html",
+      "competitors": [
+        {
+          "name": "TRINH KE DUONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "AHMAD SHAIKH JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "WIJAYA DONNY PUTRA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "MINH QUAN TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "RAIHAN AZZUMARDY MUHAMMAD INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "SYAUQI AMRI RAIHAN INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "KARUBUN FRANSISKUS INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "TRINH KE DUONG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "RAIHAN AZZUMARDY MUHAMMAD INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "WIJAYA DONNY PUTRA INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "SYAUQI AMRI RAIHAN INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "KARUBUN FRANSISKUS INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1451",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1451.html",
+      "competitors": [
+        {
+          "name": "KUNTONG SUWIJAK JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "PAMBUDI SATRIO AGUNG INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "MASTUR IMAM INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "CAN VAN THANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "LUONG TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TIYAWAN ADI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "SANG HOANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SEMAN ZULKANIAN JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "PAMBUDI SATRIO AGUNG INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "SANG HOANG TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TIYAWAN ADI INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "SEMAN ZULKANIAN JU-JITSU ASSOCIATION SINGAPORE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SGP",
+          "country": "SGP"
+        },
+        {
+          "name": "MASTUR IMAM INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1446",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1446.html",
+      "competitors": [
+        {
+          "name": "VAN SUU TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KIM KEO MONGKOL JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "DANG DINH TUNG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "DWI MULYANTO BAYU ILHAMI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "SINCHAITAN SIRIROT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SYAFIQ BIN SHAH ERAN AMIRUL JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "VAN TINH PHAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SAO SOPHEARA JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "KIM KEO MONGKOL JU JITSU FEDERATION OF BODIACAM\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CAM",
+          "country": "CAM"
+        },
+        {
+          "name": "SAO SOPHEARA JU JITSU FEDERATION OF BODIACAM\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CAM",
+          "country": "CAM"
+        },
+        {
+          "name": "SYAFIQ BIN SHAH ERAN AMIRUL JU-JITSU ASSOCIATION SINGAPORE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SGP",
+          "country": "SGP"
+        },
+        {
+          "name": "VAN TINH PHAN TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "DWI MULYANTO BAYU ILHAMI INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1447",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1447.html",
+      "competitors": [
+        {
+          "name": "BAYU SETO MOHAMMAD KRISNO INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "NGUYEN TAT LOC TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "FAUZI MUHAMMAD IRFAN INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "BRAMASTYO PUTRO DIMAS INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "POLPUT KAMPANART JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "RIONO TOMI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "BAIHAQI JAFAR INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "MOEUN LIM SOPANHA JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "TANUJAYA ARTZ BRILLIANT PERFECTO INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "AUNJAI CHANWIT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "NGUYEN TAT LOC TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "BRAMASTYO PUTRO DIMAS INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "BRAMASTYO PUTRO DIMAS INDONESIA JU JITSU FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "BAIHAQI JAFAR INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "TANUJAYA ARTZ BRILLIANT PERFECTO INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "MOEUN LIM SOPANHA JU JITSU FEDERATION OF BODIACAM\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CAM",
+          "country": "CAM"
+        },
+        {
+          "name": "FAUZI MUHAMMAD IRFAN INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "BAYU SETO MOHAMMAD KRISNO INDONESIA JU JITSU FEDERATION\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "BAYU SETO MOHAMMAD KRISNO INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "RIONO TOMI INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1448",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1448.html",
+      "competitors": [
+        {
+          "name": "FADHILAH NAUFAL MUHAMMAD INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "BAKAR FUAD JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "DARMAN SHAH OMAR INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "TRIEN NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1449",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1449.html",
+      "competitors": [
+        {
+          "name": "VAN TAM HOANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "LE DUY THANH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "DANG MINH TO TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "GALLEGO CHRISTOPHER JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "1494",
+      "category": "ADULTS JU-JITSU SHOW MEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1494.html",
+      "competitors": []
+    },
+    {
+      "catid": "21354",
+      "category": "ADULTS JU-JITSU SHOW MEN R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21354.html",
+      "competitors": []
+    },
+    {
+      "catid": "1493",
+      "category": "ADULTS JU-JITSU SHOW MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1493.html",
+      "competitors": []
+    },
+    {
+      "catid": "21185",
+      "category": "ADULTS JU-JITSU SHOW OPEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21185.html",
+      "competitors": []
+    },
+    {
+      "catid": "21355",
+      "category": "ADULTS JU-JITSU SHOW OPEN R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21355.html",
+      "competitors": []
+    },
+    {
+      "catid": "1495",
+      "category": "ADULTS JU-JITSU SHOW WOMEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1495.html",
+      "competitors": []
+    },
+    {
+      "catid": "4331",
+      "category": "U16 JIU-JITSU FEMALE +63 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4331.html",
+      "competitors": [
+        {
+          "name": "THI TRANG CHU TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI HUYEN CHU TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4325",
+      "category": "U16 JIU-JITSU FEMALE -40 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4325.html",
+      "competitors": [
+        {
+          "name": "THI NHUNG HA TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NGOC HAN HOANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI HOAI THUONG NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI LIEU SAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4326",
+      "category": "U16 JIU-JITSU FEMALE -44 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4326.html",
+      "competitors": [
+        {
+          "name": "THI ANH THU TRINH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI HUONG DANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "BAO NGOC NONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4328",
+      "category": "U16 JIU-JITSU FEMALE -52 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4328.html",
+      "competitors": [
+        {
+          "name": "HA THU HOAI DANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "AZZAHRA A LATISHA AZHRA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "HA NGOC HAN DANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "FAN AUDREY JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        }
+      ]
+    },
+    {
+      "catid": "21340",
+      "category": "U16 JIU-JITSU MALE +77 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21340.html",
+      "competitors": [
+        {
+          "name": "BABANTO ZEUS JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "PRATAMA MUHAMMAD AKBAR INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "21332",
+      "category": "U16 JIU-JITSU MALE -40 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21332.html",
+      "competitors": [
+        {
+          "name": "RIBEIRO RUDAH DE CARVALHO INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "FRANANDA DHIMAS INDRA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "KHALID ANAS TAHER INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "21333",
+      "category": "U16 JIU-JITSU MALE -44 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21333.html",
+      "competitors": [
+        {
+          "name": "ALI HAEDAR INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "TAHER EPHRON ABDURRAHMAN INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "KUSUMA PUTRA ABIYAN ADHIKARI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "NASWAZAPUTRA RAKHA ATHAYA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "21335",
+      "category": "U16 JIU-JITSU MALE -52 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21335.html",
+      "competitors": [
+        {
+          "name": "ONG JIN GABRIEL JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "CHASMA NUR SYAHGALA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "MENDEL TAN JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "WIJAYA NGAKAN KOMANG KRISNA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "KHAI NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "21336",
+      "category": "U16 JIU-JITSU MALE -56 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21336.html",
+      "competitors": [
+        {
+          "name": "BALANZAT CALEB SEBASTIAN JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "TUAN KIET PHAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "HIMARA BUMI MAGANI ABRAAR INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "21337",
+      "category": "U16 JIU-JITSU MALE -62 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21337.html",
+      "competitors": [
+        {
+          "name": "RUSWANDY RANSI AHZA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "GIA PHONG NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "MAPALO CHASE EMMANUELLE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "21339",
+      "category": "U16 JIU-JITSU MALE -77 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21339.html",
+      "competitors": [
+        {
+          "name": "SOKYA MALKA RAGNALA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "QUANG HAO NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "HIDAYAT MUHAMMAD RAFFI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "4333",
+      "category": "U16 JU-JITSU DUO FEMALE",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4333.html",
+      "competitors": []
+    },
+    {
+      "catid": "21372",
+      "category": "U16 JU-JITSU DUO FEMALE R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21372.html",
+      "competitors": []
+    },
+    {
+      "catid": "21378",
+      "category": "U16 JU-JITSU DUO FEMALE R4",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21378.html",
+      "competitors": []
+    },
+    {
+      "catid": "4332",
+      "category": "U16 JU-JITSU DUO MALE",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4332.html",
+      "competitors": []
+    },
+    {
+      "catid": "21373",
+      "category": "U16 JU-JITSU DUO MALE R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21373.html",
+      "competitors": []
+    },
+    {
+      "catid": "4334",
+      "category": "U16 JU-JITSU DUO MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4334.html",
+      "competitors": []
+    },
+    {
+      "catid": "21374",
+      "category": "U16 JU-JITSU DUO MIXED R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21374.html",
+      "competitors": []
+    },
+    {
+      "catid": "21379",
+      "category": "U16 JU-JITSU DUO MIXED R4",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21379.html",
+      "competitors": []
+    },
+    {
+      "catid": "4307",
+      "category": "U16 JU-JITSU FIGHTING FEMALE -40 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4307.html",
+      "competitors": [
+        {
+          "name": "THI LIEU SAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI HOAI THUONG NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI NHUNG HA TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NGOC HAN HOANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4308",
+      "category": "U16 JU-JITSU FIGHTING FEMALE -44 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4308.html",
+      "competitors": [
+        {
+          "name": "THI ANH THU TRINH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "BAO NGOC NONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI HUONG DANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4310",
+      "category": "U16 JU-JITSU FIGHTING FEMALE -52 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4310.html",
+      "competitors": [
+        {
+          "name": "HA THU HOAI DANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "ZUKHRUFI NADEZHA RAYHANA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "HA NGOC HAN DANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "21193",
+      "category": "U16 JU-JITSU FIGHTING MALE -52 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21193.html",
+      "competitors": [
+        {
+          "name": "ALVANEKA NANGGALA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "FIRDAUS RADEN RAFKA RAYLAND INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "DE ROSARI YOHANES JOY INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "KHAI NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "21191",
+      "category": "U16 JU-JITSU FIGHTING MALE -62 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21191.html",
+      "competitors": [
+        {
+          "name": "HIMARA BUMI MAGANI ABRAAR INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "XUAN CHIEN NGO TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "GIA PHONG NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TUAN KIET PHAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "21189",
+      "category": "U16 JU-JITSU FIGHTING MALE -77 kg",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21189.html",
+      "competitors": [
+        {
+          "name": "TIEN DAT HA TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "QUANG HAO NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "4336",
+      "category": "U16 JU-JITSU SHOW FEMALE",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4336.html",
+      "competitors": []
+    },
+    {
+      "catid": "21371",
+      "category": "U16 JU-JITSU SHOW FEMALE Tie Match 0-2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21371.html",
+      "competitors": []
+    },
+    {
+      "catid": "4335",
+      "category": "U16 JU-JITSU SHOW MALE",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4335.html",
+      "competitors": []
+    },
+    {
+      "catid": "4337",
+      "category": "U16 JU-JITSU SHOW MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_4337.html",
+      "competitors": []
+    },
+    {
+      "catid": "1817",
+      "category": "U18 JIU-JITSU FEMALE -44 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1817.html",
+      "competitors": [
+        {
+          "name": "THI HOANG VAN TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI NGOC ANH PHAM TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THU HA PHAM TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1819",
+      "category": "U18 JIU-JITSU FEMALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1819.html",
+      "competitors": [
+        {
+          "name": "THI HOANG ANH TRINH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI THANH HA TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SYAHLAA HARIYANTO SEQHA TAQIYYAH INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "HOAI THUONG VUONG TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1821",
+      "category": "U18 JIU-JITSU FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1821.html",
+      "competitors": [
+        {
+          "name": "THUY DUYEN NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KHAIRUNNISA NISR ATHIRAH INDONESIA JU JITSU FEDERATIONINA",
+          "country": "INA"
+        },
+        {
+          "name": "THU HOAI NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "HONG AN TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "21322",
+      "category": "U18 JIU-JITSU MALE +85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21322.html",
+      "competitors": [
+        {
+          "name": "HUU TRI LAM TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NGOC KHOI MINH HUYNH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "21317",
+      "category": "U18 JIU-JITSU MALE -56 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21317.html",
+      "competitors": [
+        {
+          "name": "ADI TIANSYAH MOCHAMAD ABI FITRA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "BRIPDANA PRIANATA JEAN GIO INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "CAI HONG PHUC TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "21318",
+      "category": "U18 JIU-JITSU MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21318.html",
+      "competitors": [
+        {
+          "name": "SOR SOPHANUTH JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "HUY CUONG DUONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KANG MENGKHEANG JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "PIENPRASERTKUL ARTIYA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "21320",
+      "category": "U18 JIU-JITSU MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21320.html",
+      "competitors": [
+        {
+          "name": "TEGUH BAGASKORO MUHAMMAD SATRIO INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "RADIANSYAH ANTAR ZAHI SYAUQI IHSANI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1807",
+      "category": "U18 JU-JITSU FIGHTING FEMALE -44 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1807.html",
+      "competitors": [
+        {
+          "name": "THI HOANG VAN TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "WIDYAWATI WULAN TRI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "THU HA PHAM TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KIRANA MAHESWARI AZRA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1809",
+      "category": "U18 JU-JITSU FIGHTING FEMALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1809.html",
+      "competitors": [
+        {
+          "name": "SUSANTO NABILA AGUST INDONESIA JU JITSU FEDERATIONINA",
+          "country": "INA"
+        },
+        {
+          "name": "THI THANH HA TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THI HOANG ANH TRINH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "RAHAYU ADINDA ARSYFA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "HOAI THUONG VUONG TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1810",
+      "category": "U18 JU-JITSU FIGHTING FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1810.html",
+      "competitors": [
+        {
+          "name": "NURSABILA ANAKING HALIZAFITRI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "HONG AN TRAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TRIWULAN INDAH INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1812",
+      "category": "U18 JU-JITSU FIGHTING FEMALE -70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1812.html",
+      "competitors": [
+        {
+          "name": "THI THU TRANG BUI TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THU HOAI NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THUY DUYEN NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "21205",
+      "category": "U18 JU-JITSU FIGHTING MALE +85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21205.html",
+      "competitors": [
+        {
+          "name": "NGOC KHOI MINH HUYNH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "HUU TRI LAM TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "21211",
+      "category": "U18 JU-JITSU FIGHTING MALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21211.html",
+      "competitors": [
+        {
+          "name": "DANUWIJAYA RAHARJO ARYA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "HERTALINO AGRA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "CAI HONG PHUC TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "PRADNYANA I NENGAH DITYA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "21209",
+      "category": "U18 JU-JITSU FIGHTING MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21209.html",
+      "competitors": [
+        {
+          "name": "SOR SOPHANUTH JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "HUY CUONG DUONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KANG MENGKHEANG JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "PIENPRASERTKUL ARTIYA JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "21206",
+      "category": "U18 JU-JITSU FIGHTING MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21206.html",
+      "competitors": [
+        {
+          "name": "NGOC KHOI MINH HUYNH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "DUC HANH NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "21370",
+      "category": "U18 JU-JITSU SHOW MERGED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21370.html",
+      "competitors": []
+    },
+    {
+      "catid": "1893",
+      "category": "U18 JU-JITSU SHOW MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1893.html",
+      "competitors": []
+    },
+    {
+      "catid": "1894",
+      "category": "U18 JU-JITSU SHOW WOMEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1894.html",
+      "competitors": []
+    },
+    {
+      "catid": "21352",
+      "category": "U18/U21 JU-JITSU DUO MIXED MERGED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21352.html",
+      "competitors": []
+    },
+    {
+      "catid": "21375",
+      "category": "U18/U21 JU-JITSU DUO MIXED MERGED R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21375.html",
+      "competitors": []
+    },
+    {
+      "catid": "21380",
+      "category": "U18/U21 JU-JITSU DUO MIXED MERGED R3",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21380.html",
+      "competitors": []
+    },
+    {
+      "catid": "21353",
+      "category": "U18/U21 JU-JITSU DUO WOMEN MERGED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21353.html",
+      "competitors": []
+    },
+    {
+      "catid": "21376",
+      "category": "U18/U21 JU-JITSU DUO WOMEN MERGED R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21376.html",
+      "competitors": []
+    },
+    {
+      "catid": "1467",
+      "category": "U21 JIU-JITSU FEMALE -48 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1467.html",
+      "competitors": [
+        {
+          "name": "PRASTIYANI MARISA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "ALVIRA IVON INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1468",
+      "category": "U21 JIU-JITSU FEMALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1468.html",
+      "competitors": [
+        {
+          "name": "ONG JIN GABRIEL JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "CHASMA NUR SYAHGALA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "MENDEL TAN JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "WIJAYA NGAKAN KOMANG KRISNA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "KHAI NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1470",
+      "category": "U21 JIU-JITSU FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1470.html",
+      "competitors": [
+        {
+          "name": "THI THAO VAN NGO TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "RACHMADANTY IGSA AGISTA WIBI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "THI ANH THU VU TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "DELIANA HERDA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1459",
+      "category": "U21 JIU-JITSU MALE -56 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1459.html",
+      "competitors": [
+        {
+          "name": "THANH TRA NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "FERDIANSYAH RENDI INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "PUTRA ARYANTO MUHAMMAD DELLON INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "RAMADHAN ZAHLAN GILANG INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "WICAKSONO MOH ARIEF INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1460",
+      "category": "U21 JIU-JITSU MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1460.html",
+      "competitors": [
+        {
+          "name": "KANG MENGKHEANG JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "TAMPUBOLON BILL FARREL INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "RAIHAN MUHAMMAD INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "MUNAWAR MOH DAFFA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "KUSUMA PUTRA FAVIAN GALANG INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1461",
+      "category": "U21 JIU-JITSU MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1461.html",
+      "competitors": [
+        {
+          "name": "BALUYO YMAN XAVIER JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "EPHRON GILMORE ABDULLAH TAHER INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "TUAN ANH PHAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "GUNAWAN M DANANG YOGA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "SAO SOPHEARA JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "ARDHIANSTAH PUTRA WAHYU REZA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "T LAM NGUYEN VIETNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "WILLIAM RAFAEL INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "EPHRON GILMORE ABDULLAH TAHER INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "TUAN ANH PHAN TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "WILLIAM RAFAEL INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "ARDHIANSTAH PUTRA WAHYU REZA INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        },
+        {
+          "name": "GUNAWAN M DANANG YOGA INDONESIA JU JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        INA",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1462",
+      "category": "U21 JIU-JITSU MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1462.html",
+      "competitors": [
+        {
+          "name": "PRAMANA PUTRA DHIKA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "MOEUN LIM SOPANHA JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "FACHRESQY ADRIANO INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1463",
+      "category": "U21 JIU-JITSU MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1463.html",
+      "competitors": [
+        {
+          "name": "TAWAKAL FAUZAN AKMAL INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "TAN JEDD JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "HUU THONG CAO TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1488",
+      "category": "U21 JU-JITSU DUO MEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1488.html",
+      "competitors": []
+    },
+    {
+      "catid": "21377",
+      "category": "U21 JU-JITSU DUO MEN R2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21377.html",
+      "competitors": []
+    },
+    {
+      "catid": "21382",
+      "category": "U21 JU-JITSU DUO MEN R3",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_21382.html",
+      "competitors": []
+    },
+    {
+      "catid": "1439",
+      "category": "U21 JU-JITSU FIGHTING FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1439.html",
+      "competitors": [
+        {
+          "name": "BUNGA ISLAMI GEV SYELIN INDONESIA JU JITSU FEDERATIONINA",
+          "country": "INA"
+        },
+        {
+          "name": "THI THUY LINH NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "NGUYEN THI MINH VUONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "BULGANAH IFADAH INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1441",
+      "category": "U21 JU-JITSU FIGHTING FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1441.html",
+      "competitors": [
+        {
+          "name": "SAADAH MUDRIKATUS INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "THI ANH THU VU TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "RAHMATIN IVO JUNIA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "THI THAO VAN NGO TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1429",
+      "category": "U21 JU-JITSU FIGHTING MALE -56 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1429.html",
+      "competitors": [
+        {
+          "name": "YAHYA AL BALGHAIST SAYYID HAYDAR INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "RAMADHAN ZAHLAN GILANG INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "THANH TRA NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "INSANTAMA HANIF AHMAD INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1430",
+      "category": "U21 JU-JITSU FIGHTING MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1430.html",
+      "competitors": [
+        {
+          "name": "SOR SOPHANUTH JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "RYAN RYAN INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "HAMZAH KHALID INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "KANG MENGKHEANG JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "HIDAYAT M NASRUDIN INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "KUSUMA PUTRA FAVIAN GALANG INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1431",
+      "category": "U21 JU-JITSU FIGHTING MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1431.html",
+      "competitors": [
+        {
+          "name": "T LAM NGUYEN VIETNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SAO SOPHEARA JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "TUAN ANH PHAN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SELEMAN AURIEL PUTRA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1432",
+      "category": "U21 JU-JITSU FIGHTING MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1432.html",
+      "competitors": [
+        {
+          "name": "PRAMANA PUTRA DHIKA INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        },
+        {
+          "name": "MOEUN LIM SOPANHA JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "HASAN BASRI MUHAMMAD NUR INDONESIA JU JITSU FEDERATION",
+          "country": "INA"
+        }
+      ]
+    },
+    {
+      "catid": "1497",
+      "category": "U21 JU-JITSU SHOW MEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1497.html",
+      "competitors": []
+    },
+    {
+      "catid": "1498",
+      "category": "U21 JU-JITSU SHOW MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1498.html",
+      "competitors": []
+    },
+    {
+      "catid": "1496",
+      "category": "U21 JU-JITSU SHOW WOMEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_643_1496.html",
+      "competitors": []
+    }
+  ]
+}

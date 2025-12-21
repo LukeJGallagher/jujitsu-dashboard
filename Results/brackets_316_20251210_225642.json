@@ -1,0 +1,79 @@
+{
+  "verid": "316",
+  "event_name": "US QUALIFIER EVENT FOR WORLD GAMES",
+  "scraped_at": "2025-12-10T22:56:30.160930",
+  "categories": [
+    {
+      "catid": "1483",
+      "category": "ADULTS JIU-JITSU FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_316_1483.html",
+      "competitors": [
+        {
+          "name": "ADKINS KINAREE ADKINS",
+          "country": "USA"
+        },
+        {
+          "name": "MATAN ASHLEY HILL BROTHERS TEAM",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "catid": "1484",
+      "category": "ADULTS JIU-JITSU FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_316_1484.html",
+      "competitors": [
+        {
+          "name": "WEIDGENAND TAINARA USJJO",
+          "country": "USA"
+        },
+        {
+          "name": "RAWSON NORA RAWSON",
+          "country": "USA"
+        },
+        {
+          "name": "KLETTNER KELLY KLETTNER",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "catid": "1475",
+      "category": "ADULTS JIU-JITSU MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_316_1475.html",
+      "competitors": [
+        {
+          "name": "VELASQUEZ CARLOS VELASQUEZ",
+          "country": "USA"
+        },
+        {
+          "name": "GOODE JONAS GOODE",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "catid": "1476",
+      "category": "ADULTS JIU-JITSU MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_316_1476.html",
+      "competitors": [
+        {
+          "name": "HOSSAIN MEHRAN NAVY JIU JITSU",
+          "country": "USA"
+        },
+        {
+          "name": "KIM EDMUND KIM",
+          "country": "USA"
+        },
+        {
+          "name": "CAICEDO BORJA RAPHAEL USJJO",
+          "country": "USA"
+        },
+        {
+          "name": "GDOWSKI SAM NAVY JIU JITSU",
+          "country": "USA"
+        }
+      ]
+    }
+  ]
+}

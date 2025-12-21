@@ -1,0 +1,340 @@
+{
+  "verid": "431",
+  "event_name": "32nd SOUTHEAST ASIAN GAMES 2023",
+  "scraped_at": "2025-12-10T22:42:52.839196",
+  "categories": [
+    {
+      "catid": "1482",
+      "category": "ADULTS JIU-JITSU FEMALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_1482.html",
+      "competitors": [
+        {
+          "name": "NAPOLIS JENNAKAILA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "YONG MAY JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "DANG THI HUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "KHAN JESSA JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "SINGCHALAD NUCHANAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "1474",
+      "category": "ADULTS JIU-JITSU MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_1474.html",
+      "competitors": [
+        {
+          "name": "KUNTONG SUWIJAK JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "SYAFIQ BIN SHAH ERAN AMIRUL JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "MANGUBAT MYRON MYLES JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "CAN VAN THANG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "THAN ANDREW JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        }
+      ]
+    },
+    {
+      "catid": "1475",
+      "category": "ADULTS JIU-JITSU MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_1475.html",
+      "competitors": [
+        {
+          "name": "SLAYMAN JEDIDIAH PHOMSAVATH S JIU JITSULAO",
+          "country": "LAO"
+        },
+        {
+          "name": "ESPINOSA TIU MICHAEL JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "KHANG NGUYEN HUU TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "LIM NOAH JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "JANTANAKHA SUKITPEERARAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "AKAKSYAH ADAM MALAYSIA JIU-JITSU FEDERATION",
+          "country": "MAS"
+        },
+        {
+          "name": "HOUR SENGHONG JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "ESPINOSA TIU MICHAEL JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "AKAKSYAH ADAM MALAYSIA JIU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MAS",
+          "country": "MAS"
+        },
+        {
+          "name": "KHANG NGUYEN HUU TNAM JUJITSU FEDERATIONVIE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        VIE",
+          "country": "VIE"
+        },
+        {
+          "name": "JANTANAKHA SUKITPEERARAT JU JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "HOUR SENGHONG JU JITSU FEDERATION OF BODIACAM\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CAM",
+          "country": "CAM"
+        }
+      ]
+    },
+    {
+      "catid": "20145",
+      "category": "ADULTS JIU-JITSU NOGI FEMALE -52 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_20145.html",
+      "competitors": [
+        {
+          "name": "PHUNG THI HUE TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "OCHOA MARGARITA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "YONG MAY JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "PHUMTHONG BENYATIP JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "KHAN JESSA JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        }
+      ]
+    },
+    {
+      "catid": "20146",
+      "category": "ADULTS JIU-JITSU NOGI FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_20146.html",
+      "competitors": [
+        {
+          "name": "RAMIREZ ANNIE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SENAM ORAPA JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MAB SOKHOUY JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "LE THI THUONG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "20147",
+      "category": "ADULTS JIU-JITSU NOGI MALE -56 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_20147.html",
+      "competitors": [
+        {
+          "name": "SLAYMAN TIMOTHY BOONXAY S JIU JITSULAO",
+          "country": "LAO"
+        },
+        {
+          "name": "CORTEZ JAN VINCENT CORTEZ JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "DAO HONG SON TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TANG YONG SIANG JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "KEADNIN KOMKRIT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        }
+      ]
+    },
+    {
+      "catid": "20148",
+      "category": "ADULTS JIU-JITSU NOGI MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_20148.html",
+      "competitors": [
+        {
+          "name": "DANG DINH TUNG TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "SOTHAVUTH TOUCH RICKIE JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "HASDEE KUNNAPONG JU-JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "LIM NOAH JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "LIM MARC ALEXANDER FORONDA JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "SLAYMAN JEDIDIAH PHOMSAVATH S JIU JITSULAO",
+          "country": "LAO"
+        },
+        {
+          "name": "SOO YAN WEI MALAYSIA JIU-JITSU FEDERATION",
+          "country": "MAS"
+        },
+        {
+          "name": "SOTHAVUTH TOUCH RICKIE JU JITSU FEDERATION OF BODIACAM\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        CAM",
+          "country": "CAM"
+        },
+        {
+          "name": "LIM NOAH JU-JITSU ASSOCIATION SINGAPORE\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        SGP",
+          "country": "SGP"
+        },
+        {
+          "name": "HASDEE KUNNAPONG JU-JITSU ASSOCIATION OF ILANDTHA\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        THA",
+          "country": "THA"
+        },
+        {
+          "name": "SOO YAN WEI MALAYSIA JIU-JITSU FEDERATION\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        MAS",
+          "country": "MAS"
+        }
+      ]
+    },
+    {
+      "catid": "1491",
+      "category": "ADULTS JU-JITSU DUO MEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_1491.html",
+      "competitors": [
+        {
+          "name": "32nd SOUTHEAST ASIAN GAMES  2023ADULTS JU-JITSU DUO",
+          "country": "MEN"
+        },
+        {
+          "name": "DEEYATAM/KOKAEW JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "MA DINH/TRINH KE TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "MITHORA/PIKADA JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "NAVARRO/NAVARRO JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        }
+      ]
+    },
+    {
+      "catid": "1492",
+      "category": "ADULTS JU-JITSU DUO MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_1492.html",
+      "competitors": []
+    },
+    {
+      "catid": "1490",
+      "category": "ADULTS JU-JITSU DUO WOMEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_1490.html",
+      "competitors": [
+        {
+          "name": "32nd SOUTHEAST ASIAN GAMES  2023ADULTS JU-JITSU DUO WO",
+          "country": "MEN"
+        },
+        {
+          "name": "PHAOPHAN/PHAOPHAN JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "DIVINA/GUTIERREZ JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "HENG/TIN JU JITSU FEDERATION OF BODIACAM",
+          "country": "CAM"
+        },
+        {
+          "name": "HOANG/NGUYEN TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "1494",
+      "category": "ADULTS JU-JITSU SHOW MEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_1494.html",
+      "competitors": []
+    },
+    {
+      "catid": "20150",
+      "category": "ADULTS JU-JITSU SHOW MEN FINALE",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_20150.html",
+      "competitors": []
+    },
+    {
+      "catid": "1493",
+      "category": "ADULTS JU-JITSU SHOW MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_1493.html",
+      "competitors": []
+    },
+    {
+      "catid": "20151",
+      "category": "ADULTS JU-JITSU SHOW MIXED FINALE",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_20151.html",
+      "competitors": []
+    },
+    {
+      "catid": "1495",
+      "category": "ADULTS JU-JITSU SHOW WOMEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_1495.html",
+      "competitors": []
+    },
+    {
+      "catid": "20149",
+      "category": "ADULTS JU-JITSU SHOW WOMEN FINAL",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_431_20149.html",
+      "competitors": []
+    }
+  ]
+}

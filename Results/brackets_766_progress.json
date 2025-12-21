@@ -1,0 +1,634 @@
+{
+  "verid": "766",
+  "event_name": "U16/U18/U21 ASIAN CHAMPIONSHIP 2024 (UAE)",
+  "scraped_at": "2025-12-08T21:44:29.375654",
+  "categories": [
+    {
+      "catid": "22031",
+      "category": "Fighting bez I fazy U10 Men -22kg",
+      "competitors": [
+        {
+          "name": "RZE",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22002",
+      "category": "Fighting bez I fazy U10 Men -25kg",
+      "competitors": [
+        {
+          "name": "ATRACHIMOWICZ J",
+          "country": "POL"
+        },
+        {
+          "name": "MENCEL MATEUSZ  KLUB SPORTOWY WATAHA FIGHT CLUB",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "21997",
+      "category": "Fighting bez I fazy U10 Men -28kg",
+      "competitors": [
+        {
+          "name": "KUBACHA JAN  SILESIAN AIKIDO",
+          "country": "POL"
+        },
+        {
+          "name": "GALBIERZ JAN  SILESIAN AIKIDO",
+          "country": "POL"
+        },
+        {
+          "name": "KASIEL KAZIMIERZ  ROAN FIGHT CLUB MYS",
+          "country": "POL"
+        },
+        {
+          "name": "KOTAJNY ALEKSANDER  SILESIAN AIKIDO",
+          "country": "POL"
+        },
+        {
+          "name": "PALKA FRANCISZEK  KLUB SPORT",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22003",
+      "category": "Fighting bez I fazy U10 Men -36kg",
+      "competitors": [
+        {
+          "name": "ZOREMBA OLIWIER  ROAN FIGHT CLUB MYS",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22030",
+      "category": "Fighting bez I fazy U10 Women -36kg",
+      "competitors": []
+    },
+    {
+      "catid": "22311",
+      "category": "Fighting bez I fazy U12 Men +52kg",
+      "competitors": [
+        {
+          "name": "TOMALA FILIP  KLUB SPORTOWY WATAHA FIGHT CLUB",
+          "country": "POL"
+        },
+        {
+          "name": "SZCZYPI",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22305",
+      "category": "Fighting bez I fazy U12 Men -32kg",
+      "competitors": [
+        {
+          "name": "WALICKI FILIP  KLUB SPORT",
+          "country": "POL"
+        },
+        {
+          "name": "CHLEBOWSKI BARTOSZ  ROAN FIGHT CLUB MYS",
+          "country": "POL"
+        },
+        {
+          "name": "SOJKA JAKUB  SILESIAN AIKIDO",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22306",
+      "category": "Fighting bez I fazy U12 Men -36kg",
+      "competitors": [
+        {
+          "name": "SKALNY ALEKSANDER  ROAN FIGHT CLUB MYS",
+          "country": "POL"
+        },
+        {
+          "name": "DZI",
+          "country": "POL"
+        },
+        {
+          "name": "ZOREMBA OLIWIER  ROAN FIGHT CLUB MYS",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22307",
+      "category": "Fighting bez I fazy U12 Men -40kg",
+      "competitors": [
+        {
+          "name": "ATRACHIMOWICZ MI",
+          "country": "POL"
+        },
+        {
+          "name": "TOMASZEWSKI-HANDALL SAMUEL",
+          "country": "POL"
+        },
+        {
+          "name": "PONIATOWSKI KUBA  KLUB SPORT",
+          "country": "POL"
+        },
+        {
+          "name": "WCIS",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22308",
+      "category": "Fighting bez I fazy U12 Men -44kg",
+      "competitors": [
+        {
+          "name": "MAJEWSKI KACPER  KLUB SPORTOWY TRIUMPHATOR NARAT",
+          "country": "POL"
+        },
+        {
+          "name": "CZERWONKA TYMOTEUSZ  KLUB SPORT",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22320",
+      "category": "Fighting bez I fazy U12 Women +48kg",
+      "competitors": []
+    },
+    {
+      "catid": "22315",
+      "category": "Fighting bez I fazy U12 Women -32kg",
+      "competitors": [
+        {
+          "name": "TROCHA ZUZANNA  ROAN FIGHT CLUB MYS",
+          "country": "POL"
+        },
+        {
+          "name": "PALKA AGATA  KLUB SPORT",
+          "country": "POL"
+        },
+        {
+          "name": "ADAMIK HANNA  ROAN FIGHT CLUB MYS",
+          "country": "POL"
+        },
+        {
+          "name": "PYTEL NINA  KLUB SPORTOWY TRIUMPHATOR NARAT",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22317",
+      "category": "Fighting bez I fazy U12 Women -40kg",
+      "competitors": [
+        {
+          "name": "ANTONICKA ZOFIA  KLUB SPORTOWY TRIUMPHATOR NARAT",
+          "country": "POL"
+        },
+        {
+          "name": "KATRYNIOK LENA  UKS JUDO I JU-JITSU",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22318",
+      "category": "Fighting bez I fazy U12 Women -44kg",
+      "competitors": [
+        {
+          "name": "CIE",
+          "country": "POL"
+        },
+        {
+          "name": "ANTONICKA ZOFIA  KLUB SPORTOWY TRIUMPHATOR NARAT",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22319",
+      "category": "Fighting bez I fazy U12 Women -48kg",
+      "competitors": []
+    },
+    {
+      "catid": "22376",
+      "category": "Fighting bez I fazy U14 Men -62kg",
+      "competitors": []
+    },
+    {
+      "catid": "22363",
+      "category": "Fighting bez I fazy U14 Women -40kg",
+      "competitors": [
+        {
+          "name": "WDOWICKA MAJA  KLUB SPORTOWY TRIUMPHATOR NARAT",
+          "country": "POL"
+        },
+        {
+          "name": "GUZY DAGMARA  KLUB SPORTOWY WATAHA FIGHT CLUB",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22366",
+      "category": "Fighting bez I fazy U14 Women -52kg",
+      "competitors": [
+        {
+          "name": "JAKUBIEC ALEKSANDRA  KLUB SPORTOWY TRIUMPHATOR NARAT",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22438",
+      "category": "Fighting bez I fazy U16 Men -48kg",
+      "competitors": []
+    },
+    {
+      "catid": "22442",
+      "category": "Fighting bez I fazy U16 Men -69kg",
+      "competitors": [
+        {
+          "name": "ADASZY",
+          "country": "POL"
+        },
+        {
+          "name": "WITEK TOMASZ  KLUB SPORTOWY TRIUMPHATOR NARAT",
+          "country": "POL"
+        },
+        {
+          "name": "LUTY MIKO",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22443",
+      "category": "Fighting bez I fazy U16 Men -77kg",
+      "competitors": [
+        {
+          "name": "WITEK TOMASZ  KLUB SPORTOWY TRIUMPHATOR NARAT",
+          "country": "POL"
+        },
+        {
+          "name": "LUTY MIKO",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22265",
+      "category": "Fighting bez I fazy U8 Mix -20kg",
+      "competitors": [
+        {
+          "name": "KALI",
+          "country": "POL"
+        },
+        {
+          "name": "SARNOWSKI TADEUSZ  ROAN FIGHT CLUB MYS",
+          "country": "POL"
+        },
+        {
+          "name": "LISZKA LENA  MUSASHI",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22011",
+      "category": "Fighting bez I fazy U8 Mix -24kg",
+      "competitors": [
+        {
+          "name": "CHLEBOWSKA IGA  ROAN FIGHT CLUB MYS",
+          "country": "POL"
+        },
+        {
+          "name": "DZI",
+          "country": "POL"
+        },
+        {
+          "name": "WOJCIECHOWSKI WOJCIECH  KLUB SPORTOWY TRIUMPHATOR NARAT",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22266",
+      "category": "Fighting bez I fazy U8 Mix -30kg",
+      "competitors": [
+        {
+          "name": "BRZ",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22574",
+      "category": "Fighting Senior Men -77kg",
+      "competitors": [
+        {
+          "name": "GEMBALCZYK SEBASTIAN  UKS JUDO I JU-JITSU",
+          "country": "POL"
+        },
+        {
+          "name": "WOJNA MATEUSZ  KLUB SPORTOWY WATAHA FIGHT CLUB",
+          "country": "POL"
+        },
+        {
+          "name": "GUZY IGOR  KLUB SPORTOWY WATAHA FIGHT CLUB",
+          "country": "POL"
+        },
+        {
+          "name": "WALTAR TOMASZ  UKS JUDO I JU-JITSU",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22581",
+      "category": "Fighting Senior Women -52 kg",
+      "competitors": []
+    },
+    {
+      "catid": "22078",
+      "category": "Fighting Senior Women -57 kg",
+      "competitors": [
+        {
+          "name": "MAZITOWA OLGA  KLUB SPORTOWY WATAHA FIGHT CLUB",
+          "country": "POL"
+        },
+        {
+          "name": "GLADALA JULITA  ROAN FIGHT CLUB KATOWICE",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22325",
+      "category": "Fighting U12 Men -40kg",
+      "competitors": [
+        {
+          "name": "MAJEWSKI KACPER  KLUB SPORTOWY TRIUMPHATOR NARAT",
+          "country": "POL"
+        },
+        {
+          "name": "ATRACHIMOWICZ MI",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22082",
+      "category": "Fighting U12 Women -40 kg",
+      "competitors": []
+    },
+    {
+      "catid": "22386",
+      "category": "Fighting U14 Man -62 kg",
+      "competitors": []
+    },
+    {
+      "catid": "22422",
+      "category": "Fighting U16 Men -48kg",
+      "competitors": [
+        {
+          "name": "DOSTO",
+          "country": "POL"
+        },
+        {
+          "name": "POJASEK FILIP  ROAN FIGHT CLUB MYS",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22426",
+      "category": "Fighting U16 Men -69kg",
+      "competitors": []
+    },
+    {
+      "catid": "22005",
+      "category": "Ne-waza Gi U10 Men -25kg",
+      "competitors": [
+        {
+          "name": "ULMAN ANTONI  MKS SPARTA FIGHT CLUB",
+          "country": "POL"
+        },
+        {
+          "name": "MENCEL MATEUSZ  KLUB SPORTOWY WATAHA FIGHT CLUB",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22000",
+      "category": "Ne-waza Gi U10 Men -32kg",
+      "competitors": [
+        {
+          "name": "JAGIELLO TYMON",
+          "country": "POL"
+        },
+        {
+          "name": "FEDAN OLIWIER  RKSISW SEIKEN",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22021",
+      "category": "Ne-waza Gi U10 Men -44kg",
+      "competitors": [
+        {
+          "name": "URBA",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22291",
+      "category": "Ne-waza Gi U10 Women +40kg",
+      "competitors": []
+    },
+    {
+      "catid": "22028",
+      "category": "Ne-waza Gi U10 Women -28kg",
+      "competitors": [
+        {
+          "name": "CIE",
+          "country": "POL"
+        },
+        {
+          "name": "KRIWIENOK SARA  MKS SPARTA FIGHT CLUB",
+          "country": "POL"
+        },
+        {
+          "name": "JANKOWSKA POLA  MKS SPARTA FIGHT CLUB",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22019",
+      "category": "Ne-waza Gi U10 Women -32kg",
+      "competitors": [
+        {
+          "name": "KALI",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22039",
+      "category": "Ne-waza Gi U10 Women -36kg",
+      "competitors": []
+    },
+    {
+      "catid": "22342",
+      "category": "Ne-waza Gi U12 Men +52kg",
+      "competitors": [
+        {
+          "name": "LENARCIK BARTOSZ  SILESIAN AIKIDO",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22337",
+      "category": "Ne-waza Gi U12 Men -36kg",
+      "competitors": [
+        {
+          "name": "DRABINA GABRIEL  BASTION TYCHY",
+          "country": "POL"
+        },
+        {
+          "name": "GRUBSKI MATEUSZ  RKSISW SEIKEN",
+          "country": "POL"
+        },
+        {
+          "name": "DZI",
+          "country": "POL"
+        },
+        {
+          "name": "GRAF STANIS",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22338",
+      "category": "Ne-waza Gi U12 Men -40kg",
+      "competitors": [
+        {
+          "name": "TOMASZEWSKI-HANDALL SAMUEL",
+          "country": "POL"
+        },
+        {
+          "name": "GRAF STANIS",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22131",
+      "category": "Ne-waza Gi U12 Women -36 kg",
+      "competitors": [
+        {
+          "name": "STAJNIAK WERONIKA  ROAN FIGHT CLUB MYS",
+          "country": "POL"
+        },
+        {
+          "name": "MROZI",
+          "country": "POL"
+        },
+        {
+          "name": "IMBOR ZUZANNA  KLUB SPORTOWY SPARTA JAWORZNO",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22132",
+      "category": "Ne-waza Gi U12 Women -40 kg",
+      "competitors": [
+        {
+          "name": "NIEDZIELSKA VANESSA  KLUB SPORTOWY SPARTA JAWORZNO",
+          "country": "POL"
+        },
+        {
+          "name": "SKWAREK ALICJA  RIO GRAPPLING",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22394",
+      "category": "Ne-waza Gi U14 Men -32kg",
+      "competitors": [
+        {
+          "name": "JAROMIN PATRYK  KLUB SPORTOWY SPARTA JAWORZNO",
+          "country": "POL"
+        },
+        {
+          "name": "SKALEC IGOR  RKSISW SEIKEN",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22397",
+      "category": "Ne-waza Gi U14 Men -44kg",
+      "competitors": [
+        {
+          "name": "WALCZAK JAKUB  BJJ FACTORY GLIWICE",
+          "country": "POL"
+        },
+        {
+          "name": "JANKOWSKI OLAF  MKS SPARTA FIGHT CLUB",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22398",
+      "category": "Ne-waza Gi U14 Men -48kg",
+      "competitors": [
+        {
+          "name": "DUBIEL MARCEL  KLUB SPORTOWY SPARTA JAWORZNO",
+          "country": "POL"
+        },
+        {
+          "name": "URBANIEC JAKUB  MKS SPARTA FIGHT CLUB",
+          "country": "POL"
+        }
+      ]
+    },
+    {
+      "catid": "22400",
+      "category": "Ne-waza Gi U14 Men -56kg",
+      "competitors": []
+    },
+    {
+      "catid": "22242",
+      "category": "Ne-waza Gi U14 Women -32 kg",
+      "competitors": []
+    },
+    {
+      "catid": "22144",
+      "category": "Ne-waza Gi U14 Women -40 kg",
+      "competitors": [
+        {
+          "name": "GRAF ALICJA  RIO GRAPPLING",
+          "country": "POL"
+        },
+        {
+          "name": "BARTOSIK NATALIA  KLUB SPORTOWY SPARTA JAWORZNO",
+          "country": "POL"
+        }
+      ]
+    }
+  ]
+}

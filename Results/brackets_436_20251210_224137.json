@@ -1,0 +1,552 @@
+{
+  "verid": "436",
+  "event_name": "2023 WORLD CHAMPIONSHIPS - MASTERS",
+  "scraped_at": "2025-12-10T22:40:18.773737",
+  "categories": [
+    {
+      "catid": "5556",
+      "category": "MASTER 1 JIU-JITSU FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_5556.html",
+      "competitors": []
+    },
+    {
+      "catid": "5558",
+      "category": "MASTER 1 JIU-JITSU FEMALE -70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_5558.html",
+      "competitors": [
+        {
+          "name": "DASHDENDEV BAYARTUGS MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "FRANCIS ASHLEY ADIAN JIU JITSU ASSOCIATIONCAN",
+          "country": "CAN"
+        },
+        {
+          "name": "TURMUNKH TSEND-AYUSH MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        }
+      ]
+    },
+    {
+      "catid": "5280",
+      "category": "MASTER 1 JIU-JITSU MALE +94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_5280.html",
+      "competitors": [
+        {
+          "name": "DARIE VLAD GEORGE ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "ALTYMBEKOV YERKEBULAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "PUREVJAV MUNKHBAT MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "SRISOPARP WUTTIKRAI JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "FAGNANT CARL ADIAN JIU JITSU ASSOCIATIONCAN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "5275",
+      "category": "MASTER 1 JIU-JITSU MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_5275.html",
+      "competitors": [
+        {
+          "name": "BATTULGA YERENBAT MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "BARIADII TUVSHIN MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "ULZIIBAYAR KHURELBOLD MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "BAZARRAGCHAA BATMUNKH MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        }
+      ]
+    },
+    {
+      "catid": "5276",
+      "category": "MASTER 1 JIU-JITSU MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_5276.html",
+      "competitors": [
+        {
+          "name": "ZOLJARGAL BATKHUU MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "ATLASOV BULATINTERNATIONAL JU-JITSU ATHLETEJ",
+          "country": "JIF"
+        },
+        {
+          "name": "ZEV TUGULDUR MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "WHEELER KEVIN ADIAN JIU JITSU ASSOCIATIONCAN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "5277",
+      "category": "MASTER 1 JIU-JITSU MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_5277.html",
+      "competitors": [
+        {
+          "name": "CHANG CHENG-JIE TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "CHULUUNBAT YESUKHEI MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "CHOO SUNG KOOK JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "STAN MARIUS ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        }
+      ]
+    },
+    {
+      "catid": "5278",
+      "category": "MASTER 1 JIU-JITSU MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_5278.html",
+      "competitors": [
+        {
+          "name": "KHUASAN OYUNBAT MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "LEE DONG YOUNG JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "REGDEL ANKHBAATAR MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "LOULOUDAS GEORGIOS HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        }
+      ]
+    },
+    {
+      "catid": "5279",
+      "category": "MASTER 1 JIU-JITSU MALE -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_5279.html",
+      "competitors": [
+        {
+          "name": "AL-LAMI WISAM IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        },
+        {
+          "name": "KUSSAINOV RAMAZAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "YANG JI HO JIU-JITSU ASSOCIATION OF EAKOR",
+          "country": "KOR"
+        },
+        {
+          "name": "BAKIZHANOV DIDAR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BALJINNYAM MUNGUN MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        }
+      ]
+    },
+    {
+      "catid": "17088",
+      "category": "MASTER 1 JU-JITSU FIGHTING MALE +94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_17088.html",
+      "competitors": [
+        {
+          "name": "MUNKHKHUKHII TUR-ERDENE MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "DARIE VLAD GEORGE ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "NOROV SOYOLDELGER MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "MAKSHANTSEV YEVGENIY AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "17091",
+      "category": "MASTER 1 JU-JITSU FIGHTING MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_17091.html",
+      "competitors": [
+        {
+          "name": "BAATARTSOGT ARIUNBOLD MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "ZOLJARGAL BATKHUU MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "SYDYKOV TIMUR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "17093",
+      "category": "MASTER 1 JU-JITSU FIGHTING MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_17093.html",
+      "competitors": [
+        {
+          "name": "BAYARSAIKHAN BATBAYAR MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "CHANG CHENG-JIE TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "AL-LAMI WISAM IRAQI JU JITSU AND MARTIAL ART FEDERATION",
+          "country": "IRQ"
+        }
+      ]
+    },
+    {
+      "catid": "17094",
+      "category": "MASTER 1 JU-JITSU FIGHTING MALE -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_17094.html",
+      "competitors": [
+        {
+          "name": "KUSSAINOV RAMAZAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "BALJINNYAM MUNGUN MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "MPUTU CHRISTOPHE FÉD. CONGOLAISE DE JU-JITSU ET SELF DÉFENSE",
+          "country": "COD"
+        }
+      ]
+    },
+    {
+      "catid": "5281",
+      "category": "MASTER 2  JIU-JITSU MALE +94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_5281.html",
+      "competitors": [
+        {
+          "name": "ODSUREN BAYARKHUU MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "BADARCH MYAGMARDORJ MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "LUIT MEDDY FEDERATION NÇAISE DE JUDO JUJITSU KENDO ET DAFRA",
+          "country": "FRA"
+        },
+        {
+          "name": "BATSAIKHAN DELGERSAIKHAN MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        }
+      ]
+    },
+    {
+      "catid": "5284",
+      "category": "MASTER 2  JIU-JITSU MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_5284.html",
+      "competitors": [
+        {
+          "name": "BATJARGAL BUNDKHOROL MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "MADYKHANOV RUSLANKHAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "ARSLANBAATAR UNURJARGAL MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "AL-DOSERI  BADER JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        }
+      ]
+    },
+    {
+      "catid": "5285",
+      "category": "MASTER 2  JIU-JITSU MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_5285.html",
+      "competitors": [
+        {
+          "name": "SURENKHORLOO BATBAYAR MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "DAVAA BUYANMUNKH MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "TIEN BUI DINH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        }
+      ]
+    },
+    {
+      "catid": "5287",
+      "category": "MASTER 2  JIU-JITSU MALE -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_5287.html",
+      "competitors": [
+        {
+          "name": "SELEMJAV ULZIIBAYAR MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "CHINBAATAR MUNKH-ERDENE MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "TUMURBAT TAMIR MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "BERMUKHAMBETOV MURAT AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "5566",
+      "category": "MASTER 2 JIU-JITSU FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_5566.html",
+      "competitors": [
+        {
+          "name": "GALKHUU OYUNCHIMEG MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "CHOCONTA MADELINE FEDERACION OMBIANA DE JIU-JITSUCOL",
+          "country": "COL"
+        },
+        {
+          "name": "SHARKHUU PAGAMDULAM MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        }
+      ]
+    },
+    {
+      "catid": "17100",
+      "category": "MASTER 2 JU-JITSU FIGHTING FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_17100.html",
+      "competitors": [
+        {
+          "name": "GALKHUU OYUNCHIMEG MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "CHOCONTA MADELINE FEDERACION OMBIANA DE JIU-JITSUCOL",
+          "country": "COL"
+        },
+        {
+          "name": "SHARKHUU PAGAMDULAM MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "PFLEFKA ANDREA DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "catid": "17102",
+      "category": "MASTER 2 JU-JITSU FIGHTING MALE +94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_17102.html",
+      "competitors": [
+        {
+          "name": "TRASCA-STAICU RINU ADONIS ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "YESSENGALIEV AIBAR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "LUIT MEDDY FEDERATION NÇAISE DE JUDO JUJITSU KENDO ET DAFRA",
+          "country": "FRA"
+        },
+        {
+          "name": "GEE ALEX GREAT BRITAIN JUJITSU",
+          "country": "GBR"
+        }
+      ]
+    },
+    {
+      "catid": "17106",
+      "category": "MASTER 2 JU-JITSU FIGHTING MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_17106.html",
+      "competitors": [
+        {
+          "name": "TIEN BUI DINH TNAM JUJITSU FEDERATIONVIE",
+          "country": "VIE"
+        },
+        {
+          "name": "TAIBAGAROV ARMAN AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        }
+      ]
+    },
+    {
+      "catid": "17064",
+      "category": "MASTER 3 JIU-JITSU MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_17064.html",
+      "competitors": [
+        {
+          "name": "NAMSRAIJAV MUNKHBAYAR MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "MYAGMAR BAT-IREEDUI MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "SANTOS JEFFREY ADIAN JIU JITSU ASSOCIATIONCAN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "17066",
+      "category": "MASTER 3 JIU-JITSU MALE -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_17066.html",
+      "competitors": [
+        {
+          "name": "TRASCA-STAICU RINU ADONIS ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "BATCHULUUN ENKHTUVSHIN MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "ELIAS DAVID UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "BARBAATAR ERDENEBAYAR MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "TERUEL PATRICK ADIAN JIU JITSU ASSOCIATIONCAN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "17077",
+      "category": "MASTER 4 JIU-JITSU MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_17077.html",
+      "competitors": [
+        {
+          "name": "GRISH ALTANGEREL MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "OCHIRBAT GANTULGA MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "MUNFAREDI SEENA JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        }
+      ]
+    },
+    {
+      "catid": "17079",
+      "category": "MASTER 4 JIU-JITSU MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_17079.html",
+      "competitors": [
+        {
+          "name": "OGNOON NARANGEREL MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "MCGARRY MICHAEL GREAT BRITAIN JUJITSU",
+          "country": "GBR"
+        },
+        {
+          "name": "DASHJAMTS ENKHBAATAR MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "ZULICK FERNANDO ADIAN JIU JITSU ASSOCIATIONCAN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "17080",
+      "category": "MASTER 4 JIU-JITSU MALE -94 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_17080.html",
+      "competitors": [
+        {
+          "name": "YONDONSAMBUU BATBAYAR MONGOLIAN JIU-JITSU ASSOCIATION",
+          "country": "MGL"
+        },
+        {
+          "name": "ANDERSON JEFFERY UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "CHIANG LEE ADIAN JIU JITSU ASSOCIATIONCAN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "17135",
+      "category": "MASTER 4 JU-JITSU FIGHTING MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_436_17135.html",
+      "competitors": [
+        {
+          "name": "LIXANDRU VIOREL ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "MCGARRY MICHAEL GREAT BRITAIN JUJITSU",
+          "country": "GBR"
+        },
+        {
+          "name": "KOROTKIKH EVGENYINTERNATIONAL JU-JITSU ATHLETEJ",
+          "country": "JIF"
+        }
+      ]
+    }
+  ]
+}

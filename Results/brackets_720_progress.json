@@ -1,0 +1,672 @@
+{
+  "verid": "720",
+  "event_name": "ADULTS WORLD CHAMPIONSHIPS 2023 (MGL)",
+  "scraped_at": "2025-12-08T21:48:09.896452",
+  "categories": [
+    {
+      "catid": "23373",
+      "category": "ADULTS JU-JITSU INCLUSIVE SELF-DEFENSE COGNITIVE",
+      "competitors": []
+    },
+    {
+      "catid": "24862",
+      "category": "ADULTS JU-JITSU INCLUSIVE SELF-DEFENSE COGNITIVE WORLD R2-G1",
+      "competitors": []
+    },
+    {
+      "catid": "24772",
+      "category": "U10 JU-JITSU  FIGHTING DEBUTANT MALE -28 KG",
+      "competitors": [
+        {
+          "name": "CHAABANE AMINE-MUSA  JU-JITSU CLUB PEPINSTER",
+          "country": "BEL"
+        },
+        {
+          "name": "DELFORGE ELIO  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "DELVA RAPHA",
+          "country": "BEL"
+        },
+        {
+          "name": "GILLARD LUCAS  JU-JITSU CLUB PEPINSTER",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24773",
+      "category": "U10 JU-JITSU  FIGHTING DEBUTANT MALE -32 KG",
+      "competitors": [
+        {
+          "name": "DANIEL NICOLAS  JIU VDS",
+          "country": "BEL"
+        },
+        {
+          "name": "VAN BELLE TRAN THAO  JU JITSU UKKEL TEAM DEVLEMINCKX",
+          "country": "BEL"
+        },
+        {
+          "name": "KADRAOUI ELKHARRAZ SAMI  JU-JITSU CLUB QUI",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "4207",
+      "category": "U10 JU-JITSU DUO MIXED",
+      "competitors": []
+    },
+    {
+      "catid": "24865",
+      "category": "U10 JU-JITSU DUO MIXED WORLD R2-G1",
+      "competitors": []
+    },
+    {
+      "catid": "23555",
+      "category": "U12 JU-JITSU FIGHTING (FE)MALE -32 KG",
+      "competitors": [
+        {
+          "name": "MENDES GABRIEL  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "HENNARD ANTOINE  JU-JITSU CLUB PEPINSTER",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "11543",
+      "category": "U12 JU-JITSU FIGHTING (FE)MALE -40 kg",
+      "competitors": [
+        {
+          "name": "SANTRAINE JULES  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "BASAR EYMEN  JU-JITSU CLUB PEPINSTER",
+          "country": "BEL"
+        },
+        {
+          "name": "VANDEVYVER QUENTIN  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "ALAHYAN ZINEB  ACAMA COMINES",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24781",
+      "category": "U12 JU-JITSU FIGHTING DEBUTANT FEMALE -32 kg",
+      "competitors": [
+        {
+          "name": "CHAHAB BAYA  JU JITSU UKKEL TEAM DEVLEMINCKX",
+          "country": "BEL"
+        },
+        {
+          "name": "CRANSVELD LINA  JUJITSU CLUB SPADOIS",
+          "country": "BEL"
+        },
+        {
+          "name": "TEMPERMAN AMBRE  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "BOUCHAT SYANA  JUJITSU CLUB SPADOIS",
+          "country": "BEL"
+        },
+        {
+          "name": "BOURS MANON  JU-JITSU CLUB PEPINSTER",
+          "country": "BEL"
+        },
+        {
+          "name": "ZRAOULI OUM KELTOUM  ALI KAJUKENBO OHANA BELGIUM",
+          "country": "BEL"
+        },
+        {
+          "name": "ZRAOULI AICHA  ALI KAJUKENBO OHANA BELGIUM",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24783",
+      "category": "U12 JU-JITSU FIGHTING DEBUTANT FEMALE -40 kg",
+      "competitors": [
+        {
+          "name": "LIEVENS NINA  TEAM FIGHTING CHARLIER CHEKOUDRI",
+          "country": "BEL"
+        },
+        {
+          "name": "HOCHSTRASSER ELENA  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "IDIR SANAA  TAIWA ANDERLUES",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24786",
+      "category": "U12 JU-JITSU FIGHTING DEBUTANT MALE +52 KG",
+      "competitors": [
+        {
+          "name": "VANDERVEKEN LASZLO  JIU VDS",
+          "country": "BEL"
+        },
+        {
+          "name": "JUSTE RAFA",
+          "country": "BEL"
+        },
+        {
+          "name": "KADRAOUI ELKHARRAZ BILAL  JU-JITSU CLUB QUI",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24787",
+      "category": "U12 JU-JITSU FIGHTING DEBUTANT MALE -25 KG",
+      "competitors": [
+        {
+          "name": "WILKIN ANDREA  JUJITSU CLUB SPADOIS",
+          "country": "BEL"
+        },
+        {
+          "name": "DELBRUY",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24789",
+      "category": "U12 JU-JITSU FIGHTING DEBUTANT MALE -32 KG",
+      "competitors": [
+        {
+          "name": "FORGES BRADLEY  TAIWA ANDERLUES",
+          "country": "BEL"
+        },
+        {
+          "name": "CAN SEYFI  OKINAWA STEENOKKERZEEL",
+          "country": "BEL"
+        },
+        {
+          "name": "BENCHERIF NEL  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "VANDEWEYER PIERRE-MATHYS  JU JITSU CLUB ATH",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24790",
+      "category": "U12 JU-JITSU FIGHTING DEBUTANT MALE -36 KG",
+      "competitors": [
+        {
+          "name": "SIMON VICTOR  OKINAWA STEENOKKERZEEL",
+          "country": "BEL"
+        },
+        {
+          "name": "GERONO LUCIEN  JU-JITSU CLUB PEPINSTER",
+          "country": "BEL"
+        },
+        {
+          "name": "HOCHSTRASSER EMILIEN  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "VAN ZEVEREN TANA",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24791",
+      "category": "U12 JU-JITSU FIGHTING DEBUTANT MALE -40 kg",
+      "competitors": [
+        {
+          "name": "DOUBLET NOHLAN  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "CHAHAB BADR  JU JITSU UKKEL TEAM DEVLEMINCKX",
+          "country": "BEL"
+        },
+        {
+          "name": "SOUALE CORENTIN  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "HAMOLINE LOUIS  TEAM FIGHTING CHARLIER CHEKOUDRI",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24794",
+      "category": "U12 JU-JITSU FIGHTING DEBUTANT MALE -52 KG",
+      "competitors": []
+    },
+    {
+      "catid": "24879",
+      "category": "U12 JU-JITSU FIGHTING FEMALE +U14 -32 kg",
+      "competitors": [
+        {
+          "name": "TEMPERMAN AMBRE  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "RODRIGUEZ ALVAREZ CHAHINES  JU-JITSU CLUB PEPINSTER",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "4290",
+      "category": "U14 JU-JITSU DUO MALE",
+      "competitors": []
+    },
+    {
+      "catid": "24867",
+      "category": "U14 JU-JITSU DUO MALE WORLD R2-G1",
+      "competitors": []
+    },
+    {
+      "catid": "24798",
+      "category": "U14 JU-JITSU FIGHTING DEBUTANT FEMALE -32 kg",
+      "competitors": [
+        {
+          "name": "LACOUR YUNA  JU-JITSU CLUB QUI",
+          "country": "BEL"
+        },
+        {
+          "name": "MORIAUX C",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24799",
+      "category": "U14 JU-JITSU FIGHTING DEBUTANT FEMALE -36 kg",
+      "competitors": [
+        {
+          "name": "DE BLIECK LIVIA  JU-JITSU CLUB PEPINSTER",
+          "country": "BEL"
+        },
+        {
+          "name": "LACOUR YUNA  JU-JITSU CLUB QUI",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24806",
+      "category": "U14 JU-JITSU FIGHTING DEBUTANT MALE -36 kg",
+      "competitors": [
+        {
+          "name": "DEROANNE JUSTIN  JU-JITSU CLUB PEPINSTER",
+          "country": "BEL"
+        },
+        {
+          "name": "DERNONCOURT DAMIEN  JU-JITSU CLUB QUI",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24809",
+      "category": "U14 JU-JITSU FIGHTING DEBUTANT MALE -48 kg",
+      "competitors": [
+        {
+          "name": "LEFEBVRE ADAM  JU-JITSU CLUB PEPINSTER",
+          "country": "BEL"
+        },
+        {
+          "name": "KADDOURI DEFEVER SEDINE  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "VIEILLEVOYE DENIS  JU-JITSU CLUB PEPINSTER",
+          "country": "BEL"
+        },
+        {
+          "name": "HAMOLINE GAUVAIN  TEAM FIGHTING CHARLIER CHEKOUDRI",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24811",
+      "category": "U14 JU-JITSU FIGHTING DEBUTANT MALE -56 kg",
+      "competitors": [
+        {
+          "name": "VANDERVEKEN LASZLO  JIU VDS",
+          "country": "BEL"
+        },
+        {
+          "name": "JUSTE RAFA",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "4265",
+      "category": "U14 JU-JITSU FIGHTING FEMALE -44 kg",
+      "competitors": []
+    },
+    {
+      "catid": "21324",
+      "category": "U14 JU-JITSU FIGHTING MALE -36 kg",
+      "competitors": [
+        {
+          "name": "DELEU ILAN  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "DERIU EZIO  ACAMA COMINES",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "21329",
+      "category": "U14 JU-JITSU FIGHTING MALE -62 kg",
+      "competitors": [
+        {
+          "name": "LECLUSE MATHIS  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "VANDEVYVER VIRGILE  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "YILMAZ ALIM  JU-JITSU CLUB PEPINSTER",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "4333",
+      "category": "U16 JU-JITSU DUO FEMALE",
+      "competitors": []
+    },
+    {
+      "catid": "24869",
+      "category": "U16 JU-JITSU DUO FEMALE WORLD R2-G1",
+      "competitors": []
+    },
+    {
+      "catid": "4334",
+      "category": "U16 JU-JITSU DUO MIXED",
+      "competitors": []
+    },
+    {
+      "catid": "24871",
+      "category": "U16 JU-JITSU DUO MIXED WORLD R2-G1",
+      "competitors": []
+    },
+    {
+      "catid": "24872",
+      "category": "U16 JU-JITSU DUO MIXED WORLD R4-SF1",
+      "competitors": []
+    },
+    {
+      "catid": "24873",
+      "category": "U16 JU-JITSU DUO MIXED WORLD R4-SF2",
+      "competitors": []
+    },
+    {
+      "catid": "24874",
+      "category": "U16 JU-JITSU DUO MIXED WORLD R5-F",
+      "competitors": []
+    },
+    {
+      "catid": "24878",
+      "category": "U16 JU-JITSU FIGHTING + U21 FEMALE SPECIAL",
+      "competitors": [
+        {
+          "name": "BURIDANT CLEMENT  TEAM FIGHTING CHARLIER CHEKOUDRI",
+          "country": "BEL"
+        },
+        {
+          "name": "VIRL",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24821",
+      "category": "U16 JU-JITSU FIGHTING DEBUTANT FEMALE -52 kg",
+      "competitors": [
+        {
+          "name": "LAAROUSSI WIAM  ALI KAJUKENBO OHANA BELGIUM",
+          "country": "BEL"
+        },
+        {
+          "name": "AIT BAHMAN HAFSA  ALI KAJUKENBO OHANA BELGIUM",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24823",
+      "category": "U16 JU-JITSU FIGHTING DEBUTANT FEMALE -63 kg",
+      "competitors": [
+        {
+          "name": "LAAROUSSI SARA  ALI KAJUKENBO OHANA BELGIUM",
+          "country": "BEL"
+        },
+        {
+          "name": "THEYS LYSIE  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "GODFROID LEA  TEAM FIGHTING CHARLIER CHEKOUDRI",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24828",
+      "category": "U16 JU-JITSU FIGHTING DEBUTANT MALE -52 kg",
+      "competitors": [
+        {
+          "name": "BRULARD TEO  JU-JITSU CLUB QUI",
+          "country": "BEL"
+        },
+        {
+          "name": "MASTROSERIO UGO  JU-JITSU CLUB QUI",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24829",
+      "category": "U16 JU-JITSU FIGHTING DEBUTANT MALE -56 kg",
+      "competitors": [
+        {
+          "name": "LUSSEAU AXEL  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "GEURS TOAN  VINCKIER",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "4313",
+      "category": "U16 JU-JITSU FIGHTING FEMALE +63 kg",
+      "competitors": [
+        {
+          "name": "BENABBAS LAYINA  JIU VDS",
+          "country": "BEL"
+        },
+        {
+          "name": "SIGOU LONGANG CYNTHIA  JU JITSU UKKEL TEAM DEVLEMINCKX",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "4310",
+      "category": "U16 JU-JITSU FIGHTING FEMALE -52 kg",
+      "competitors": [
+        {
+          "name": "KOCEIR SARAH  TEAM FIGHTING CHARLIER CHEKOUDRI",
+          "country": "BEL"
+        },
+        {
+          "name": "KADDOURI DEFEVER SHAKIRA  ACAMA COMINES",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "4311",
+      "category": "U16 JU-JITSU FIGHTING FEMALE -57 kg",
+      "competitors": [
+        {
+          "name": "BUSIN AMY  JU JITSU CLUB ATH",
+          "country": "BEL"
+        },
+        {
+          "name": "ORGAER LEYINA  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "ALAHYAN SOFIA  ACAMA COMINES",
+          "country": "BEL"
+        },
+        {
+          "name": "KERCKENAERE EVA  ACAMA COMINES",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "21196",
+      "category": "U16 JU-JITSU FIGHTING MALE -40 kg",
+      "competitors": [
+        {
+          "name": "SIMO RAMIREZ NATT",
+          "country": "BEL"
+        },
+        {
+          "name": "DERIDDER JOREN  OKINAWA STEENOKKERZEEL",
+          "country": "BEL"
+        },
+        {
+          "name": "KYLIAN MALEC  JU-JITSU CLUB QUI",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "21194",
+      "category": "U16 JU-JITSU FIGHTING MALE -48 kg",
+      "competitors": [
+        {
+          "name": "BURIDANT CLEMENT  TEAM FIGHTING CHARLIER CHEKOUDRI",
+          "country": "BEL"
+        },
+        {
+          "name": "ERTEKIN ENES  JU-JITSU CLUB PEPINSTER",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "21189",
+      "category": "U16 JU-JITSU FIGHTING MALE -77 kg",
+      "competitors": [
+        {
+          "name": "BRULARD NOA  JU-JITSU CLUB QUI",
+          "country": "BEL"
+        },
+        {
+          "name": "BALDEMIR NOYAN  OKINAWA STEENOKKERZEEL",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "24844",
+      "category": "U18 JU-JITSU FIGHTING DEBUTANT MALE -56 KG",
+      "competitors": [
+        {
+          "name": "VANDERVEKEN KENZO  JIU VDS",
+          "country": "BEL"
+        },
+        {
+          "name": "BONNE MATTEO  JUJITSU CLUB SPADOIS",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "1810",
+      "category": "U18 JU-JITSU FIGHTING FEMALE -57 KG",
+      "competitors": [
+        {
+          "name": "RODRIGUEZ MA",
+          "country": "BEL"
+        },
+        {
+          "name": "TENAERTS AURELIA  JUJITSU CLUB SPADOIS",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "21210",
+      "category": "U18 JU-JITSU FIGHTING MALE -56 KG",
+      "competitors": [
+        {
+          "name": "DIEU ANDREA  JU-JITSU CLUB QUI",
+          "country": "BEL"
+        },
+        {
+          "name": "DI TROIA FABIO  TEAM FIGHTING CHARLIER CHEKOUDRI",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "21209",
+      "category": "U18 JU-JITSU FIGHTING MALE -62 KG",
+      "competitors": [
+        {
+          "name": "DI TROIA FABIO  TEAM FIGHTING CHARLIER CHEKOUDRI",
+          "country": "BEL"
+        },
+        {
+          "name": "DURAND NICOLAS  JU JITSU CLUB ATH",
+          "country": "BEL"
+        }
+      ]
+    },
+    {
+      "catid": "21208",
+      "category": "U18 JU-JITSU FIGHTING MALE -69 KG",
+      "competitors": [
+        {
+          "name": "PONCU BOGDAN  JIU VDS",
+          "country": "BEL"
+        },
+        {
+          "name": "GOFFIN TRISTAN  TAIWA ANDERLUES",
+          "country": "BEL"
+        }
+      ]
+    }
+  ]
+}

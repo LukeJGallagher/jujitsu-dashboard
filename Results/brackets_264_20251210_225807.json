@@ -1,0 +1,169 @@
+{
+  "verid": "264",
+  "event_name": "eTournament Ju-Jitsu: 1ST JJIF WORLD E-TOURNAMENT SHOW SYSTEM",
+  "scraped_at": "2025-12-10T22:56:49.533866",
+  "categories": [
+    {
+      "catid": "12370",
+      "category": "ADULTS E-SHOW JU-JITSU MEN BEGINNER",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12370.html",
+      "competitors": []
+    },
+    {
+      "catid": "14142",
+      "category": "ADULTS E-SHOW JU-JITSU MEN BEGINNER Final",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_14142.html",
+      "competitors": []
+    },
+    {
+      "catid": "13202",
+      "category": "ADULTS E-SHOW JU-JITSU MEN OPEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_13202.html",
+      "competitors": []
+    },
+    {
+      "catid": "12371",
+      "category": "ADULTS E-SHOW JU-JITSU MIXED ADVANCED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12371.html",
+      "competitors": []
+    },
+    {
+      "catid": "12372",
+      "category": "ADULTS E-SHOW JU-JITSU MIXED BEGINNER",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12372.html",
+      "competitors": []
+    },
+    {
+      "catid": "13204",
+      "category": "ADULTS E-SHOW JU-JITSU MIXED OPEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_13204.html",
+      "competitors": []
+    },
+    {
+      "catid": "12373",
+      "category": "ADULTS E-SHOW JU-JITSU WOMEN ADVANCED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12373.html",
+      "competitors": []
+    },
+    {
+      "catid": "12374",
+      "category": "ADULTS E-SHOW JU-JITSU WOMEN BEGINNER",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12374.html",
+      "competitors": []
+    },
+    {
+      "catid": "12375",
+      "category": "MASTERS E-SHOW JU-JITSU MEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12375.html",
+      "competitors": []
+    },
+    {
+      "catid": "12378",
+      "category": "U10 E-SHOW JU-JITSU MEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12378.html",
+      "competitors": []
+    },
+    {
+      "catid": "12379",
+      "category": "U10 E-SHOW JU-JITSU MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12379.html",
+      "competitors": []
+    },
+    {
+      "catid": "13211",
+      "category": "U10 E-SHOW JU-JITSU MIXED OPEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_13211.html",
+      "competitors": []
+    },
+    {
+      "catid": "12380",
+      "category": "U10 E-SHOW JU-JITSU WOMEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12380.html",
+      "competitors": []
+    },
+    {
+      "catid": "12382",
+      "category": "U12 E-SHOW JU-JITSU MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12382.html",
+      "competitors": []
+    },
+    {
+      "catid": "12383",
+      "category": "U12 E-SHOW JU-JITSU WOMEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12383.html",
+      "competitors": []
+    },
+    {
+      "catid": "12384",
+      "category": "U14 E-SHOW JU-JITSU MEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12384.html",
+      "competitors": []
+    },
+    {
+      "catid": "12385",
+      "category": "U14 E-SHOW JU-JITSU MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12385.html",
+      "competitors": []
+    },
+    {
+      "catid": "12386",
+      "category": "U14 E-SHOW JU-JITSU WOMEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12386.html",
+      "competitors": []
+    },
+    {
+      "catid": "12388",
+      "category": "U16 E-SHOW JU-JITSU MEN BEGINNER",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12388.html",
+      "competitors": []
+    },
+    {
+      "catid": "12390",
+      "category": "U16 E-SHOW JU-JITSU MIXED BEGINNER",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12390.html",
+      "competitors": []
+    },
+    {
+      "catid": "12394",
+      "category": "U18 E-SHOW JU-JITSU MEN BEGINNER",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12394.html",
+      "competitors": []
+    },
+    {
+      "catid": "12396",
+      "category": "U18 E-SHOW JU-JITSU MIXED BEGINNER",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12396.html",
+      "competitors": []
+    },
+    {
+      "catid": "13205",
+      "category": "U18 E-SHOW JU-JITSU MIXED OPEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_13205.html",
+      "competitors": []
+    },
+    {
+      "catid": "12400",
+      "category": "U21 E-SHOW JU-JITSU MEN BEGINNER",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12400.html",
+      "competitors": []
+    },
+    {
+      "catid": "12405",
+      "category": "U8 E-SHOW JU-JITSU MEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12405.html",
+      "competitors": []
+    },
+    {
+      "catid": "12406",
+      "category": "U8 E-SHOW JU-JITSU MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12406.html",
+      "competitors": []
+    },
+    {
+      "catid": "12407",
+      "category": "U8 E-SHOW JU-JITSU WOMEN",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_264_12407.html",
+      "competitors": []
+    }
+  ]
+}

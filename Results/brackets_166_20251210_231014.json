@@ -1,0 +1,749 @@
+{
+  "verid": "166",
+  "event_name": "2022 - THE WORLD GAMES",
+  "scraped_at": "2025-12-10T23:09:09.484209",
+  "categories": [
+    {
+      "catid": "1481",
+      "category": "ADULTS JIU-JITSU FEMALE -48 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1481.html",
+      "competitors": [
+        {
+          "name": "BRODSKI IRINA DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "YONG MAY JU-JITSU ASSOCIATION SINGAPORE",
+          "country": "SGP"
+        },
+        {
+          "name": "HOANG NI NI VICKY ADIAN JIU JITSU ASSOCIATIONCAN",
+          "country": "CAN"
+        },
+        {
+          "name": "RUSETSKA OLEKSANDRA NATIONAL ASSOCIATION JU-JITSU OF AINEUKR",
+          "country": "UKR"
+        },
+        {
+          "name": "ABDOH ABDULLA BALQEES ABDULKAREEM  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "PHATTARABOONSORN KANJU JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "BRODSKI IRINA DEUTSCHER JU-JITSU VERBAND E.V.                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        GER",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "catid": "1483",
+      "category": "ADULTS JIU-JITSU FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1483.html",
+      "competitors": [
+        {
+          "name": "FOUILLAT LAURENCE FEDERATION NÇAISE DE JUDO JUJITSU KENDO ET DAFRA",
+          "country": "FRA"
+        },
+        {
+          "name": "MATAN ASHLEY UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "RAMIREZ ANNIE JIU-JITSU FEDERATION OF THE LIPPINES INC.PHI",
+          "country": "PHI"
+        },
+        {
+          "name": "DUVANOVA GALINA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "CAMPOS MARGARITA FEDERACION OMBIANA DE JIU-JITSUCOL",
+          "country": "COL"
+        },
+        {
+          "name": "ROSENFELD MESHI AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "FOUILLAT LAURENCE FEDERATION NÇAISE DE JUDO JUJITSU KENDO ET DAFRA                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        FRA",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "catid": "1484",
+      "category": "ADULTS JIU-JITSU FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1484.html",
+      "competitors": [
+        {
+          "name": "POVSNAR MAJA JU-JITSU FEDERATION OF VENIASLO",
+          "country": "SLO"
+        },
+        {
+          "name": "WEIDGENAND TAINARA UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "GOLUB BOGDANA NATIONAL ASSOCIATION JU-JITSU OF AINEUKR",
+          "country": "UKR"
+        },
+        {
+          "name": "SENAM ORAPA JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "ALKALBANI SHAMMA  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "NISIMIAN RONY AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "ALKALBANI SHAMMA  JIU-JITSU FEDERATIONUAE                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        UAE",
+          "country": "UAE"
+        }
+      ]
+    },
+    {
+      "catid": "16575",
+      "category": "ADULTS JIU-JITSU FEMALE OPEN WEIGHT",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_16575.html",
+      "competitors": [
+        {
+          "name": "2022 - THE WORLD GAMESADULTS JIU-JITSU FEMALE OPEN WEI",
+          "country": "GHT"
+        },
+        {
+          "name": "DUVANOVA GALINA AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "RUSETSKA OLEKSANDRA NATIONAL ASSOCIATION JU-JITSU OF AINEUKR",
+          "country": "UKR"
+        },
+        {
+          "name": "ROSENFELD MESHI AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "WEIDGENAND TAINARA UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "CORDEIRO DE SOUZA TEREZA CRISLEY GARIAN SPORT JU JITSU FEDERATIONHUN",
+          "country": "HUN"
+        },
+        {
+          "name": "GOLUB BOGDANA NATIONAL ASSOCIATION JU-JITSU OF AINEUKR",
+          "country": "UKR"
+        },
+        {
+          "name": "NISIMIAN RONY AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "ALKALBANI SHAMMA  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "ALKALBANI SHAMMA  JIU-JITSU FEDERATIONUAE                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        UAE",
+          "country": "UAE"
+        }
+      ]
+    },
+    {
+      "catid": "1475",
+      "category": "ADULTS JIU-JITSU MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1475.html",
+      "competitors": [
+        {
+          "name": "DABUSH VIKI AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "VELASQUEZ CARLOS VELASQUEZ",
+          "country": "USA"
+        },
+        {
+          "name": "ALSUWAIDI MOHAMED ALI  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "BAYILI FLORIAN GIAN JU-JITSU FEDERATIONBEL",
+          "country": "BEL"
+        },
+        {
+          "name": "MILORD ADRIAN ASOCIACION NACIONAL DE JIU-JITSU JAPONESES  AMAPAN",
+          "country": "PAN"
+        },
+        {
+          "name": "BLUMENTAL VALENTIN FEDERATION NCAISE DE JUDO JUJITSUFRA",
+          "country": "FRA"
+        },
+        {
+          "name": "DABUSH VIKI AEL JU-JITSU FEDERATIONISR                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        ISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1476",
+      "category": "ADULTS JIU-JITSU MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1476.html",
+      "competitors": [
+        {
+          "name": "MUNFAREDI ALI JIU-JITSU BAHRAIN FEDERATION",
+          "country": "BRN"
+        },
+        {
+          "name": "SHEEHAN MICHAEL ADIAN JIU JITSU ASSOCIATIONCAN",
+          "country": "CAN"
+        },
+        {
+          "name": "ALAMRI MOHAMED  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "HENEK ROBERT ISH JU JITSU ASSOCIATIONPOL",
+          "country": "POL"
+        },
+        {
+          "name": "KIM EDMUND UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "RYEDER NIMROD AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "SHEEHAN MICHAEL ADIAN JIU JITSU ASSOCIATIONCAN                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        CAN",
+          "country": "CAN"
+        }
+      ]
+    },
+    {
+      "catid": "1477",
+      "category": "ADULTS JIU-JITSU MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1477.html",
+      "competitors": [
+        {
+          "name": "AL-KUZAI BADER DAN JIU-JITSU FEDERATIONJOR",
+          "country": "JOR"
+        },
+        {
+          "name": "CUERVO KEVIN FEDERACION OMBIANA DE JIU-JITSUCOL",
+          "country": "COL"
+        },
+        {
+          "name": "SHEMESH SAAR AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "CAMPOS ELIOENAI DE ABREU UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "KOZAK MACIEJ ISH JU JITSU ASSOCIATIONPOL",
+          "country": "POL"
+        },
+        {
+          "name": "MURTAZALIEV ABDURAHMANHAJI FEDERATION OF BRAZILIAN JIU-JITSU KYRGYSTAN",
+          "country": "KGZ"
+        },
+        {
+          "name": "ALKITBI FAISAL  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "SHEMESH SAAR AEL JU-JITSU FEDERATIONISR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        ISR",
+          "country": "ISR"
+        },
+        {
+          "name": "KOZAK MACIEJ ISH JU JITSU ASSOCIATIONPOL\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        POL",
+          "country": "POL"
+        },
+        {
+          "name": "AL-KUZAI BADER DAN JIU-JITSU FEDERATIONJOR\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCountry\n\t\t\tScore\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n             \n                    \n                        JOR",
+          "country": "JOR"
+        }
+      ]
+    },
+    {
+      "catid": "16576",
+      "category": "ADULTS JIU-JITSU MALE OPEN WEIGHT",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_16576.html",
+      "competitors": [
+        {
+          "name": "2022 - THE WORLD GAMESADULTS JIU-JITSU MALE OPEN WEI",
+          "country": "GHT"
+        },
+        {
+          "name": "ALAMRI MOHAMED  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "DABUSH VIKI AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "RYEDER NIMROD AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "HENEK ROBERT ISH JU JITSU ASSOCIATIONPOL",
+          "country": "POL"
+        },
+        {
+          "name": "ALSUWAIDI MOHAMED ALI  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "SHEMESH SAAR AEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "CUERVO KEVIN FEDERACION OMBIANA DE JIU-JITSUCOL",
+          "country": "COL"
+        },
+        {
+          "name": "HOUMINE SEIFEDDINE FEDERATION ROYALE OCAINE DE JU JITSUMAR",
+          "country": "MAR"
+        },
+        {
+          "name": "CAMPOS ELIOENAI DE ABREU UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "ALKITBI FAISAL  JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "KOZAK MACIEJ ISH JU JITSU ASSOCIATIONPOL",
+          "country": "POL"
+        },
+        {
+          "name": "SHEMESH SAAR AEL JU-JITSU FEDERATIONISR                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        ISR",
+          "country": "ISR"
+        }
+      ]
+    },
+    {
+      "catid": "1492",
+      "category": "ADULTS JU-JITSU DUO MIXED",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1492.html",
+      "competitors": [
+        {
+          "name": "2022 - THE WORLD GAMESADULTS JU-JITSU DUO MI",
+          "country": "XED"
+        },
+        {
+          "name": "PASZKIEWICZ/TOURBESLIS DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "JOKL/SCHOENENBERGER SWISS JUDO & JU-JITSU FEDERATION",
+          "country": "SUI"
+        },
+        {
+          "name": "CAKOVIC/VUKOTIC JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "YUENNAN/SAENGSRIRUANG JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "DOBRE/DOBRE ROMANIAN MARTIAL ARTS FEDERATION",
+          "country": "ROU"
+        },
+        {
+          "name": "GRAVENSTEYN/LODENS GIAN JU-JITSU FEDERATIONBEL",
+          "country": "BEL"
+        },
+        {
+          "name": "JOKL/SCHOENENBERGER SWISS JUDO & JU-JITSU FEDERATION                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        SUI",
+          "country": "SUI"
+        }
+      ]
+    },
+    {
+      "catid": "1453",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -48 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1453.html",
+      "competitors": [
+        {
+          "name": "PHATTARABOONSORN KANJU JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "GUZMAN LINA KATHERINE FEDERACION OMBIANA DE JIU-JITSUCOL",
+          "country": "COL"
+        },
+        {
+          "name": "ZARIOPI ATHANASIA HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "STAUB SINA SWISS JUDO & JU-JITSU FEDERATION",
+          "country": "SUI"
+        },
+        {
+          "name": "FUHRMANN ANNA ÖSTERREICHISCHER JIU JITSU VERBAND",
+          "country": "AUT"
+        },
+        {
+          "name": "BADIE SANDRA FEDERATION NÇAISE DE JUDO JUJITSU KENDO ET DAFRA",
+          "country": "FRA"
+        },
+        {
+          "name": "BADIE SANDRA FEDERATION NÇAISE DE JUDO JUJITSU KENDO ET DAFRA                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        FRA",
+          "country": "FRA"
+        }
+      ]
+    },
+    {
+      "catid": "1455",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -57 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1455.html",
+      "competitors": [
+        {
+          "name": "POURTOIS LICAI GIAN JU-JITSU FEDERATIONBEL",
+          "country": "BEL"
+        },
+        {
+          "name": "CAMPOS MARGARITA FEDERACION OMBIANA DE JIU-JITSUCOL",
+          "country": "COL"
+        },
+        {
+          "name": "KOUTOULAKI CHRISTINA HELLENIC JU-JITSU FEDERATION",
+          "country": "GRE"
+        },
+        {
+          "name": "SINGCHALAD NUCHANAT JU JITSU ASSOCIATION OF ILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "BOGERS GENEVIEVE JUDO BOND ERLANDNED",
+          "country": "NED"
+        },
+        {
+          "name": "DAHL REBEKKA ELISABETH ZISKA JU-JITSU DANMARK",
+          "country": "DEN"
+        },
+        {
+          "name": "DAHL REBEKKA ELISABETH ZISKA JU-JITSU DANMARK                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        DEN",
+          "country": "DEN"
+        }
+      ]
+    },
+    {
+      "catid": "1456",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -63 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1456.html",
+      "competitors": [
+        {
+          "name": "WEIKEN LILIAN DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "FUHRMANN LISA ÖSTERREICHISCHER JIU JITSU VERBAND",
+          "country": "AUT"
+        },
+        {
+          "name": "SENAM ORAPA JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "FERREIRA JULIANA FEDERATION NÇAISE DE JUDO JUJITSU KENDO ET DAFRA",
+          "country": "FRA"
+        },
+        {
+          "name": "PERRINE MARIE CHANDRINE MAURITIUS NATIONAL JU-JITSU FEDERATION",
+          "country": "MRI"
+        },
+        {
+          "name": "VAN DER BRUGGE ANNE JUDO BOND ERLANDNED",
+          "country": "NED"
+        },
+        {
+          "name": "WEIKEN LILIAN DEUTSCHER JU-JITSU VERBAND E.V.                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        GER",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "catid": "1457",
+      "category": "ADULTS JU-JITSU FIGHTING FEMALE -70 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1457.html",
+      "competitors": [
+        {
+          "name": "LALANDE CHLOE FEDERATION NÇAISE DE JUDO JUJITSU KENDO ET DAFRA",
+          "country": "FRA"
+        },
+        {
+          "name": "LETTE EMMA NACKA DOJO",
+          "country": "SWE"
+        },
+        {
+          "name": "BAUER ANNALENA DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "CHRISTIANSEN LIVA TANZER JU-JITSU DANMARK",
+          "country": "DEN"
+        },
+        {
+          "name": "LOPEZ HERRERA VERONICA FEDERACIÒN ICANA DE JIU JITSUMEX",
+          "country": "MEX"
+        },
+        {
+          "name": "VAN LEEUWEN AAFKE JUDO BOND ERLANDNED",
+          "country": "NED"
+        },
+        {
+          "name": "CHRISTIANSEN LIVA TANZER JU-JITSU DANMARK                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        DEN",
+          "country": "DEN"
+        }
+      ]
+    },
+    {
+      "catid": "1451",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -62 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1451.html",
+      "competitors": [
+        {
+          "name": "MOCHULSKYI BOHDAN NATIONAL ASSOCIATION JU-JITSU OF AINEUKR",
+          "country": "UKR"
+        },
+        {
+          "name": "CALZONI ANDREA LIAN JU-JITSU FEDERATIONITA",
+          "country": "ITA"
+        },
+        {
+          "name": "MATHIEU JULIEN FEDERATION NÇAISE DE JUDO JUJITSU KENDO ET DAFRA",
+          "country": "FRA"
+        },
+        {
+          "name": "ZHANIBEK ABU-BAKIR AKHSTAN JIU JITSU ASSOCIATIONKAZ",
+          "country": "KAZ"
+        },
+        {
+          "name": "VIVIESCAS JAIRO ALEJANDRO FEDERACION OMBIANA DE JIU-JITSUCOL",
+          "country": "COL"
+        },
+        {
+          "name": "VAN DER VEER ECCO JUDO BOND ERLANDNED",
+          "country": "NED"
+        },
+        {
+          "name": "VAN DER VEER ECCO JUDO BOND ERLANDNED                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        NED",
+          "country": "NED"
+        }
+      ]
+    },
+    {
+      "catid": "1446",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -69 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1446.html",
+      "competitors": [
+        {
+          "name": "SALMANOW JASCHAR DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "KILBAK JESPER JU-JITSU DANMARK",
+          "country": "DEN"
+        },
+        {
+          "name": "DELLA CROCE IVAN JU-JUTSU SAVEZ IJESRB",
+          "country": "SRB"
+        },
+        {
+          "name": "CORTES EDUARDO FEDERACIÒN ICANA DE JIU JITSUMEX",
+          "country": "MEX"
+        },
+        {
+          "name": "DOMINGUEZ JUAN MANUEL FEDERACIÒN GUAYA DE JIU JITSUURU",
+          "country": "URU"
+        },
+        {
+          "name": "TOPLAK TIM JU-JITSU FEDERATION OF VENIASLO",
+          "country": "SLO"
+        },
+        {
+          "name": "TOPLAK TIM JU-JITSU FEDERATION OF VENIASLO                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        SLO",
+          "country": "SLO"
+        }
+      ]
+    },
+    {
+      "catid": "1447",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -77 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1447.html",
+      "competitors": [
+        {
+          "name": "ATTENBER SIMON DEUTSCHER JU-JITSU VERBAND E.V.GER",
+          "country": "GER"
+        },
+        {
+          "name": "OCHOA RUIZ ANGEL FRANCISCO FEDERACIÒN ICANA DE JIU JITSUMEX",
+          "country": "MEX"
+        },
+        {
+          "name": "MASHRAPOV BAKHROMJON JIU-JITSU FEDERATION OF EKISTANUZB",
+          "country": "UZB"
+        },
+        {
+          "name": "VOGELZANG BOY JUDO BOND ERLANDNED",
+          "country": "NED"
+        },
+        {
+          "name": "ANDERSEN LUCAS JU-JITSU DANMARK",
+          "country": "DEN"
+        },
+        {
+          "name": "KUNSA PERCY FEDERATION NÇAISE DE JUDO JUJITSU KENDO ET DAFRA",
+          "country": "FRA"
+        },
+        {
+          "name": "VOGELZANG BOY JUDO BOND ERLANDNED                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        NED",
+          "country": "NED"
+        }
+      ]
+    },
+    {
+      "catid": "1448",
+      "category": "ADULTS JU-JITSU FIGHTING MALE -85 KG",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_1448.html",
+      "competitors": [
+        {
+          "name": "ZMEEV DANIEL DEUTSCHER JU-JITSU VERBAND E.V.",
+          "country": "GER"
+        },
+        {
+          "name": "WEI CHU-CHENG TAIWAN JU JITSU FEDERATION",
+          "country": "TPE"
+        },
+        {
+          "name": "QUITZE BALAM FEDERACIÒN ICANA DE JIU JITSUMEX",
+          "country": "MEX"
+        },
+        {
+          "name": "MILIC ARSO JU-JITSU FEDERATION OF MONTENEGRO",
+          "country": "MNE"
+        },
+        {
+          "name": "DONKER DONNY JUDO BOND ERLANDNED",
+          "country": "NED"
+        },
+        {
+          "name": "TRAJKOVIC NIKOLA JU-JUTSU SAVEZ IJESRB",
+          "country": "SRB"
+        },
+        {
+          "name": "ZMEEV DANIEL DEUTSCHER JU-JITSU VERBAND E.V.                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        GER",
+          "country": "GER"
+        }
+      ]
+    },
+    {
+      "catid": "16580",
+      "category": "MIXED NATIONAL TEAM COMPETITION",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_16580.html",
+      "competitors": [
+        {
+          "name": "2022 - THE WORLD GAMESMIXED NATAL TEAM COMPETITION",
+          "country": "ION"
+        },
+        {
+          "name": "TEAM NCE FEDERATION FRANÇAISE DE JUDO JUJITSU KENDO ET DAFRA",
+          "country": "FRA"
+        },
+        {
+          "name": "TEAM AEL ISRAEL JU-JITSU FEDERATIONISR",
+          "country": "ISR"
+        },
+        {
+          "name": "TEAM MANY DEUTSCHER JU-JITSU VERBAND E.V.GER",
+          "country": "GER"
+        },
+        {
+          "name": "TEAM  UAE JIU-JITSU FEDERATIONUAE",
+          "country": "UAE"
+        },
+        {
+          "name": "TEAM ICO FEDERACIÒN MEXICANA DE JIU JITSUMEX",
+          "country": "MEX"
+        },
+        {
+          "name": "TEAM OMBIA FEDERACION COLOMBIANA DE JIU-JITSUCOL",
+          "country": "COL"
+        },
+        {
+          "name": "TEAM NETHERLANDS JUDO BOND ERLANDNED",
+          "country": "NED"
+        },
+        {
+          "name": "TEAM ILAND JU JITSU ASSOCIATION OF THAILANDTHA",
+          "country": "THA"
+        },
+        {
+          "name": "TEAM MARK JU-JITSU DANMARKDEN",
+          "country": "DEN"
+        },
+        {
+          "name": "TEAM  UNITED SOCIETY JU-JITSU UNIONUSA",
+          "country": "USA"
+        },
+        {
+          "name": "TEAM NETHERLANDS JUDO BOND ERLANDNED                            \n                            \n             \t\t\t\t\n              \t\t\t\t\n              \t\t\t\t\n                \t\t\t\n                  \t\t\tCountry\n                  \t\t\tScore\n                \t\t\t\n              \t\t\t\t  \n              \t\t\t\t\n                \t\t\t\n                   \t\t\t\n                    \n                        NED",
+          "country": "NED"
+        }
+      ]
+    },
+    {
+      "catid": "16577",
+      "category": "PARA JIU-JITSU 1",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_16577.html",
+      "competitors": [
+        {
+          "name": "FONTANA ANDRES FEDERACIÒN COSTARRICENSE DE JIU JITSU",
+          "country": "CRC"
+        },
+        {
+          "name": "MCKENZIE MATT UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        },
+        {
+          "name": "FONSECA KELVIN CLAY ZILBRA",
+          "country": "BRA"
+        }
+      ]
+    },
+    {
+      "catid": "16578",
+      "category": "PARA JIU-JITSU 2",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_16578.html",
+      "competitors": [
+        {
+          "name": "MARATOVICH AZAT FEDERATION OF BRAZILIAN JIU-JITSU KYRGYSTAN",
+          "country": "KGZ"
+        },
+        {
+          "name": "SANCHEZ MIKE UNITED SOCIETY JU-JITSU UNION",
+          "country": "USA"
+        }
+      ]
+    },
+    {
+      "catid": "16579",
+      "category": "PARA JU-JITSU DUO",
+      "html_saved": "C:\\Users\\l.gallagher\\OneDrive - Team Saudi\\Documents\\Performance Analysis\\Sport Detailed Data\\Jiu Jitsu\\Brackets\\bracket_166_16579.html",
+      "competitors": []
+    }
+  ]
+}
