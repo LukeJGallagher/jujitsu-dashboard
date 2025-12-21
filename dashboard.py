@@ -17,10 +17,10 @@ import plotly.graph_objects as go
 # Configuration
 RESULTS_DIR = Path(__file__).parent / "Results"
 PROFILES_DIR = Path(__file__).parent / "Profiles"
-FLAG_URL_BASE = "https://setopen.sportdata.org/setglimg/world48/"
-PHOTO_URL_BASE = "https://www.sportdata.org/ju-jitsu/competitor_pics/"
+FLAG_URL_BASE = "https://flagcdn.com/48x36/"
+PHOTO_URL_BASE = ""
 
-# Event codes for bracket access (verid values from sportdata.org)
+# Event codes for bracket access
 EVENT_CODES = {
     # 2025 Events
     "2025 ADULTS WORLD CHAMPIONSHIPS (THA)": "897",
@@ -44,18 +44,8 @@ EVENT_CODES = {
 
 
 def get_event_bracket_url(event_name):
-    """Get bracket URL for an event if we have the verid."""
-    # Direct match
-    if event_name in EVENT_CODES and EVENT_CODES[event_name]:
-        verid = EVENT_CODES[event_name]
-        return f"https://www.sportdata.org/ju-jitsu/set-online/veranstaltung_info_main.php?vernr={verid}&ver_info_action=catauslist"
-
-    # Partial match
-    event_lower = event_name.lower()
-    for known_event, verid in EVENT_CODES.items():
-        if verid and (known_event.lower() in event_lower or event_lower in known_event.lower()):
-            return f"https://www.sportdata.org/ju-jitsu/set-online/veranstaltung_info_main.php?vernr={verid}&ver_info_action=catauslist"
-
+    """Get bracket URL for an event if we have the event ID."""
+    # Return None - bracket links removed for deployment
     return None
 
 # Page config
@@ -1656,50 +1646,16 @@ COMPETITOR_COUNTRIES = {
 
 
 def scrape_opponent_profile(country_code, profile_id):
-    """Scrape a single opponent profile on-demand."""
-    from playwright.sync_api import sync_playwright
-
+    """Look up opponent profile from cached data."""
     profile_file = PROFILES_DIR / f"{profile_id}.json"
 
-    # Check if already scraped
+    # Check if already in cache
     if profile_file.exists():
         with open(profile_file, 'r', encoding='utf-8') as f:
             return json.load(f)
 
-    # Need to scrape
-    try:
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            page = browser.new_page()
-
-            url = 'https://setopen.sportdata.org/jjifranking/ranking_main_competitor.php#ranking'
-            page.goto(url, timeout=60000, wait_until='networkidle')
-            page.wait_for_timeout(3000)
-
-            # Select country
-            page.select_option('select#ranking_country', country_code)
-            page.wait_for_load_state('networkidle')
-            page.wait_for_timeout(4000)
-
-            # Select athlete
-            page.select_option('select#ranking_competitor', profile_id)
-            page.wait_for_load_state('networkidle')
-            page.wait_for_timeout(4000)
-
-            # Import the parse function
-            from scrape_athlete_profiles import parse_athlete_profile
-            profile = parse_athlete_profile(page, profile_id, country_code)
-
-            browser.close()
-
-            # Save profile
-            with open(profile_file, 'w', encoding='utf-8') as f:
-                json.dump(profile, f, indent=2, ensure_ascii=False)
-
-            return profile
-    except Exception as e:
-        st.error(f"Error scraping profile: {e}")
-        return None
+    # Profile not available
+    return None
 
 
 def extract_gender_from_categories(profile):
@@ -2736,7 +2692,7 @@ def render_world_top_20_page():
 
 
 def render_visual_bracket(bracket_data):
-    """Render visual tournament bracket with rounds like sportdata.org."""
+    """Render visual tournament bracket with rounds."""
     st.markdown("### Visual Tournament Bracket")
     st.markdown("View brackets by round - select an event and category to see the full bracket progression")
 
@@ -3379,9 +3335,7 @@ def render_event_brackets():
         st.markdown("### Event ID Mappings")
         st.markdown("""
         **Add event mappings manually** - If an event from athlete competition history
-        can't be automatically matched to a sportdata.org event ID (verid), you can add the mapping here.
-
-        The verid can be found in the sportdata.org URL, e.g., `vernr=765` means verid is `765`.
+        can't be automatically matched to an event ID, you can add the mapping here.
         """)
 
         # Load current mappings
