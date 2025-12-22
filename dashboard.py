@@ -2700,75 +2700,126 @@ def render_world_top_20_page():
 
 
 def render_visual_bracket(bracket_data):
-    """Render visual tournament bracket with rounds."""
+    """Render visual tournament bracket with rounds and matches."""
     st.markdown("### Visual Tournament Bracket")
-    st.markdown("View brackets by round - select an event and category to see competitor lists")
+    st.markdown("View full bracket progression with rounds and match results")
 
-    # Load bracket JSON files from Results/
-    bracket_json_files = list(RESULTS_DIR.glob("brackets_*.json"))
-    if not bracket_json_files:
-        st.info("No bracket data files available.")
-        return
+    # Use the bracket_data passed in (from all_matches.json) which has full match data
+    events = bracket_data.get('events', [])
 
-    # Load all bracket data
-    all_brackets = []
-    for bf in bracket_json_files:
-        if '_progress' in bf.name:
-            continue  # Skip progress files
-        try:
-            with open(bf, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                data['_file'] = bf.name
-                all_brackets.append(data)
-        except:
-            continue
-
-    if not all_brackets:
-        st.info("No valid bracket files found.")
+    if not events:
+        st.info("No bracket data available.")
         return
 
     # Build event selector
-    event_options = {}
-    for b in all_brackets:
-        event_name = b.get('event_name', f"Event {b.get('verid', 'Unknown')}")
-        if event_name not in event_options:
-            event_options[event_name] = b
+    event_names = sorted([e.get('event_name', f"Event {e.get('verid')}") for e in events])
+    selected_event_name = st.selectbox("Select Event", event_names, key="visual_bracket_event")
 
-    event_names = sorted(event_options.keys())
-    selected_event = st.selectbox("Select Event", event_names, key="visual_bracket_event")
+    # Find selected event
+    selected_event = None
+    for e in events:
+        if e.get('event_name') == selected_event_name:
+            selected_event = e
+            break
 
-    if selected_event:
-        selected_data = event_options[selected_event]
-        categories = selected_data.get('categories', [])
+    if not selected_event:
+        return
 
-        if categories:
-            cat_names = [c.get('category', f"Category {c.get('catid')}") for c in categories]
-            selected_cat = st.selectbox("Select Category", cat_names, key="visual_bracket_cat")
+    categories = selected_event.get('categories', [])
+    if not categories:
+        st.info("No categories found for this event.")
+        return
 
-            # Find selected category
-            selected_cat_data = None
-            for cat in categories:
-                if cat.get('category') == selected_cat:
-                    selected_cat_data = cat
-                    break
+    # Category selector
+    cat_names = sorted([c.get('category', f"Category {c.get('catid')}") for c in categories])
+    selected_cat_name = st.selectbox("Select Category", cat_names, key="visual_bracket_cat")
 
-            if selected_cat_data:
-                competitors = selected_cat_data.get('competitors', [])
-                if competitors:
-                    st.markdown(f"**{len(competitors)} Competitors:**")
-                    for i, comp in enumerate(competitors, 1):
-                        name = comp.get('name', 'Unknown')
-                        country = comp.get('country', '')
-                        flag = f"https://flagcdn.com/24x18/{country.lower()}.png" if country else ""
-                        if flag:
-                            st.markdown(f"{i}. ![{country}]({flag}) {name} ({country})")
-                        else:
-                            st.markdown(f"{i}. {name}")
-                else:
-                    st.info("No competitor data available for this category.")
+    # Find selected category
+    selected_cat = None
+    for cat in categories:
+        if cat.get('category') == selected_cat_name:
+            selected_cat = cat
+            break
+
+    if not selected_cat:
+        return
+
+    # Display bracket info
+    rounds = selected_cat.get('rounds', [])
+    matches = selected_cat.get('matches', [])
+    athletes = selected_cat.get('athletes', [])
+
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        st.metric("Rounds", len(rounds))
+    with col2:
+        st.metric("Matches", len(matches))
+    with col3:
+        st.metric("Athletes", len(athletes))
+
+    if not matches:
+        # Fallback to competitor list if no match data
+        competitors = selected_cat.get('competitors', [])
+        if competitors:
+            st.markdown(f"**{len(competitors)} Competitors:**")
+            for i, comp in enumerate(competitors, 1):
+                name = comp.get('name', 'Unknown')
+                country = comp.get('country', '')
+                st.markdown(f"{i}. {name} ({country})")
         else:
-            st.info("No categories found for this event.")
-    return  # Early return - skip HTML-based code below
+            st.info("No match data available for this category.")
+        return
+
+    # Group matches by round
+    matches_by_round = {}
+    for match in matches:
+        round_name = match.get('round', 'Unknown Round')
+        if round_name not in matches_by_round:
+            matches_by_round[round_name] = []
+        matches_by_round[round_name].append(match)
+
+    # Display each round
+    for round_name in rounds:
+        round_matches = matches_by_round.get(round_name, [])
+        if not round_matches:
+            continue
+
+        st.markdown(f"#### {round_name}")
+
+        for match in round_matches:
+            red = match.get('red_corner') or {}
+            blue = match.get('blue_corner') or {}
+            winner = match.get('winner', '')
+
+            red_name = red.get('name', 'BYE') or 'BYE'
+            red_country = red.get('country', '') or ''
+            red_score = red.get('score')
+
+            blue_name = blue.get('name', 'BYE') or 'BYE'
+            blue_country = blue.get('country', '') or ''
+            blue_score = blue.get('score')
+
+            # Determine winner styling
+            red_win = winner and winner == red_name
+            blue_win = winner and winner == blue_name
+
+            # Format scores
+            red_score_str = f"[{red_score}]" if red_score is not None else ""
+            blue_score_str = f"[{blue_score}]" if blue_score is not None else ""
+
+            # Create match display with winner highlight
+            red_style = "**" if red_win else ""
+            blue_style = "**" if blue_win else ""
+
+            winner_icon = " 🏆" if red_win else ""
+            st.markdown(f"{red_style}🔴 {red_name} ({red_country}) {red_score_str}{winner_icon}{red_style}")
+
+            winner_icon = " 🏆" if blue_win else ""
+            st.markdown(f"{blue_style}🔵 {blue_name} ({blue_country}) {blue_score_str}{winner_icon}{blue_style}")
+
+            st.markdown("---")
+
+    return  # Skip legacy HTML-based code below
 
     # Legacy HTML-based code (kept for reference but unreachable)
     BRACKETS_DIR = BASE_DIR / "Brackets"
