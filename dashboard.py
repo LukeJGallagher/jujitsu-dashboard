@@ -251,10 +251,22 @@ def parse_country_rankings(raw_rankings):
     return fixed
 
 
-@st.cache_data(ttl=300)  # Cache for 5 minutes
+@st.cache_data(ttl=300)
 def load_athlete_profiles():
-    """Load all athlete profiles - uses cache for speed."""
-    # Try to load from pickle cache first (much faster)
+    """Load all athlete profiles - tries multiple sources for speed."""
+    # 1. Try all_profiles.json first (consolidated file - fastest for cloud)
+    all_profiles_file = RESULTS_DIR / "all_profiles.json"
+    if all_profiles_file.exists():
+        try:
+            with open(all_profiles_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            profiles = data.get('profiles', []) if isinstance(data, dict) else data
+            if profiles:
+                return profiles
+        except Exception:
+            pass
+
+    # 2. Try pickle cache (fast for local)
     cache_file = BASE_DIR / "Cache" / "profiles_cache.pkl"
     if cache_file.exists():
         try:
@@ -265,16 +277,34 @@ def load_athlete_profiles():
         except Exception:
             pass
 
-    # Fallback to loading individual JSON files
+    # 3. Fallback to loading individual JSON files from Profiles/
     profiles = []
     if PROFILES_DIR.exists():
         for profile_file in PROFILES_DIR.glob("*.json"):
             try:
                 with open(profile_file, 'r', encoding='utf-8') as f:
                     profile = json.load(f)
-                    profiles.append(profile)
+                    # Handle both single profile and list of profiles
+                    if isinstance(profile, list):
+                        profiles.extend(profile)
+                    else:
+                        profiles.append(profile)
             except Exception:
                 continue
+
+    # 4. Try country-level profile files (athlete_profiles_*.json)
+    if not profiles and PROFILES_DIR.exists():
+        for profile_file in PROFILES_DIR.glob("athlete_profiles_*.json"):
+            try:
+                with open(profile_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    if isinstance(data, list):
+                        profiles.extend(data)
+                    elif isinstance(data, dict) and 'profiles' in data:
+                        profiles.extend(data['profiles'])
+            except Exception:
+                continue
+
     return profiles
 
 
