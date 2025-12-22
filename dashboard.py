@@ -15,8 +15,9 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # Configuration
-RESULTS_DIR = Path(__file__).parent / "Results"
-PROFILES_DIR = Path(__file__).parent / "Profiles"
+BASE_DIR = Path(__file__).parent
+RESULTS_DIR = BASE_DIR / "Results"
+PROFILES_DIR = BASE_DIR / "Profiles"
 FLAG_URL_BASE = "https://flagcdn.com/48x36/"
 PHOTO_URL_BASE = ""
 
@@ -204,6 +205,15 @@ st.markdown(TEAM_SAUDI_CSS, unsafe_allow_html=True)
 @st.cache_data(ttl=60)
 def load_latest_data():
     """Load the most recent JJIF scrape data."""
+    # First try all_matches.json (consolidated data)
+    all_matches_file = RESULTS_DIR / "all_matches.json"
+    if all_matches_file.exists():
+        with open(all_matches_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        data['_file'] = all_matches_file.name
+        return data
+
+    # Fallback to legacy jjif_*.json files
     json_files = list(RESULTS_DIR.glob("jjif_full_scrape_*.json"))
     if not json_files:
         json_files = list(RESULTS_DIR.glob("jjif_*.json"))
@@ -245,7 +255,7 @@ def parse_country_rankings(raw_rankings):
 def load_athlete_profiles():
     """Load all athlete profiles - uses cache for speed."""
     # Try to load from pickle cache first (much faster)
-    cache_file = DATA_DIR / "Cache" / "profiles_cache.pkl"
+    cache_file = BASE_DIR / "Cache" / "profiles_cache.pkl"
     if cache_file.exists():
         try:
             import pickle
@@ -2695,7 +2705,7 @@ def render_visual_bracket(bracket_data):
     st.markdown("View brackets by round - select an event and category to see the full bracket progression")
 
     # Check for bracket HTML files
-    BRACKETS_DIR = DATA_DIR / "Brackets"
+    BRACKETS_DIR = BASE_DIR / "Brackets"
     if not BRACKETS_DIR.exists():
         st.warning("No bracket HTML files found. Run the bracket scraper first.")
         return
@@ -3337,7 +3347,7 @@ def render_event_brackets():
         """)
 
         # Load current mappings
-        MAPPINGS_FILE = DATA_DIR / "event_mappings.json"
+        MAPPINGS_FILE = BASE_DIR / "event_mappings.json"
         current_mappings = {}
         if MAPPINGS_FILE.exists():
             try:
