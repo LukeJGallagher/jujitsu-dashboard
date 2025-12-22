@@ -9,76 +9,14 @@ import json
 import re
 import subprocess
 import sys
-import os
-import requests
-import base64
 from pathlib import Path
 from datetime import datetime
 import plotly.express as px
 import plotly.graph_objects as go
 
 # Configuration
-# Data loaded from jiujitsu-data folder (local) or GitHub API (cloud)
-DATA_DIR = Path(__file__).parent / "jiujitsu-data"
-RESULTS_DIR = DATA_DIR  # Data files are in root of jiujitsu-data
-PROFILES_DIR = DATA_DIR / "Profiles"
-
-# GitHub API configuration for private repo access
-GITHUB_REPO = "LukeJGallagher/jujitsu-data"
-GITHUB_API_BASE = f"https://api.github.com/repos/{GITHUB_REPO}/contents"
-
-def get_github_token():
-    """Get GitHub token from Streamlit secrets or environment."""
-    try:
-        return st.secrets.get("GITHUB_TOKEN", os.environ.get("GITHUB_TOKEN"))
-    except:
-        return os.environ.get("GITHUB_TOKEN")
-
-def fetch_github_file(filepath):
-    """Fetch a file from private GitHub repo using token."""
-    token = get_github_token()
-    if not token:
-        return None
-
-    headers = {
-        "Authorization": f"token {token}",
-        "Accept": "application/vnd.github.v3+json"
-    }
-
-    url = f"{GITHUB_API_BASE}/{filepath}"
-    try:
-        response = requests.get(url, headers=headers)
-        if response.status_code == 200:
-            content = response.json()
-            # Decode base64 content
-            file_content = base64.b64decode(content["content"]).decode("utf-8")
-            return json.loads(file_content)
-    except Exception as e:
-        st.error(f"Error fetching {filepath}: {e}")
-    return None
-
-def ensure_data_available():
-    """Ensure data is available - use local files or fetch from GitHub."""
-    # Check if local data exists
-    if (RESULTS_DIR / "all_matches.json").exists():
-        return True
-
-    # Try to fetch from GitHub
-    token = get_github_token()
-    if token:
-        # Create data directory if needed
-        DATA_DIR.mkdir(parents=True, exist_ok=True)
-
-        # Fetch main data files
-        files_to_fetch = ["all_matches.json", "all_profiles.json"]
-        for filename in files_to_fetch:
-            data = fetch_github_file(filename)
-            if data:
-                with open(DATA_DIR / filename, 'w', encoding='utf-8') as f:
-                    json.dump(data, f)
-        return (DATA_DIR / "all_matches.json").exists()
-
-    return False
+RESULTS_DIR = Path(__file__).parent / "Results"
+PROFILES_DIR = Path(__file__).parent / "Profiles"
 FLAG_URL_BASE = "https://flagcdn.com/48x36/"
 PHOTO_URL_BASE = ""
 
@@ -681,9 +619,6 @@ def refresh_data():
 # MAIN DASHBOARD
 # =============================================================================
 def main():
-    # Ensure data is available (fetch from GitHub if needed)
-    ensure_data_available()
-
     # Header
     st.markdown("""
     <div class="main-header">

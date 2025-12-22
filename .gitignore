@@ -44,3 +44,11 @@ IMPROVEMENT_PLAN.md
 asian_events_priority.json
 verified_asian_events.json
 event_mappings_clean.json
+
+# Deploy keys (sensitive)
+streamlit_deploy_key
+streamlit_deploy_key.pub
+
+# Submodule leftovers
+jiujitsu-data/
+data/
