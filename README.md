@@ -25,7 +25,7 @@ streamlit run dashboard.py
 This dashboard uses a private data submodule. To clone with data:
 
 ```bash
-git clone --recurse-submodules https://github.com/LukeJGallagher/jiujitsu-dashboard.git
+git clone --recurse-submodules https://github.com/LukeJGallagher/jujitsu-dashboard.git
 ```
 
 ## Weight Categories (JJIF)
