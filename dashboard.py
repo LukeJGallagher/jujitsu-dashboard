@@ -2702,18 +2702,81 @@ def render_world_top_20_page():
 def render_visual_bracket(bracket_data):
     """Render visual tournament bracket with rounds."""
     st.markdown("### Visual Tournament Bracket")
-    st.markdown("View brackets by round - select an event and category to see the full bracket progression")
+    st.markdown("View brackets by round - select an event and category to see competitor lists")
 
-    # Check for bracket HTML files
-    BRACKETS_DIR = BASE_DIR / "Brackets"
-    if not BRACKETS_DIR.exists():
-        st.warning("No bracket HTML files found. Run the bracket scraper first.")
+    # Load bracket JSON files from Results/
+    bracket_json_files = list(RESULTS_DIR.glob("brackets_*.json"))
+    if not bracket_json_files:
+        st.info("No bracket data files available.")
         return
 
-    # Get available bracket files
+    # Load all bracket data
+    all_brackets = []
+    for bf in bracket_json_files:
+        if '_progress' in bf.name:
+            continue  # Skip progress files
+        try:
+            with open(bf, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                data['_file'] = bf.name
+                all_brackets.append(data)
+        except:
+            continue
+
+    if not all_brackets:
+        st.info("No valid bracket files found.")
+        return
+
+    # Build event selector
+    event_options = {}
+    for b in all_brackets:
+        event_name = b.get('event_name', f"Event {b.get('verid', 'Unknown')}")
+        if event_name not in event_options:
+            event_options[event_name] = b
+
+    event_names = sorted(event_options.keys())
+    selected_event = st.selectbox("Select Event", event_names, key="visual_bracket_event")
+
+    if selected_event:
+        selected_data = event_options[selected_event]
+        categories = selected_data.get('categories', [])
+
+        if categories:
+            cat_names = [c.get('category', f"Category {c.get('catid')}") for c in categories]
+            selected_cat = st.selectbox("Select Category", cat_names, key="visual_bracket_cat")
+
+            # Find selected category
+            selected_cat_data = None
+            for cat in categories:
+                if cat.get('category') == selected_cat:
+                    selected_cat_data = cat
+                    break
+
+            if selected_cat_data:
+                competitors = selected_cat_data.get('competitors', [])
+                if competitors:
+                    st.markdown(f"**{len(competitors)} Competitors:**")
+                    for i, comp in enumerate(competitors, 1):
+                        name = comp.get('name', 'Unknown')
+                        country = comp.get('country', '')
+                        flag = f"https://flagcdn.com/24x18/{country.lower()}.png" if country else ""
+                        if flag:
+                            st.markdown(f"{i}. ![{country}]({flag}) {name} ({country})")
+                        else:
+                            st.markdown(f"{i}. {name}")
+                else:
+                    st.info("No competitor data available for this category.")
+        else:
+            st.info("No categories found for this event.")
+    return  # Early return - skip HTML-based code below
+
+    # Legacy HTML-based code (kept for reference but unreachable)
+    BRACKETS_DIR = BASE_DIR / "Brackets"
+    if not BRACKETS_DIR.exists():
+        return
+
     bracket_files = list(BRACKETS_DIR.glob("bracket_*.html"))
     if not bracket_files:
-        st.info("No bracket HTML files available. Run scraper to collect bracket data.")
         return
 
     # Build a list of available brackets with event/category info
