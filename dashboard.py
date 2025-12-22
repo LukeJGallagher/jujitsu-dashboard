@@ -653,8 +653,6 @@ def main():
         )
 
         st.markdown("---")
-        st.markdown("### Data Source")
-        st.caption("JJIF Competition Data")
 
     # Load data
     data = load_latest_data()
