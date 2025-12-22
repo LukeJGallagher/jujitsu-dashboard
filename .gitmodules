@@ -1,0 +1,3 @@
+[submodule "jiujitsu-data"]
+	path = jiujitsu-data
+	url = https://github.com/LukeJGallagher/jiujitsu-data.git
