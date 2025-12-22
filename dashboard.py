@@ -15,8 +15,10 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # Configuration
-RESULTS_DIR = Path(__file__).parent / "Results"
-PROFILES_DIR = Path(__file__).parent / "Profiles"
+# Data loaded from jiujitsu-data folder (private repo)
+DATA_DIR = Path(__file__).parent / "jiujitsu-data"
+RESULTS_DIR = DATA_DIR / "Results"
+PROFILES_DIR = DATA_DIR / "Profiles"
 FLAG_URL_BASE = "https://flagcdn.com/48x36/"
 PHOTO_URL_BASE = ""
 
@@ -245,7 +247,7 @@ def parse_country_rankings(raw_rankings):
 def load_athlete_profiles():
     """Load all athlete profiles - uses cache for speed."""
     # Try to load from pickle cache first (much faster)
-    cache_file = RESULTS_DIR.parent / "Cache" / "profiles_cache.pkl"
+    cache_file = DATA_DIR / "Cache" / "profiles_cache.pkl"
     if cache_file.exists():
         try:
             import pickle
@@ -2697,7 +2699,7 @@ def render_visual_bracket(bracket_data):
     st.markdown("View brackets by round - select an event and category to see the full bracket progression")
 
     # Check for bracket HTML files
-    BRACKETS_DIR = RESULTS_DIR.parent / "Brackets"
+    BRACKETS_DIR = DATA_DIR / "Brackets"
     if not BRACKETS_DIR.exists():
         st.warning("No bracket HTML files found. Run the bracket scraper first.")
         return
@@ -3339,7 +3341,7 @@ def render_event_brackets():
         """)
 
         # Load current mappings
-        MAPPINGS_FILE = RESULTS_DIR.parent / "event_mappings.json"
+        MAPPINGS_FILE = DATA_DIR / "event_mappings.json"
         current_mappings = {}
         if MAPPINGS_FILE.exists():
             try:
