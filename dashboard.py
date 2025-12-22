@@ -17,7 +17,7 @@ import plotly.graph_objects as go
 # Configuration
 # Data loaded from jiujitsu-data folder (private repo)
 DATA_DIR = Path(__file__).parent / "jiujitsu-data"
-RESULTS_DIR = DATA_DIR / "Results"
+RESULTS_DIR = DATA_DIR  # Data files are in root of jiujitsu-data
 PROFILES_DIR = DATA_DIR / "Profiles"
 FLAG_URL_BASE = "https://flagcdn.com/48x36/"
 PHOTO_URL_BASE = ""
