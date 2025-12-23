@@ -202,32 +202,62 @@ st.markdown(TEAM_SAUDI_CSS, unsafe_allow_html=True)
 # =============================================================================
 # DATA FUNCTIONS
 # =============================================================================
-@st.cache_data(ttl=60)
+@st.cache_data(ttl=300)
+def load_dashboard_summary():
+    """Load lightweight summary data for fast initial load (11KB vs 4.5MB)."""
+    summary_file = RESULTS_DIR / "dashboard_summary.json"
+    if summary_file.exists():
+        try:
+            with open(summary_file, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return None
+
+
+@st.cache_data(ttl=300)
 def load_latest_data():
-    """Load the most recent JJIF scrape data combining matches and profiles."""
+    """Load data for dashboard - uses lightweight summary for fast load."""
+    # Try lightweight summary first (11KB vs 4.5MB = 400x faster)
+    summary = load_dashboard_summary()
+
     data = {
         'athletes': [],
         'athletes_by_country': {},
         'country_rankings': [],
         'events': [],
         'all_matches': [],
-        '_file': 'combined'
+        'countries_scraped': 0,
+        'timestamp': '',
+        '_file': 'dashboard_summary.json'
     }
 
-    # Load matches data
-    all_matches_file = RESULTS_DIR / "all_matches.json"
-    if all_matches_file.exists():
-        try:
-            with open(all_matches_file, 'r', encoding='utf-8') as f:
-                matches_data = json.load(f)
-            data['events'] = matches_data.get('events', [])
-            data['all_matches'] = matches_data.get('all_matches', [])
-            data['total_matches'] = matches_data.get('total_matches', 0)
-            data['_file'] = all_matches_file.name
-        except Exception:
-            pass
+    if summary:
+        # Use summary data (fast path)
+        data['athletes_by_country'] = summary.get('athletes_by_country', {})
+        data['countries_scraped'] = summary.get('total_countries', 0)
+        data['timestamp'] = summary.get('timestamp', '')
 
-    # Load profiles data and convert to athletes format
+        # Add Saudi athletes with full details from summary
+        for sa in summary.get('saudi_athletes', []):
+            data['athletes'].append({
+                'name': sa.get('name', ''),
+                'country': 'Saudi Arabia',
+                'country_code': 'KSA',
+                'profile_id': sa.get('profile_id', ''),
+                'medal_summary': {'total': sa.get('medals', 0), 'gold': sa.get('gold', 0)},
+                'overall_stats': {'win_rate': sa.get('win_rate', '0%'), 'total_events': sa.get('events', 0)}
+            })
+
+        # Add minimal entries for other countries (just for count)
+        for country, count in summary.get('athletes_by_country', {}).items():
+            if country != 'KSA':
+                for _ in range(count):
+                    data['athletes'].append({'name': '', 'country_code': country})
+
+        return data
+
+    # Fallback: Load full profiles if no summary (slower but complete)
     all_profiles_file = RESULTS_DIR / "all_profiles.json"
     if all_profiles_file.exists():
         try:
@@ -235,46 +265,52 @@ def load_latest_data():
                 profiles_data = json.load(f)
             profiles = profiles_data.get('profiles', []) if isinstance(profiles_data, dict) else profiles_data
 
-            # Convert profiles to athletes format for overview
-            athletes = []
-            athletes_by_country = {}
             for p in profiles:
                 country = p.get('country_code', 'UNK')
-                athletes.append({
+                data['athletes'].append({
                     'name': p.get('name', ''),
                     'country': p.get('country', ''),
                     'country_code': country,
                     'profile_id': p.get('profile_id', ''),
-                    'categories': p.get('categories', []),
                     'medal_summary': p.get('medal_summary', {}),
                     'overall_stats': p.get('overall_stats', {})
                 })
-                athletes_by_country[country] = athletes_by_country.get(country, 0) + 1
+                data['athletes_by_country'][country] = data['athletes_by_country'].get(country, 0) + 1
 
-            data['athletes'] = athletes
-            data['athletes_by_country'] = athletes_by_country
-            data['countries_scraped'] = len(athletes_by_country)
+            data['countries_scraped'] = len(data['athletes_by_country'])
             data['timestamp'] = profiles_data.get('scraped_at', '') if isinstance(profiles_data, dict) else ''
+            data['_file'] = 'all_profiles.json'
         except Exception:
             pass
 
-    # Fallback to legacy jjif_*.json files if no data loaded
-    if not data['athletes']:
-        json_files = list(RESULTS_DIR.glob("jjif_full_scrape_*.json"))
-        if not json_files:
-            json_files = list(RESULTS_DIR.glob("jjif_*.json"))
+    return data if data['athletes'] else None
 
-        if json_files:
-            latest_file = max(json_files, key=lambda x: x.stat().st_mtime)
-            try:
-                with open(latest_file, 'r', encoding='utf-8') as f:
-                    legacy_data = json.load(f)
-                data.update(legacy_data)
-                data['_file'] = latest_file.name
-            except Exception:
-                pass
 
-    return data if (data['athletes'] or data['events']) else None
+@st.cache_data(ttl=300)
+def load_full_profiles():
+    """Load full profile data - only call when needed for detailed views."""
+    all_profiles_file = RESULTS_DIR / "all_profiles.json"
+    if all_profiles_file.exists():
+        try:
+            with open(all_profiles_file, 'r', encoding='utf-8') as f:
+                profiles_data = json.load(f)
+            return profiles_data.get('profiles', []) if isinstance(profiles_data, dict) else profiles_data
+        except Exception:
+            pass
+    return []
+
+
+@st.cache_data(ttl=300)
+def load_match_data():
+    """Load match/bracket data - only call when needed for bracket views."""
+    all_matches_file = RESULTS_DIR / "all_matches.json"
+    if all_matches_file.exists():
+        try:
+            with open(all_matches_file, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return {'events': [], 'all_matches': []}
 
 
 def parse_country_rankings(raw_rankings):
@@ -298,61 +334,9 @@ def parse_country_rankings(raw_rankings):
     return fixed
 
 
-@st.cache_data(ttl=300)
 def load_athlete_profiles():
-    """Load all athlete profiles - tries multiple sources for speed."""
-    # 1. Try all_profiles.json first (consolidated file - fastest for cloud)
-    all_profiles_file = RESULTS_DIR / "all_profiles.json"
-    if all_profiles_file.exists():
-        try:
-            with open(all_profiles_file, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-            profiles = data.get('profiles', []) if isinstance(data, dict) else data
-            if profiles:
-                return profiles
-        except Exception as e:
-            st.error(f"Error loading all_profiles.json: {e}")
-
-    # 2. Try pickle cache (fast for local)
-    cache_file = BASE_DIR / "Cache" / "profiles_cache.pkl"
-    if cache_file.exists():
-        try:
-            import pickle
-            with open(cache_file, 'rb') as f:
-                cache = pickle.load(f)
-            return cache.get('profiles', [])
-        except Exception:
-            pass
-
-    # 3. Fallback to loading individual JSON files from Profiles/
-    profiles = []
-    if PROFILES_DIR.exists():
-        for profile_file in PROFILES_DIR.glob("*.json"):
-            try:
-                with open(profile_file, 'r', encoding='utf-8') as f:
-                    profile = json.load(f)
-                    # Handle both single profile and list of profiles
-                    if isinstance(profile, list):
-                        profiles.extend(profile)
-                    else:
-                        profiles.append(profile)
-            except Exception:
-                continue
-
-    # 4. Try country-level profile files (athlete_profiles_*.json)
-    if not profiles and PROFILES_DIR.exists():
-        for profile_file in PROFILES_DIR.glob("athlete_profiles_*.json"):
-            try:
-                with open(profile_file, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    if isinstance(data, list):
-                        profiles.extend(data)
-                    elif isinstance(data, dict) and 'profiles' in data:
-                        profiles.extend(data['profiles'])
-            except Exception:
-                continue
-
-    return profiles
+    """Load all athlete profiles - wrapper for load_full_profiles with caching."""
+    return load_full_profiles()
 
 
 def fuzzy_name_match(name1, name2, country1=None, country2=None):
