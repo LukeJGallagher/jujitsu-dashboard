@@ -2761,9 +2761,9 @@ def render_world_top_20_page():
 
 
 def render_visual_bracket(bracket_data):
-    """Render visual tournament bracket with rounds and matches."""
+    """Render visual tournament bracket with rounds like sportdata.org."""
     st.markdown("### Visual Tournament Bracket")
-    st.markdown("View full bracket progression with rounds and match results")
+    st.markdown("View brackets by round - select an event and category to see the full bracket progression")
 
     # Use the bracket_data passed in (from all_matches.json) which has full match data
     events = bracket_data.get('events', [])
@@ -2805,78 +2805,258 @@ def render_visual_bracket(bracket_data):
     if not selected_cat:
         return
 
-    # Display bracket info
-    rounds = selected_cat.get('rounds', [])
-    matches = selected_cat.get('matches', [])
-    athletes = selected_cat.get('athletes', [])
+    # Get matches for this category
+    cat_matches = selected_cat.get('matches', [])
+    cat_rounds = selected_cat.get('rounds', [])
 
-    col1, col2, col3 = st.columns(3)
-    with col1:
-        st.metric("Rounds", len(rounds))
-    with col2:
-        st.metric("Matches", len(matches))
-    with col3:
-        st.metric("Athletes", len(athletes))
-
-    if not matches:
-        # Fallback to competitor list if no match data
-        competitors = selected_cat.get('competitors', [])
-        if competitors:
-            st.markdown(f"**{len(competitors)} Competitors:**")
-            for i, comp in enumerate(competitors, 1):
-                name = comp.get('name', 'Unknown')
-                country = comp.get('country', '')
-                st.markdown(f"{i}. {name} ({country})")
-        else:
-            st.info("No match data available for this category.")
+    if not cat_matches:
+        st.info("No match data available for this category.")
         return
 
+    # CSS for tournament bracket with progression lines
+    st.markdown("""
+    <style>
+    /* Tournament Bracket Container */
+    .bracket-container {
+        display: flex;
+        flex-direction: row;
+        overflow-x: auto;
+        padding: 20px 0;
+        gap: 0;
+    }
+    .bracket-round {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        min-width: 220px;
+        position: relative;
+    }
+    .bracket-round-title {
+        text-align: center;
+        font-weight: bold;
+        color: #006c35;
+        padding: 8px;
+        background: linear-gradient(90deg, #e8f5e9 0%, #fff 100%);
+        border-radius: 4px;
+        margin-bottom: 15px;
+        font-size: 12px;
+        text-transform: uppercase;
+    }
+    /* Match Box */
+    .bracket-match {
+        background: white;
+        border: 2px solid #dee2e6;
+        border-radius: 6px;
+        margin: 8px 5px;
+        position: relative;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+    }
+    .bracket-match.has-winner {
+        border-color: #28a745;
+    }
+    .bracket-match.saudi-match {
+        border-color: #006c35;
+        border-width: 3px;
+    }
+    /* Athlete in bracket */
+    .bracket-athlete {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 6px 10px;
+        font-size: 11px;
+        border-bottom: 1px solid #eee;
+        min-height: 32px;
+    }
+    .bracket-athlete:last-child {
+        border-bottom: none;
+    }
+    .bracket-athlete.red {
+        border-left: 3px solid #dc3545;
+    }
+    .bracket-athlete.blue {
+        border-left: 3px solid #0d6efd;
+    }
+    .bracket-athlete.winner {
+        background: linear-gradient(90deg, #d4edda 0%, #fff 100%);
+        font-weight: bold;
+    }
+    .bracket-athlete.saudi {
+        background: linear-gradient(90deg, rgba(0,108,53,0.2) 0%, rgba(255,255,255,0.8) 100%);
+    }
+    .bracket-athlete.winner.saudi {
+        background: linear-gradient(90deg, #006c35 0%, #28a745 100%);
+        color: white;
+    }
+    .bracket-name {
+        flex: 1;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 140px;
+    }
+    .bracket-country {
+        color: #6c757d;
+        font-size: 9px;
+        margin-left: 4px;
+    }
+    .bracket-score {
+        font-weight: bold;
+        min-width: 24px;
+        text-align: center;
+        padding: 2px 6px;
+        border-radius: 3px;
+        background: #f8f9fa;
+        font-size: 12px;
+    }
+    .bracket-athlete.winner .bracket-score {
+        background: #28a745;
+        color: white;
+    }
+    /* Winner indicator */
+    .winner-arrow {
+        color: #28a745;
+        font-size: 14px;
+        margin-left: 5px;
+    }
+    /* Final result */
+    .final-result {
+        background: linear-gradient(135deg, #ffd700 0%, #ffed4a 100%);
+        border: 3px solid #ffc107;
+        text-align: center;
+        padding: 15px;
+        border-radius: 8px;
+        margin: 10px;
+    }
+    .final-result .champion {
+        font-size: 16px;
+        font-weight: bold;
+        color: #212529;
+    }
+    .final-result .medal {
+        font-size: 24px;
+    }
+    </style>
+    """, unsafe_allow_html=True)
+
     # Group matches by round
-    matches_by_round = {}
-    for match in matches:
+    rounds_dict = {}
+    for match in cat_matches:
         round_name = match.get('round', 'Unknown Round')
-        if round_name not in matches_by_round:
-            matches_by_round[round_name] = []
-        matches_by_round[round_name].append(match)
+        if round_name not in rounds_dict:
+            rounds_dict[round_name] = []
+        rounds_dict[round_name].append(match)
 
-    # Display each round
-    for round_name in rounds:
-        round_matches = matches_by_round.get(round_name, [])
-        if not round_matches:
-            continue
+    # Display info
+    st.info(f"**{len(cat_matches)} matches** across **{len(rounds_dict)} rounds**")
 
-        st.markdown(f"#### {round_name}")
+    # Define round order (progression from early rounds to final)
+    round_order = [
+        "Round 1", "Round 2", "Round of 16", "Round of 8",
+        "Quarter-Final", "Quarter-Finals", "Quarterfinal",
+        "Semi-Final", "Semi-Finals", "Semifinal",
+        "Bronze Match", "3rd Place", "Bronze",
+        "Final", "Gold Medal Match"
+    ]
 
-        for match in round_matches:
-            red = match.get('red_corner') or {}
-            blue = match.get('blue_corner') or {}
-            winner = match.get('winner', '')
+    # Sort rounds by tournament progression
+    def get_round_order(rname):
+        rname_lower = rname.lower()
+        for i, r in enumerate(round_order):
+            if r.lower() in rname_lower or rname_lower in r.lower():
+                return i
+        if 'pool' in rname_lower or 'round' in rname_lower:
+            nums = re.findall(r'\d+', rname)
+            if nums:
+                return int(nums[-1])
+        return 50
 
-            red_name = red.get('name', 'BYE') or 'BYE'
-            red_country = red.get('country', '') or ''
-            red_score = red.get('score')
+    sorted_rounds = sorted(rounds_dict.keys(), key=get_round_order)
 
-            blue_name = blue.get('name', 'BYE') or 'BYE'
-            blue_country = blue.get('country', '') or ''
-            blue_score = blue.get('score')
+    # Build horizontal bracket view with columns for each round
+    num_rounds = len(sorted_rounds)
+    if num_rounds > 0:
+        cols = st.columns(num_rounds)
 
-            # Determine winner styling
-            red_win = winner and winner == red_name
-            blue_win = winner and winner == blue_name
+        for col_idx, round_name in enumerate(sorted_rounds):
+            with cols[col_idx]:
+                round_matches = rounds_dict[round_name]
 
-            # Format scores
-            red_score_str = f"[{red_score}]" if red_score is not None else ""
-            blue_score_str = f"[{blue_score}]" if blue_score is not None else ""
+                # Round header
+                st.markdown(f'<div class="bracket-round-title">{round_name}</div>', unsafe_allow_html=True)
 
-            # Create match display with winner highlight
-            red_style = "**" if red_win else ""
-            blue_style = "**" if blue_win else ""
+                # Each match in this round
+                for match in round_matches:
+                    red = match.get('red_corner') or {}
+                    blue = match.get('blue_corner') or {}
+                    winner = match.get('winner', '')
 
-            winner_icon = " 🏆" if red_win else ""
-            st.markdown(f"{red_style}🔴 {red_name} ({red_country}) {red_score_str}{winner_icon}{red_style}")
+                    # Match container classes
+                    match_classes = ["bracket-match"]
+                    if winner:
+                        match_classes.append("has-winner")
+                    if red.get('country') in ['KSA', 'SAU'] or blue.get('country') in ['KSA', 'SAU']:
+                        match_classes.append("saudi-match")
 
-            winner_icon = " 🏆" if blue_win else ""
-            st.markdown(f"{blue_style}🔵 {blue_name} ({blue_country}) {blue_score_str}{winner_icon}{blue_style}")
+                    # Red corner classes
+                    red_classes = ["bracket-athlete", "red"]
+                    if winner and winner == red.get('name'):
+                        red_classes.append("winner")
+                    if red.get('country') in ['KSA', 'SAU', 'Saudi Arabia']:
+                        red_classes.append("saudi")
+
+                    # Blue corner classes
+                    blue_classes = ["bracket-athlete", "blue"]
+                    if winner and winner == blue.get('name'):
+                        blue_classes.append("winner")
+                    if blue.get('country') in ['KSA', 'SAU', 'Saudi Arabia']:
+                        blue_classes.append("saudi")
+
+                    red_name = red.get('name', 'BYE') or 'BYE'
+                    blue_name = blue.get('name', 'BYE') or 'BYE'
+                    red_score = red.get('score', '-') if red.get('score') is not None else '-'
+                    blue_score = blue.get('score', '-') if blue.get('score') is not None else '-'
+
+                    # Winner arrow indicator
+                    red_arrow = ' ➜' if winner and winner == red.get('name') else ''
+                    blue_arrow = ' ➜' if winner and winner == blue.get('name') else ''
+
+                    st.markdown(f"""
+                    <div class="{' '.join(match_classes)}">
+                        <div class="{' '.join(red_classes)}">
+                            <span class="bracket-name">{red_name}<span class="bracket-country">{red.get('country', '')}</span></span>
+                            <span class="bracket-score">{red_score}</span>
+                            <span class="winner-arrow">{red_arrow}</span>
+                        </div>
+                        <div class="{' '.join(blue_classes)}">
+                            <span class="bracket-name">{blue_name}<span class="bracket-country">{blue.get('country', '')}</span></span>
+                            <span class="bracket-score">{blue_score}</span>
+                            <span class="winner-arrow">{blue_arrow}</span>
+                        </div>
+                    </div>
+                    """, unsafe_allow_html=True)
+
+                # Show final winner at end of bracket
+                if 'final' in round_name.lower() and round_matches:
+                    final_match = round_matches[-1]
+                    champion = final_match.get('winner', '')
+                    champion_country = final_match.get('winner_country', '')
+                    if not champion_country:
+                        # Try to get country from winner's corner
+                        if champion == final_match.get('red_corner', {}).get('name'):
+                            champion_country = final_match.get('red_corner', {}).get('country', '')
+                        elif champion == final_match.get('blue_corner', {}).get('name'):
+                            champion_country = final_match.get('blue_corner', {}).get('country', '')
+                    if champion:
+                        is_saudi = champion_country in ['KSA', 'SAU']
+                        medal_color = '#006c35' if is_saudi else '#ffc107'
+                        st.markdown(f"""
+                        <div class="final-result" style="border-color: {medal_color};">
+                            <div class="medal">🥇</div>
+                            <div class="champion">{champion}</div>
+                            <div style="color: #666; font-size: 12px;">{champion_country}</div>
+                        </div>
+                        """, unsafe_allow_html=True)
 
             st.markdown("---")
 
