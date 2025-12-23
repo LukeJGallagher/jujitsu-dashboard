@@ -204,30 +204,77 @@ st.markdown(TEAM_SAUDI_CSS, unsafe_allow_html=True)
 # =============================================================================
 @st.cache_data(ttl=60)
 def load_latest_data():
-    """Load the most recent JJIF scrape data."""
-    # First try all_matches.json (consolidated data)
+    """Load the most recent JJIF scrape data combining matches and profiles."""
+    data = {
+        'athletes': [],
+        'athletes_by_country': {},
+        'country_rankings': [],
+        'events': [],
+        'all_matches': [],
+        '_file': 'combined'
+    }
+
+    # Load matches data
     all_matches_file = RESULTS_DIR / "all_matches.json"
     if all_matches_file.exists():
-        with open(all_matches_file, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-        data['_file'] = all_matches_file.name
-        return data
+        try:
+            with open(all_matches_file, 'r', encoding='utf-8') as f:
+                matches_data = json.load(f)
+            data['events'] = matches_data.get('events', [])
+            data['all_matches'] = matches_data.get('all_matches', [])
+            data['total_matches'] = matches_data.get('total_matches', 0)
+            data['_file'] = all_matches_file.name
+        except Exception:
+            pass
 
-    # Fallback to legacy jjif_*.json files
-    json_files = list(RESULTS_DIR.glob("jjif_full_scrape_*.json"))
-    if not json_files:
-        json_files = list(RESULTS_DIR.glob("jjif_*.json"))
+    # Load profiles data and convert to athletes format
+    all_profiles_file = RESULTS_DIR / "all_profiles.json"
+    if all_profiles_file.exists():
+        try:
+            with open(all_profiles_file, 'r', encoding='utf-8') as f:
+                profiles_data = json.load(f)
+            profiles = profiles_data.get('profiles', []) if isinstance(profiles_data, dict) else profiles_data
 
-    if not json_files:
-        return None
+            # Convert profiles to athletes format for overview
+            athletes = []
+            athletes_by_country = {}
+            for p in profiles:
+                country = p.get('country_code', 'UNK')
+                athletes.append({
+                    'name': p.get('name', ''),
+                    'country': p.get('country', ''),
+                    'country_code': country,
+                    'profile_id': p.get('profile_id', ''),
+                    'categories': p.get('categories', []),
+                    'medal_summary': p.get('medal_summary', {}),
+                    'overall_stats': p.get('overall_stats', {})
+                })
+                athletes_by_country[country] = athletes_by_country.get(country, 0) + 1
 
-    latest_file = max(json_files, key=lambda x: x.stat().st_mtime)
+            data['athletes'] = athletes
+            data['athletes_by_country'] = athletes_by_country
+            data['countries_scraped'] = len(athletes_by_country)
+            data['timestamp'] = profiles_data.get('scraped_at', '') if isinstance(profiles_data, dict) else ''
+        except Exception:
+            pass
 
-    with open(latest_file, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    # Fallback to legacy jjif_*.json files if no data loaded
+    if not data['athletes']:
+        json_files = list(RESULTS_DIR.glob("jjif_full_scrape_*.json"))
+        if not json_files:
+            json_files = list(RESULTS_DIR.glob("jjif_*.json"))
 
-    data['_file'] = latest_file.name
-    return data
+        if json_files:
+            latest_file = max(json_files, key=lambda x: x.stat().st_mtime)
+            try:
+                with open(latest_file, 'r', encoding='utf-8') as f:
+                    legacy_data = json.load(f)
+                data.update(legacy_data)
+                data['_file'] = latest_file.name
+            except Exception:
+                pass
+
+    return data if (data['athletes'] or data['events']) else None
 
 
 def parse_country_rankings(raw_rankings):
