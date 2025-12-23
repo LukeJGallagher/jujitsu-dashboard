@@ -263,8 +263,8 @@ def load_athlete_profiles():
             profiles = data.get('profiles', []) if isinstance(data, dict) else data
             if profiles:
                 return profiles
-        except Exception:
-            pass
+        except Exception as e:
+            st.error(f"Error loading all_profiles.json: {e}")
 
     # 2. Try pickle cache (fast for local)
     cache_file = BASE_DIR / "Cache" / "profiles_cache.pkl"
