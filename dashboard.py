@@ -3494,9 +3494,16 @@ def render_event_brackets():
         total_categories = sum(len(e.get('categories', [])) for e in bracket_data['events'])
         st.metric("Categories", total_categories)
     with col4:
-        saudi_data = bracket_data.get('saudi_matches', {})
-        saudi_count = saudi_data.get('total_matches', 0) if saudi_data else 0
-        st.metric("Saudi Matches", saudi_count)
+        # Count Saudi matches from actual match data
+        saudi_match_count = 0
+        for event in bracket_data.get('events', []):
+            for cat in event.get('categories', []):
+                for match in cat.get('matches', []):
+                    red = match.get('red_corner') or {}
+                    blue = match.get('blue_corner') or {}
+                    if red.get('country') in ['KSA', 'SAU'] or blue.get('country') in ['KSA', 'SAU']:
+                        saudi_match_count += 1
+        st.metric("Saudi Matches", saudi_match_count)
 
     st.markdown("---")
 
@@ -3573,77 +3580,133 @@ def render_event_brackets():
     with tab3:
         st.markdown("### Saudi Athlete Matches")
 
-        saudi_data = bracket_data.get('saudi_matches', {})
-        if not saudi_data:
+        # Build Saudi match data from bracket data
+        saudi_athletes = {}
+        saudi_all_matches = []
+
+        for event in bracket_data.get('events', []):
+            event_name = event.get('event_name', 'Unknown Event')
+            for cat in event.get('categories', []):
+                category_name = cat.get('category', '')
+                for match in cat.get('matches', []):
+                    red = match.get('red_corner') or {}
+                    blue = match.get('blue_corner') or {}
+                    winner = match.get('winner', '')
+
+                    red_country = red.get('country', '')
+                    blue_country = blue.get('country', '')
+
+                    saudi_athlete = None
+                    opponent = None
+                    is_red = False
+
+                    if red_country in ['KSA', 'SAU']:
+                        saudi_athlete = red.get('name', '')
+                        opponent = blue
+                        is_red = True
+                    elif blue_country in ['KSA', 'SAU']:
+                        saudi_athlete = blue.get('name', '')
+                        opponent = red
+                        is_red = False
+
+                    if saudi_athlete:
+                        # Determine win/loss
+                        saudi_won = winner == saudi_athlete
+
+                        # Build match record
+                        match_record = {
+                            'event': event_name,
+                            'category': category_name,
+                            'round': match.get('round', ''),
+                            'opponent': opponent.get('name', 'Unknown'),
+                            'opponent_country': opponent.get('country', ''),
+                            'saudi_score': red.get('score') if is_red else blue.get('score'),
+                            'opponent_score': blue.get('score') if is_red else red.get('score'),
+                            'result': 'WIN' if saudi_won else 'LOSS' if winner else 'DRAW',
+                            'winner': winner
+                        }
+
+                        saudi_all_matches.append(match_record)
+
+                        # Track by athlete
+                        if saudi_athlete not in saudi_athletes:
+                            saudi_athletes[saudi_athlete] = {'wins': 0, 'losses': 0, 'matches': []}
+
+                        saudi_athletes[saudi_athlete]['matches'].append(match_record)
+                        if saudi_won:
+                            saudi_athletes[saudi_athlete]['wins'] += 1
+                        elif winner:
+                            saudi_athletes[saudi_athlete]['losses'] += 1
+
+        if not saudi_athletes:
             st.info("No Saudi matches found in bracket data.")
         else:
-            athletes = saudi_data.get('athletes', {})
+            # Summary stats
+            total_wins = sum(a['wins'] for a in saudi_athletes.values())
+            total_losses = sum(a['losses'] for a in saudi_athletes.values())
+            total_matches = len(saudi_all_matches)
 
-            if not athletes:
-                st.info("No Saudi athletes found in match data.")
-            else:
-                # Summary table
-                st.markdown("#### Saudi Athletes Performance")
-                athlete_stats = []
-                for name, data in athletes.items():
-                    athlete_stats.append({
-                        'Athlete': name,
-                        'Wins': data.get('wins', 0),
-                        'Losses': data.get('losses', 0),
-                        'Total': len(data.get('matches', [])),
-                        'Win Rate': f"{data.get('wins', 0) / max(len(data.get('matches', [])), 1) * 100:.0f}%"
-                    })
+            col1, col2, col3, col4 = st.columns(4)
+            with col1:
+                st.metric("Total Matches", total_matches)
+            with col2:
+                st.metric("Wins", total_wins)
+            with col3:
+                st.metric("Losses", total_losses)
+            with col4:
+                win_rate = (total_wins / total_matches * 100) if total_matches > 0 else 0
+                st.metric("Win Rate", f"{win_rate:.1f}%")
 
-                if athlete_stats:
-                    df_saudi = pd.DataFrame(athlete_stats)
-                    df_saudi = df_saudi.sort_values('Wins', ascending=False)
-                    st.dataframe(df_saudi, use_container_width=True, hide_index=True)
+            # Summary table
+            st.markdown("#### Saudi Athletes Performance")
+            athlete_stats = []
+            for name, data in saudi_athletes.items():
+                total = len(data['matches'])
+                athlete_stats.append({
+                    'Athlete': name,
+                    'Wins': data['wins'],
+                    'Losses': data['losses'],
+                    'Total': total,
+                    'Win Rate': f"{data['wins'] / max(total, 1) * 100:.0f}%"
+                })
 
-                # Individual athlete matches
-                st.markdown("#### Match Details")
-                selected_athlete = st.selectbox("Select Saudi Athlete", list(athletes.keys()))
+            if athlete_stats:
+                df_saudi = pd.DataFrame(athlete_stats)
+                df_saudi = df_saudi.sort_values('Wins', ascending=False)
+                st.dataframe(df_saudi, use_container_width=True, hide_index=True)
 
-                if selected_athlete:
-                    athlete_data = athletes.get(selected_athlete, {})
-                    matches = athlete_data.get('matches', [])
+            # Individual athlete matches
+            st.markdown("#### Match Details")
+            selected_athlete = st.selectbox("Select Saudi Athlete", sorted(saudi_athletes.keys()))
 
-                    st.markdown(f"**{selected_athlete}** - {athlete_data.get('wins', 0)}W / {athlete_data.get('losses', 0)}L")
+            if selected_athlete:
+                athlete_data = saudi_athletes.get(selected_athlete, {})
+                matches = athlete_data.get('matches', [])
 
-                    for match in matches:
-                        red = match.get('red') or {}
-                        blue = match.get('blue') or {}
-                        winner = match.get('winner', '')
-                        winner_country = match.get('winner_country', '')
+                st.markdown(f"**{selected_athlete}** - {athlete_data.get('wins', 0)}W / {athlete_data.get('losses', 0)}L")
 
-                        # Determine if Saudi won
-                        saudi_won = winner_country == 'KSA'
-                        result_color = "#006C35" if saudi_won else "#dc3545"
-                        result_text = "WIN" if saudi_won else "LOSS" if winner else "DRAW"
+                for match in matches:
+                    result = match.get('result', '')
+                    result_color = "#006C35" if result == 'WIN' else "#dc3545" if result == 'LOSS' else "#666"
 
-                        # Determine opponent
-                        if red.get('country') == 'KSA':
-                            opponent = blue
-                        else:
-                            opponent = red
-
-                        st.markdown(f"""
-                        <div style="padding: 12px; margin: 8px 0; background: white; border-radius: 8px;
-                                    border-left: 4px solid {result_color}; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-                            <div style="display: flex; justify-content: space-between; align-items: center;">
-                                <div>
-                                    <strong>{match.get('event', 'Unknown Event')}</strong><br>
-                                    <small style="color: #666;">{match.get('category', '')} - {match.get('round', '')}</small>
-                                </div>
-                                <div style="text-align: right;">
-                                    <span style="font-weight: bold; color: {result_color};">{result_text}</span><br>
-                                    <small>vs {opponent.get('name', 'Unknown')} ({opponent.get('country', '')})</small>
-                                </div>
+                    st.markdown(f"""
+                    <div style="padding: 12px; margin: 8px 0; background: white; border-radius: 8px;
+                                border-left: 4px solid {result_color}; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                            <div>
+                                <strong>{match.get('event', 'Unknown Event')}</strong><br>
+                                <small style="color: #666;">{match.get('category', '')} - {match.get('round', '')}</small>
                             </div>
-                            <div style="margin-top: 8px; color: #666;">
-                                Score: {red.get('score', '-')} - {blue.get('score', '-')}
+                            <div style="text-align: right;">
+                                <span style="font-weight: bold; color: {result_color};">{result}</span><br>
+                                <small>vs {match.get('opponent', 'Unknown')} ({match.get('opponent_country', '')})</small>
                             </div>
                         </div>
-                        """, unsafe_allow_html=True)
+                        <div style="margin-top: 8px; color: #666;">
+                            Score: {match.get('saudi_score', '-')} - {match.get('opponent_score', '-')}
+                        </div>
+                    </div>
+                    """, unsafe_allow_html=True)
 
     with tab4:
         st.markdown("### Search Athlete Matches")
